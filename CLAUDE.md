@@ -15,7 +15,7 @@ Public repo. Single-page Preact app: flip cards (cue cards) for the Goethe-Zerti
 
 Read `PRODUCT.md` (users, principles, anti-references) and `DESIGN.md` (visual system) before any UI work. Phone-first, one-handed, short sessions.
 
-Status: scaffolded and deployed. Tests not written yet.
+Status: scaffolded and deployed.
 
 ## Stack
 
@@ -29,6 +29,7 @@ Status: scaffolded and deployed. Tests not written yet.
 - `npm run dev` — dev server
 - `npm run build` — production build to `dist/`
 - `npm run preview` — serve the build locally
+- `npm test` — vitest (jsdom); single file: `npx vitest run tests/app.test.jsx`, single test: `-t "<name>"`
 - Deploy: build, then force-push `dist/` (with `.nojekyll`) to the `gh-pages` branch. Live at https://games.aakkagam.com/goethe-a1-flipkards/ (org custom domain). No Actions workflow yet: the gh token lacks `workflow` scope.
 - Regenerate vocab: `node scripts/merge-words.mjs <dir-of-chunk-N.json>` → `src/data/words.json`
 
