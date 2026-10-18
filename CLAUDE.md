@@ -31,7 +31,7 @@ Status: scaffolded and deployed.
 - `npm run preview` — serve the build locally
 - `npm test` — vitest (jsdom); single file: `npx vitest run tests/app.test.jsx`, single test: `-t "<name>"`
 - Deploy: build, then force-push `dist/` (with `.nojekyll`) to the `gh-pages` branch. Live at https://games.aakkagam.com/goethe-a1-flipkards/ (org custom domain). No Actions workflow yet: the gh token lacks `workflow` scope.
-- Regenerate vocab: `node scripts/merge-words.mjs <dir-of-chunk-N.json>` → `src/data/words.json`
+- Regenerate vocab: `node scripts/merge-words.mjs` (reads `data/raw/`, applies `data/overrides.json` and `data/plurals-added.json`) → `src/data/words.json`
 
 ## Data pipeline
 
@@ -39,7 +39,10 @@ Vocab is generated once, offline, and committed:
 
 1. Extract entries from the Goethe PDF (word, article, plural, word class, the PDF's own example sentence where present).
 2. Enrich with a **Haiku subagent** (`Agent` tool, `model: "haiku"`): English meaning, a sample sentence if the PDF lacks one, and the English translation of the sentence. Batch words per agent call; do not use the Claude API from the app.
-3. Write the result to a single JSON file the app imports (e.g. `src/data/words.json`), one object per word:
-   `{ id, de, article, plural, meaning, example_de, example_en }`.
+3. Raw Haiku output per chunk lives in `data/raw/chunk-N.json` (0 = word-group list, 1..6 = alphabetical). `scripts/merge-words.mjs` merges them into `src/data/words.json`, one object per word:
+   `{ id, de, article, plural, meaning, example_de, example_en, plural_added? }`.
+   - Fix data in `data/overrides.json` (keyed by `de`, `null` drops a word), never by hand-editing `words.json`.
+   - `data/plurals-added.json` holds plurals the Goethe list omits (Haiku-generated); merged entries get `plural_added: true`.
+   - `id` is derived from `de` only (case kept). It keys saved progress in localStorage, so don't change the slug rule.
 
 Review Haiku output for wrong articles/translations before committing; the PDF is the source of truth for German forms.

@@ -72,7 +72,7 @@ describe('App', () => {
     expect(screen.getByText(/1 \/ 1/)).toBeTruthy();
     expect(front()).toBe(second.de);
     fireEvent.click(screen.getByText('Know it'));
-    expect(screen.getByText('Batch done')).toBeTruthy();
+    expect(screen.getByRole('heading', { name: 'Batch done' })).toBeTruthy();
   });
 
   it('empty review deck says so', () => {
@@ -85,9 +85,55 @@ describe('App', () => {
     fireEvent.click(screen.getByText('Options'));
     fireEvent.click(screen.getByText('Reset progress'));
     expect(saved().status[first.id]).toBe('known');
-    fireEvent.click(screen.getByText('Tap again to clear all progress'));
+    fireEvent.click(screen.getByText('Clear all progress'));
     expect(saved().status).toEqual({});
     expect(front()).toBe(first.de);
+  });
+
+  it('new batches skip cards marked "not yet"', () => {
+    setup({ order: 'az', status: { [first.id]: 'unknown' } });
+    expect(front()).toBe(second.de);
+  });
+
+  it('ignores key auto-repeat', () => {
+    setup();
+    fireEvent.keyDown(window, { key: 'ArrowRight', repeat: true });
+    expect(saved().status[first.id]).toBeUndefined();
+  });
+
+  it('tapping the active order keeps the current card', () => {
+    setup();
+    fireEvent.click(screen.getByText('Know it'));
+    fireEvent.click(screen.getByText('Options'));
+    fireEvent.click(screen.getByText('List order'));
+    expect(screen.getByText(/2 \/ 20/)).toBeTruthy();
+  });
+
+  it('switching batch during the exit animation cancels the pending mark', () => {
+    window.matchMedia = vi.fn(() => ({ matches: false }));
+    vi.useFakeTimers();
+    setup();
+    fireEvent.click(screen.getByText('Know it'));
+    fireEvent.click(screen.getByText('Options'));
+    fireEvent.click(screen.getByText('Shuffled'));
+    vi.advanceTimersByTime(1000);
+    vi.useRealTimers();
+    expect(saved().status[first.id]).toBeUndefined();
+    expect(screen.getByText(/1 \/ 20/)).toBeTruthy();
+  });
+
+  it('reset can be cancelled', () => {
+    setup({ order: 'az', status: { [first.id]: 'known' } });
+    fireEvent.click(screen.getByText('Options'));
+    fireEvent.click(screen.getByText('Reset progress'));
+    fireEvent.click(screen.getByText('Cancel'));
+    expect(saved().status[first.id]).toBe('known');
+  });
+
+  it('drops invalid stored state', () => {
+    setup({ deck: 'bogus', order: 'az', status: { [first.id]: 'maybe' } });
+    expect(front()).toBe(first.de);
+    expect(screen.getByText(/1 \/ 20/)).toBeTruthy();
   });
 
   it('still works when localStorage throws', () => {

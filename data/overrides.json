@@ -1,0 +1,8 @@
+{
+  "Türkei": { "article": "die" },
+  "Euro": { "article": "der", "plural": "Euro" },
+  "Cent": { "article": "der", "plural": "Cent" },
+  "Kilometer": { "article": "der", "plural": "Kilometer" },
+  "Grad": { "meaning": "degree (temperature)" },
+  "Grad (Celsius)": null
+}

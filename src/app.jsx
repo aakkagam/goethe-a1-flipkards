@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useState } from 'preact/hooks';
+import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
 import words from './data/words.json';
 import { load, save } from './store.js';
 import { Card } from './card.jsx';
 
 const BATCH = 20;
+const EXIT_MS = 260;
 const byId = new Map(words.map((w) => [w.id, w]));
 const reducedMotion = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
 
@@ -16,10 +17,16 @@ function shuffled(list) {
   return a;
 }
 
-// deck 'learn' = everything not yet known; 'review' = only cards marked "not yet".
+// deck 'learn' = cards never marked; 'review' = only cards marked "not yet".
 function poolFor(status, deck) {
-  return words.filter((w) => (deck === 'review' ? status[w.id] === 'unknown' : status[w.id] !== 'known'));
+  return words.filter((w) => (deck === 'review' ? status[w.id] === 'unknown' : !status[w.id]));
 }
+
+// Mouse/touch clicks leave focus on the button, so a later Space/Enter would press it again.
+const blurOnPointer = (fn) => (e) => {
+  if (e.detail) e.currentTarget.blur();
+  fn(e);
+};
 
 function makeBatch(status, deck, order) {
   const pool = poolFor(status, deck);
@@ -28,9 +35,9 @@ function makeBatch(status, deck, order) {
 
 export function App() {
   const [saved] = useState(load);
-  const [status, setStatus] = useState(saved.status ?? {});
-  const [deck, setDeck] = useState(saved.deck ?? 'learn');
-  const [order, setOrder] = useState(saved.order ?? 'shuffle');
+  const [status, setStatus] = useState(saved.status);
+  const [deck, setDeck] = useState(saved.deck);
+  const [order, setOrder] = useState(saved.order);
   const [batch, setBatch] = useState(() => makeBatch(status, deck, order));
   const [pos, setPos] = useState(0);
   const [history, setHistory] = useState([]);
@@ -39,8 +46,15 @@ export function App() {
   const [exit, setExit] = useState(null);
   const [menu, setMenu] = useState(false);
   const [confirmReset, setConfirmReset] = useState(false);
+  const exitTimer = useRef();
 
   useEffect(() => save({ status, deck, order }), [status, deck, order]);
+
+  useEffect(() => {
+    if (!confirmReset) return;
+    const t = setTimeout(() => setConfirmReset(false), 4000);
+    return () => clearTimeout(t);
+  }, [confirmReset]);
 
   const { known, learning } = useMemo(() => {
     let known = 0;
@@ -63,6 +77,7 @@ export function App() {
   }
 
   function startBatch(nextDeck = deck, nextOrder = order, nextStatus = status) {
+    clearTimeout(exitTimer.current);
     setBatch(makeBatch(nextStatus, nextDeck, nextOrder));
     setPos(0);
     setHistory([]);
@@ -81,7 +96,7 @@ export function App() {
     if (done || exit) return;
     if (reducedMotion()) return commit(result);
     setExit(result);
-    setTimeout(() => commit(result), 220);
+    exitTimer.current = setTimeout(() => commit(result), EXIT_MS);
   }
 
   function undo() {
@@ -99,17 +114,18 @@ export function App() {
   }
 
   function chooseDeck(d) {
+    if (d === deck && !done) return;
     setDeck(d);
     startBatch(d);
   }
 
   function chooseOrder(o) {
+    if (o === order) return;
     setOrder(o);
     startBatch(deck, o);
   }
 
   function reset() {
-    if (!confirmReset) return setConfirmReset(true);
     setConfirmReset(false);
     setStatus({});
     setDeck('learn');
@@ -118,7 +134,7 @@ export function App() {
 
   useEffect(() => {
     function onKey(e) {
-      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.metaKey || e.ctrlKey || e.altKey || e.repeat) return;
       if (e.key === 'Escape') return setMenu(false);
       const onControl = e.target.closest?.('button, input, select, textarea');
       const k = e.key.toLowerCase();
@@ -147,19 +163,19 @@ export function App() {
       <header class="top">
         <p class="tally">
           <strong>{known}</strong> of {words.length} known
-          {learning > 0 && <span> · {learning} learning</span>}
+          {learning > 0 && <span> · {learning} not yet</span>}
         </p>
         <button
           class="options-btn"
           type="button"
           aria-expanded={menu}
           aria-controls="options"
-          onClick={() => {
+          onClick={blurOnPointer(() => {
             setMenu((m) => !m);
             setConfirmReset(false);
-          }}
+          })}
         >
-          {menu ? 'Done' : 'Options'}
+          Options
         </button>
       </header>
       <div class="meter" aria-hidden="true">
@@ -171,30 +187,47 @@ export function App() {
           <div class="opt">
             <span class="opt-label" id="deck-label">Cards</span>
             <div class="seg" role="group" aria-labelledby="deck-label">
-              <button type="button" aria-pressed={deck === 'learn'} onClick={() => chooseDeck('learn')}>
-                All not known
+              <button type="button" aria-pressed={deck === 'learn'} onClick={blurOnPointer(() => chooseDeck('learn'))}>
+                New cards
               </button>
-              <button type="button" aria-pressed={deck === 'review'} onClick={() => chooseDeck('review')}>
-                Learning ({learning})
+              <button type="button" aria-pressed={deck === 'review'} onClick={blurOnPointer(() => chooseDeck('review'))}>
+                Not yet ({learning})
               </button>
             </div>
           </div>
           <div class="opt">
             <span class="opt-label" id="order-label">Order</span>
             <div class="seg" role="group" aria-labelledby="order-label">
-              <button type="button" aria-pressed={order === 'shuffle'} onClick={() => chooseOrder('shuffle')}>
+              <button type="button" aria-pressed={order === 'shuffle'} onClick={blurOnPointer(() => chooseOrder('shuffle'))}>
                 Shuffled
               </button>
-              <button type="button" aria-pressed={order === 'az'} onClick={() => chooseOrder('az')}>
+              <button type="button" aria-pressed={order === 'az'} onClick={blurOnPointer(() => chooseOrder('az'))}>
                 List order
               </button>
             </div>
           </div>
-          <button class={`reset${confirmReset ? ' confirm' : ''}`} type="button" onClick={reset}>
-            {confirmReset ? 'Tap again to clear all progress' : 'Reset progress'}
-          </button>
+          {confirmReset ? (
+            <div class="reset-confirm" role="group" aria-label="Clear all progress?">
+              <button class="reset" type="button" onClick={() => setConfirmReset(false)}>
+                Cancel
+              </button>
+              <button class="reset danger" type="button" onClick={reset}>
+                Clear all progress
+              </button>
+            </div>
+          ) : (
+            <button class="reset" type="button" onClick={() => setConfirmReset(true)}>
+              Reset progress
+            </button>
+          )}
         </section>
       )}
+
+      <p class="sr-only" role="status">
+        {word
+          ? `Card ${pos + 1} of ${batch.length}: ${word.article ? `${word.article} ` : ''}${word.de}${flipped ? `. ${word.meaning}` : ''}`
+          : 'Batch done'}
+      </p>
 
       <main class="stage">
         {word ? (
@@ -232,24 +265,24 @@ export function App() {
       <footer class="controls">
         {word && (
           <div class="row">
-            <button class="btn ghost" type="button" onClick={() => mark('unknown')}>
+            <button class="btn ghost" type="button" onClick={blurOnPointer(() => mark('unknown'))}>
               <Arrow dir="left" /> Not yet
             </button>
             <button
               class="btn flip"
               type="button"
               aria-label={flipped ? 'Show front' : 'Flip card'}
-              onClick={() => setFlipped((f) => !f)}
+              onClick={blurOnPointer(() => setFlipped((f) => !f))}
             >
               <FlipIcon />
             </button>
-            <button class="btn solid" type="button" onClick={() => mark('known')}>
+            <button class="btn solid" type="button" onClick={blurOnPointer(() => mark('known'))}>
               Know it <Arrow dir="right" />
             </button>
           </div>
         )}
         <div class="sub">
-          <button class="link" type="button" disabled={!history.length} onClick={undo}>
+          <button class="link" type="button" disabled={!history.length} onClick={blurOnPointer(undo)}>
             Undo
           </button>
           <span class="keys">Space flip · ← → mark · T translation · U undo</span>
@@ -267,6 +300,17 @@ function Done({ batchSize, batchKnown, batchLearning, deck, learning, poolLeft, 
         <p>No cards are marked "not yet".</p>
         <div class="actions">
           <button class="btn solid" type="button" onClick={onLearn}>Back to new cards</button>
+        </div>
+      </div>
+    );
+  }
+  if (batchSize === 0 && learning > 0) {
+    return (
+      <div class="done">
+        <h2>No new cards left</h2>
+        <p>{learning} cards are still marked "not yet".</p>
+        <div class="actions">
+          <button class="btn solid" type="button" onClick={onReview}>Review not yet ({learning})</button>
         </div>
       </div>
     );
@@ -293,7 +337,7 @@ function Done({ batchSize, batchKnown, batchLearning, deck, learning, poolLeft, 
         )}
         {deck === 'learn' && learning > 0 && (
           <button class="btn ghost" type="button" onClick={onReview}>
-            Review learning ({learning})
+            Review not yet ({learning})
           </button>
         )}
         {deck === 'review' && (

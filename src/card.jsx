@@ -8,7 +8,7 @@ export function Card({ word, flipped, showTr, exit, onFlip, onReveal, onSwipe })
   const start = useRef(null);
 
   function down(e) {
-    if (exit) return;
+    if (exit || e.button > 0 || !e.isPrimary) return;
     start.current = { x: e.clientX, moved: false };
     e.currentTarget.setPointerCapture(e.pointerId);
   }
@@ -81,22 +81,21 @@ export function Card({ word, flipped, showTr, exit, onFlip, onReveal, onSwipe })
           <p class="meaning">{word.meaning}</p>
           <div class="example-block">
             <p class="example" lang="de">{word.example_de}</p>
-            {showTr ? (
-              <p class="translation">{word.example_en}</p>
-            ) : (
-              <button
-                class="reveal"
-                type="button"
-                onPointerDown={stop}
-                onClick={(e) => {
-                  stop(e);
-                  onReveal();
-                }}
-              >
-                Show translation
-              </button>
-            )}
+            {showTr && <p class="translation">{word.example_en}</p>}
           </div>
+          {!showTr && (
+            <button
+              class="reveal"
+              type="button"
+              onPointerDown={stop}
+              onClick={(e) => {
+                stop(e);
+                onReveal();
+              }}
+            >
+              Show translation
+            </button>
+          )}
         </section>
       </div>
 
