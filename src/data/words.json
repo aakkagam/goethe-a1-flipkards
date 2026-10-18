@@ -1,0 +1,7202 @@
+[
+ {
+  "id": "ab",
+  "de": "ab",
+  "article": null,
+  "plural": null,
+  "meaning": "from, starting",
+  "example_de": "Ab morgen muss ich arbeiten.",
+  "example_en": "I have to work starting tomorrow."
+ },
+ {
+  "id": "aber",
+  "de": "aber",
+  "article": null,
+  "plural": null,
+  "meaning": "but",
+  "example_de": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+  "example_en": "I am often in the office, but only for a few hours."
+ },
+ {
+  "id": "abfahren",
+  "de": "abfahren",
+  "article": null,
+  "plural": null,
+  "meaning": "to depart",
+  "example_de": "Wir fahren um zwölf Uhr ab.",
+  "example_en": "We leave at twelve o'clock."
+ },
+ {
+  "id": "die-abfahrt",
+  "de": "Abfahrt",
+  "article": "die",
+  "plural": null,
+  "meaning": "departure",
+  "example_de": "Vor der Abfahrt rufe ich an.",
+  "example_en": "I will call before departure."
+ },
+ {
+  "id": "abgeben",
+  "de": "abgeben",
+  "article": null,
+  "plural": null,
+  "meaning": "to hand in",
+  "example_de": "Ich muss meine Schlüssel abgeben.",
+  "example_en": "I have to hand in my keys."
+ },
+ {
+  "id": "abholen",
+  "de": "abholen",
+  "article": null,
+  "plural": null,
+  "meaning": "to pick up",
+  "example_de": "Wann kann ich den Schrank bei dir abholen?",
+  "example_en": "When can I pick up the cupboard from you?"
+ },
+ {
+  "id": "der-absender",
+  "de": "Absender",
+  "article": "der",
+  "plural": null,
+  "meaning": "sender",
+  "example_de": "Da ist ein Brief für dich ohne Absender.",
+  "example_en": "There is a letter for you without a sender."
+ },
+ {
+  "id": "achtung",
+  "de": "Achtung",
+  "article": null,
+  "plural": null,
+  "meaning": "attention, caution",
+  "example_de": "Achtung! Das dürfen Sie nicht tun.",
+  "example_en": "Attention! You must not do that."
+ },
+ {
+  "id": "die-adresse",
+  "de": "Adresse",
+  "article": "die",
+  "plural": "Adressen",
+  "meaning": "address",
+  "example_de": "Können Sie mir seine Adresse sagen?",
+  "example_en": "Can you tell me his address?"
+ },
+ {
+  "id": "all",
+  "de": "all-",
+  "article": null,
+  "plural": null,
+  "meaning": "all",
+  "example_de": "Alles Gute!",
+  "example_en": "All the best!"
+ },
+ {
+  "id": "allein",
+  "de": "allein",
+  "article": null,
+  "plural": null,
+  "meaning": "alone",
+  "example_de": "Er kommt allein.",
+  "example_en": "He is coming alone."
+ },
+ {
+  "id": "also",
+  "de": "also",
+  "article": null,
+  "plural": null,
+  "meaning": "so, therefore",
+  "example_de": "Also, es ist so: ...",
+  "example_en": "So, it is like this: ..."
+ },
+ {
+  "id": "alt",
+  "de": "alt",
+  "article": null,
+  "plural": null,
+  "meaning": "old",
+  "example_de": "Wie alt sind Sie?",
+  "example_en": "How old are you?"
+ },
+ {
+  "id": "das-alter",
+  "de": "Alter",
+  "article": "das",
+  "plural": null,
+  "meaning": "age",
+  "example_de": "Alter: 26 Jahre.",
+  "example_en": "Age: 26 years."
+ },
+ {
+  "id": "an",
+  "de": "an",
+  "article": null,
+  "plural": null,
+  "meaning": "at, on, to",
+  "example_de": "Fahren Sie an der nächsten Straße nach rechts.",
+  "example_en": "Turn right at the next street."
+ },
+ {
+  "id": "anbieten",
+  "de": "anbieten",
+  "article": null,
+  "plural": null,
+  "meaning": "to offer",
+  "example_de": "Was darf ich dir anbieten?",
+  "example_en": "What may I offer you?"
+ },
+ {
+  "id": "das-angebot",
+  "de": "Angebot",
+  "article": "das",
+  "plural": "Angebote",
+  "meaning": "offer",
+  "example_de": "Heute sind Sportschuhe im Angebot.",
+  "example_en": "Sports shoes are on offer today."
+ },
+ {
+  "id": "ander",
+  "de": "ander-",
+  "article": null,
+  "plural": null,
+  "meaning": "other",
+  "example_de": "Willst du diese Jacke? – Nein, ich möchte die andere.",
+  "example_en": "Do you want this jacket? – No, I would like the other one."
+ },
+ {
+  "id": "anfangen",
+  "de": "anfangen",
+  "article": null,
+  "plural": null,
+  "meaning": "to begin",
+  "example_de": "Hier fängt die Bahnhofstraße an.",
+  "example_en": "The Bahnhofstraße starts here."
+ },
+ {
+  "id": "der-anfang",
+  "de": "Anfang",
+  "article": "der",
+  "plural": null,
+  "meaning": "beginning",
+  "example_de": "Sie wohnt am Anfang der Straße.",
+  "example_en": "She lives at the beginning of the street."
+ },
+ {
+  "id": "anklicken",
+  "de": "anklicken",
+  "article": null,
+  "plural": null,
+  "meaning": "to click on",
+  "example_de": "Da musst du dieses Wort anklicken.",
+  "example_en": "There you have to click on this word."
+ },
+ {
+  "id": "ankommen",
+  "de": "ankommen",
+  "article": null,
+  "plural": null,
+  "meaning": "to arrive",
+  "example_de": "Wann kommt dieser Zug in Hamburg an?",
+  "example_en": "When does this train arrive in Hamburg?"
+ },
+ {
+  "id": "die-ankunft",
+  "de": "Ankunft",
+  "article": "die",
+  "plural": null,
+  "meaning": "arrival",
+  "example_de": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.",
+  "example_en": "This timetable only shows the arrival (time) of the trains."
+ },
+ {
+  "id": "ankreuzen",
+  "de": "ankreuzen",
+  "article": null,
+  "plural": null,
+  "meaning": "to tick",
+  "example_de": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
+  "example_en": "On the form you have to tick something in several places."
+ },
+ {
+  "id": "anmachen",
+  "de": "anmachen",
+  "article": null,
+  "plural": null,
+  "meaning": "to switch on",
+  "example_de": "Mach bitte das Licht an!",
+  "example_en": "Please switch the light on!"
+ },
+ {
+  "id": "sich-anmelden",
+  "de": "(sich) anmelden",
+  "article": null,
+  "plural": null,
+  "meaning": "to register",
+  "example_de": "Wo kann ich mich anmelden?",
+  "example_en": "Where can I register?"
+ },
+ {
+  "id": "die-anmeldung",
+  "de": "Anmeldung",
+  "article": "die",
+  "plural": null,
+  "meaning": "registration",
+  "example_de": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich.",
+  "example_en": "Registration for this course is no longer possible."
+ },
+ {
+  "id": "die-anrede",
+  "de": "Anrede",
+  "article": "die",
+  "plural": null,
+  "meaning": "salutation",
+  "example_de": "Schreiben Sie auch eine Anrede und einen Gruß.",
+  "example_en": "Also write a salutation and a closing greeting."
+ },
+ {
+  "id": "anrufen",
+  "de": "anrufen",
+  "article": null,
+  "plural": null,
+  "meaning": "to call",
+  "example_de": "Kann man Sie anrufen?",
+  "example_en": "Can we call you?"
+ },
+ {
+  "id": "der-anruf",
+  "de": "Anruf",
+  "article": "der",
+  "plural": "Anrufe",
+  "meaning": "phone call",
+  "example_de": "Sie bekommt viele Anrufe auf ihrem Handy.",
+  "example_en": "She gets many calls on her mobile phone."
+ },
+ {
+  "id": "der-anrufbeantworter",
+  "de": "Anrufbeantworter",
+  "article": "der",
+  "plural": null,
+  "meaning": "answering machine",
+  "example_de": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.",
+  "example_en": "We are not here at the moment. Please leave a message on the answering machine."
+ },
+ {
+  "id": "die-ansage",
+  "de": "Ansage",
+  "article": "die",
+  "plural": "Ansagen",
+  "meaning": "announcement",
+  "example_de": "Hören Sie die Ansagen.",
+  "example_en": "Listen to the announcements."
+ },
+ {
+  "id": "der-anschluss",
+  "de": "Anschluss",
+  "article": "der",
+  "plural": null,
+  "meaning": "connection",
+  "example_de": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+  "example_en": "In Mannheim you have a connection to Saarbrücken."
+ },
+ {
+  "id": "an-sein",
+  "de": "an sein",
+  "article": null,
+  "plural": null,
+  "meaning": "to be on",
+  "example_de": "Heute Nacht war das Licht an.",
+  "example_en": "The light was on last night."
+ },
+ {
+  "id": "antworten",
+  "de": "antworten",
+  "article": null,
+  "plural": null,
+  "meaning": "to answer",
+  "example_de": "Er antwortet nicht.",
+  "example_en": "He does not answer."
+ },
+ {
+  "id": "die-antwort",
+  "de": "Antwort",
+  "article": "die",
+  "plural": "Antworten",
+  "meaning": "answer",
+  "example_de": "Er gibt leider keine Antwort.",
+  "example_en": "Unfortunately he does not give an answer."
+ },
+ {
+  "id": "die-anzeige",
+  "de": "Anzeige",
+  "article": "die",
+  "plural": "Anzeigen",
+  "meaning": "advertisement",
+  "example_de": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+  "example_en": "I read your advertisement in the newspaper."
+ },
+ {
+  "id": "sich-anziehen",
+  "de": "(sich) anziehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get dressed",
+  "example_de": "Ich muss mich noch anziehen.",
+  "example_en": "I still have to get dressed."
+ },
+ {
+  "id": "das-apartment",
+  "de": "Apartment",
+  "article": "das",
+  "plural": "Apartments",
+  "meaning": "apartment",
+  "example_de": "Wir haben ein Apartment gemietet.",
+  "example_en": "We have rented an apartment."
+ },
+ {
+  "id": "der-apfel",
+  "de": "Apfel",
+  "article": "der",
+  "plural": "Äpfel",
+  "meaning": "apple",
+  "example_de": "Ein Pfund Äpfel bitte.",
+  "example_en": "A pound of apples, please."
+ },
+ {
+  "id": "der-appetit",
+  "de": "Appetit",
+  "article": "der",
+  "plural": null,
+  "meaning": "appetite",
+  "example_de": "Guten Appetit!",
+  "example_en": "Enjoy your meal!"
+ },
+ {
+  "id": "arbeiten",
+  "de": "arbeiten",
+  "article": null,
+  "plural": null,
+  "meaning": "to work",
+  "example_de": "Wo arbeiten Sie?",
+  "example_en": "Where do you work?"
+ },
+ {
+  "id": "die-arbeit",
+  "de": "Arbeit",
+  "article": "die",
+  "plural": "Arbeiten",
+  "meaning": "work",
+  "example_de": "Mein Bruder sucht Arbeit.",
+  "example_en": "My brother is looking for work."
+ },
+ {
+  "id": "arbeitslos",
+  "de": "arbeitslos",
+  "article": null,
+  "plural": null,
+  "meaning": "unemployed",
+  "example_de": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+  "example_en": "There are many people here who have been unemployed for a long time."
+ },
+ {
+  "id": "der-arbeitsplatz",
+  "de": "Arbeitsplatz",
+  "article": "der",
+  "plural": "Arbeitsplätze",
+  "meaning": "workplace",
+  "example_de": "An meinem Arbeitsplatz fehlt ein Drucker.",
+  "example_en": "There is a printer missing at my workplace."
+ },
+ {
+  "id": "der-arm",
+  "de": "Arm",
+  "article": "der",
+  "plural": "Arme",
+  "meaning": "arm",
+  "example_de": "Mein Arm tut weh.",
+  "example_en": "My arm hurts."
+ },
+ {
+  "id": "der-arzt",
+  "de": "Arzt",
+  "article": "der",
+  "plural": "Ärzte",
+  "meaning": "doctor",
+  "example_de": "Morgen habe ich einen Termin bei meiner Ärztin.",
+  "example_en": "Tomorrow I have an appointment with my doctor."
+ },
+ {
+  "id": "auch",
+  "de": "auch",
+  "article": null,
+  "plural": null,
+  "meaning": "also, too",
+  "example_de": "Ich bin auch Spanier.",
+  "example_en": "I am Spanish too."
+ },
+ {
+  "id": "auf",
+  "de": "auf",
+  "article": null,
+  "plural": null,
+  "meaning": "on, at",
+  "example_de": "Die Kinder spielen auf der Straße.",
+  "example_en": "The children play on the street."
+ },
+ {
+  "id": "die-aufgabe",
+  "de": "Aufgabe",
+  "article": "die",
+  "plural": "Aufgaben",
+  "meaning": "task",
+  "example_de": "Das ist eine schwere Aufgabe.",
+  "example_en": "That is a difficult task."
+ },
+ {
+  "id": "aufhoeren",
+  "de": "aufhören",
+  "article": null,
+  "plural": null,
+  "meaning": "to stop, to end",
+  "example_de": "Der Kurs hört in einer Woche auf.",
+  "example_en": "The course ends in a week."
+ },
+ {
+  "id": "auf-sein",
+  "de": "auf sein",
+  "article": null,
+  "plural": null,
+  "meaning": "to be open",
+  "example_de": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf.",
+  "example_en": "You do not need the key. The apartment is open."
+ },
+ {
+  "id": "aufstehen",
+  "de": "aufstehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get up",
+  "example_de": "Ich muss immer um vier Uhr aufstehen.",
+  "example_en": "I always have to get up at four o'clock."
+ },
+ {
+  "id": "der-aufzug",
+  "de": "Aufzug",
+  "article": "der",
+  "plural": "Aufzüge",
+  "meaning": "elevator",
+  "example_de": "In diesem Haus gibt es keinen Aufzug.",
+  "example_en": "There is no elevator in this building."
+ },
+ {
+  "id": "das-auge",
+  "de": "Auge",
+  "article": "das",
+  "plural": "Augen",
+  "meaning": "eye",
+  "example_de": "Er hat blaue Augen.",
+  "example_en": "He has blue eyes."
+ },
+ {
+  "id": "aus",
+  "de": "aus",
+  "article": null,
+  "plural": null,
+  "meaning": "from, out of",
+  "example_de": "Er kommt aus Brasilien.",
+  "example_en": "He comes from Brazil."
+ },
+ {
+  "id": "der-ausflug",
+  "de": "Ausflug",
+  "article": "der",
+  "plural": null,
+  "meaning": "trip, excursion",
+  "example_de": "Morgen machen wir einen Ausflug nach Heidelberg.",
+  "example_en": "Tomorrow we are going on a trip to Heidelberg."
+ },
+ {
+  "id": "ausfuellen",
+  "de": "ausfüllen",
+  "article": null,
+  "plural": null,
+  "meaning": "to fill out",
+  "example_de": "Füllen Sie bitte dieses Formular aus.",
+  "example_en": "Please fill out this form."
+ },
+ {
+  "id": "der-ausgang",
+  "de": "Ausgang",
+  "article": "der",
+  "plural": null,
+  "meaning": "exit",
+  "example_de": "Wo ist der Ausgang?",
+  "example_en": "Where is the exit?"
+ },
+ {
+  "id": "die-auskunft",
+  "de": "Auskunft",
+  "article": "die",
+  "plural": "Auskünfte",
+  "meaning": "information",
+  "example_de": "Können Sie mir eine Auskunft geben?",
+  "example_en": "Can you give me some information?"
+ },
+ {
+  "id": "das-ausland",
+  "de": "Ausland",
+  "article": "das",
+  "plural": null,
+  "meaning": "abroad",
+  "example_de": "Fahren Sie ins Ausland?",
+  "example_en": "Are you going abroad?"
+ },
+ {
+  "id": "der-auslaender",
+  "de": "Ausländer",
+  "article": "der",
+  "plural": "Ausländer",
+  "meaning": "foreigner",
+  "example_de": "Sind Sie Ausländerin?",
+  "example_en": "Are you a foreigner?"
+ },
+ {
+  "id": "auslaendisch",
+  "de": "ausländisch",
+  "article": null,
+  "plural": null,
+  "meaning": "foreign",
+  "example_de": "Leider habe ich nur ausländisches Geld.",
+  "example_en": "Unfortunately I only have foreign money."
+ },
+ {
+  "id": "ausmachen",
+  "de": "ausmachen",
+  "article": null,
+  "plural": null,
+  "meaning": "to switch off",
+  "example_de": "Mach bitte das Licht aus!",
+  "example_en": "Please switch the light off!"
+ },
+ {
+  "id": "die-aussage",
+  "de": "Aussage",
+  "article": "die",
+  "plural": "Aussagen",
+  "meaning": "statement",
+  "example_de": "Ist die Aussage richtig oder falsch?",
+  "example_en": "Is the statement right or wrong?"
+ },
+ {
+  "id": "aussehen",
+  "de": "aussehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to look",
+  "example_de": "Das sieht schön aus.",
+  "example_en": "That looks nice."
+ },
+ {
+  "id": "aus-sein",
+  "de": "aus sein",
+  "article": null,
+  "plural": null,
+  "meaning": "to be off",
+  "example_de": "Das Licht ist aus.",
+  "example_en": "The light is off."
+ },
+ {
+  "id": "aussteigen",
+  "de": "aussteigen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get off",
+  "example_de": "Wo muss ich aussteigen?",
+  "example_en": "Where do I have to get off?"
+ },
+ {
+  "id": "der-ausweis",
+  "de": "Ausweis",
+  "article": "der",
+  "plural": null,
+  "meaning": "ID card",
+  "example_de": "Hier ist mein Ausweis.",
+  "example_en": "Here is my ID card."
+ },
+ {
+  "id": "sich-ausziehen",
+  "de": "(sich) ausziehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to take off",
+  "example_de": "Zieh die Schuhe aus, bitte!",
+  "example_en": "Please take off your shoes!"
+ },
+ {
+  "id": "das-auto",
+  "de": "Auto",
+  "article": "das",
+  "plural": "Autos",
+  "meaning": "car",
+  "example_de": "Er kommt mit dem Auto.",
+  "example_en": "He comes by car."
+ },
+ {
+  "id": "die-autobahn",
+  "de": "Autobahn",
+  "article": "die",
+  "plural": "Autobahnen",
+  "meaning": "highway",
+  "example_de": "Wo geht's hier bitte zur Autobahn?",
+  "example_en": "Where is the way to the highway, please?"
+ },
+ {
+  "id": "der-automat",
+  "de": "Automat",
+  "article": "der",
+  "plural": null,
+  "meaning": "vending machine",
+  "example_de": "Die Fahrkarten gibt es nur am Automaten.",
+  "example_en": "Tickets are only available at the machines."
+ },
+ {
+  "id": "automatisch",
+  "de": "automatisch",
+  "article": null,
+  "plural": null,
+  "meaning": "automatic",
+  "example_de": "Du musst nichts machen. Das geht automatisch.",
+  "example_en": "You do not have to do anything. It works automatically."
+ },
+ {
+  "id": "das-baby",
+  "de": "Baby",
+  "article": "das",
+  "plural": "Babys",
+  "meaning": "baby",
+  "example_de": "Mein Kind ist noch ein Baby.",
+  "example_en": "My child is still a baby."
+ },
+ {
+  "id": "die-baeckerei",
+  "de": "Bäckerei",
+  "article": "die",
+  "plural": null,
+  "meaning": "bakery",
+  "example_de": "Ich geh mal schnell zur Bäckerei.",
+  "example_en": "I'll quickly go to the bakery."
+ },
+ {
+  "id": "das-bad",
+  "de": "Bad",
+  "article": "das",
+  "plural": null,
+  "meaning": "bathroom",
+  "example_de": "Wir haben kein großes Bad.",
+  "example_en": "We do not have a big bathroom."
+ },
+ {
+  "id": "baden",
+  "de": "baden",
+  "article": null,
+  "plural": null,
+  "meaning": "to bathe",
+  "example_de": "Ich bade nicht so gern, ich dusche lieber.",
+  "example_en": "I do not like bathing so much, I prefer showering."
+ },
+ {
+  "id": "die-bahn",
+  "de": "Bahn",
+  "article": "die",
+  "plural": null,
+  "meaning": "train",
+  "example_de": "Wir fahren lieber mit der Bahn.",
+  "example_en": "We prefer to travel by train."
+ },
+ {
+  "id": "der-bahnhof",
+  "de": "Bahnhof",
+  "article": "der",
+  "plural": null,
+  "meaning": "train station",
+  "example_de": "Komme ich hier zum Bahnhof?",
+  "example_en": "Is this the way to the train station?"
+ },
+ {
+  "id": "der-bahnsteig",
+  "de": "Bahnsteig",
+  "article": "der",
+  "plural": null,
+  "meaning": "platform",
+  "example_de": "Auf welchem Bahnsteig fährt der Zug?",
+  "example_en": "Which platform does the train leave from?"
+ },
+ {
+  "id": "bald",
+  "de": "bald",
+  "article": null,
+  "plural": null,
+  "meaning": "soon",
+  "example_de": "Ich komme bald.",
+  "example_en": "I am coming soon."
+ },
+ {
+  "id": "der-balkon",
+  "de": "Balkon",
+  "article": "der",
+  "plural": null,
+  "meaning": "balcony",
+  "example_de": "Die Wohnung hat auch einen kleinen Balkon.",
+  "example_en": "The apartment also has a small balcony."
+ },
+ {
+  "id": "die-banane",
+  "de": "Banane",
+  "article": "die",
+  "plural": "Bananen",
+  "meaning": "banana",
+  "example_de": "Drei Bananen, bitte!",
+  "example_en": "Three bananas, please!"
+ },
+ {
+  "id": "die-bank",
+  "de": "Bank",
+  "article": "die",
+  "plural": null,
+  "meaning": "bank",
+  "example_de": "Die Bank schließt schon um vier Uhr.",
+  "example_en": "The bank closes at four o'clock."
+ },
+ {
+  "id": "bar",
+  "de": "bar",
+  "article": null,
+  "plural": null,
+  "meaning": "in cash",
+  "example_de": "Muss ich bar zahlen oder geht's auch mit Karte?",
+  "example_en": "Do I have to pay in cash, or can I also pay by card?"
+ },
+ {
+  "id": "der-bauch",
+  "de": "Bauch",
+  "article": "der",
+  "plural": null,
+  "meaning": "stomach",
+  "example_de": "Seit gestern tut mir der Bauch weh.",
+  "example_en": "My stomach has hurt since yesterday."
+ },
+ {
+  "id": "der-baum",
+  "de": "Baum",
+  "article": "der",
+  "plural": "Bäume",
+  "meaning": "tree",
+  "example_de": "Vorsicht, fahr nicht an den Baum!",
+  "example_en": "Careful, do not drive into the tree!"
+ },
+ {
+  "id": "der-beamte",
+  "de": "Beamte",
+  "article": "der",
+  "plural": "Beamten",
+  "meaning": "civil servant, official",
+  "example_de": "Fragen Sie die Beamtin an Schalter acht!",
+  "example_en": "Ask the official at counter eight!"
+ },
+ {
+  "id": "bedeuten",
+  "de": "bedeuten",
+  "article": null,
+  "plural": null,
+  "meaning": "to mean",
+  "example_de": "Was bedeutet das Wort?",
+  "example_en": "What does the word mean?"
+ },
+ {
+  "id": "beginnen",
+  "de": "beginnen",
+  "article": null,
+  "plural": null,
+  "meaning": "to begin",
+  "example_de": "Das Spiel beginnt um 15.30 Uhr.",
+  "example_en": "The game starts at 3:30 p.m."
+ },
+ {
+  "id": "bei",
+  "de": "bei",
+  "article": null,
+  "plural": null,
+  "meaning": "at, near, with",
+  "example_de": "Offenbach liegt bei Frankfurt.",
+  "example_en": "Offenbach is near Frankfurt."
+ },
+ {
+  "id": "beide",
+  "de": "beide",
+  "article": null,
+  "plural": null,
+  "meaning": "both",
+  "example_de": "Beide Eltern arbeiten.",
+  "example_en": "Both parents work."
+ },
+ {
+  "id": "das-bein",
+  "de": "Bein",
+  "article": "das",
+  "plural": "Beine",
+  "meaning": "leg",
+  "example_de": "Mein rechtes Bein tut weh.",
+  "example_en": "My right leg hurts."
+ },
+ {
+  "id": "das-beispiel",
+  "de": "Beispiel",
+  "article": "das",
+  "plural": "Beispiele",
+  "meaning": "example",
+  "example_de": "Kannst du mir ein Beispiel sagen?",
+  "example_en": "Can you tell me an example?"
+ },
+ {
+  "id": "zum-beispiel-z-b",
+  "de": "zum Beispiel/z. B.",
+  "article": null,
+  "plural": null,
+  "meaning": "for example",
+  "example_de": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.",
+  "example_en": "Many of my relatives, for example my two brothers, also work here."
+ },
+ {
+  "id": "bekannt",
+  "de": "bekannt",
+  "article": null,
+  "plural": null,
+  "meaning": "known, famous",
+  "example_de": "Picasso ist sehr bekannt.",
+  "example_en": "Picasso is very well known."
+ },
+ {
+  "id": "der-bekannte",
+  "de": "Bekannte",
+  "article": "der",
+  "plural": "Bekannten",
+  "meaning": "acquaintance",
+  "example_de": "Ein Bekannter von mir heißt Klaus.",
+  "example_en": "An acquaintance of mine is called Klaus."
+ },
+ {
+  "id": "bekommen",
+  "de": "bekommen",
+  "article": null,
+  "plural": null,
+  "meaning": "to receive",
+  "example_de": "Haben Sie meinen Brief bekommen?",
+  "example_en": "Did you receive my letter?"
+ },
+ {
+  "id": "benutzen",
+  "de": "benutzen",
+  "article": null,
+  "plural": null,
+  "meaning": "to use",
+  "example_de": "Die Aufzüge bitte nicht benutzen!",
+  "example_en": "Please do not use the elevators!"
+ },
+ {
+  "id": "der-beruf",
+  "de": "Beruf",
+  "article": "der",
+  "plural": "Berufe",
+  "meaning": "profession",
+  "example_de": "Was sind Sie von Beruf?",
+  "example_en": "What is your profession?"
+ },
+ {
+  "id": "besetzt",
+  "de": "besetzt",
+  "article": null,
+  "plural": null,
+  "meaning": "occupied, busy",
+  "example_de": "Die Nummer ist immer besetzt.",
+  "example_en": "The number is always busy."
+ },
+ {
+  "id": "besichtigen",
+  "de": "besichtigen",
+  "article": null,
+  "plural": null,
+  "meaning": "to visit, to tour",
+  "example_de": "Ich möchte gern den Dom besichtigen.",
+  "example_en": "I would like to visit the cathedral."
+ },
+ {
+  "id": "besser",
+  "de": "besser",
+  "article": null,
+  "plural": null,
+  "meaning": "better",
+  "example_de": "Es geht mir schon besser.",
+  "example_en": "I am already feeling better."
+ },
+ {
+  "id": "best",
+  "de": "best-",
+  "article": null,
+  "plural": null,
+  "meaning": "best",
+  "example_de": "Am besten treffen wir uns morgen.",
+  "example_en": "It is best if we meet tomorrow."
+ },
+ {
+  "id": "bestellen",
+  "de": "bestellen",
+  "article": null,
+  "plural": null,
+  "meaning": "to order",
+  "example_de": "Wir möchten bestellen, bitte.",
+  "example_en": "We would like to order, please."
+ },
+ {
+  "id": "besuchen",
+  "de": "besuchen",
+  "article": null,
+  "plural": null,
+  "meaning": "to visit",
+  "example_de": "Darf ich dich besuchen?",
+  "example_en": "May I visit you?"
+ },
+ {
+  "id": "das-bett",
+  "de": "Bett",
+  "article": "das",
+  "plural": "Betten",
+  "meaning": "bed",
+  "example_de": "Wir brauchen noch ein Kinderbett.",
+  "example_en": "We still need a children's bed."
+ },
+ {
+  "id": "bezahlen",
+  "de": "bezahlen",
+  "article": null,
+  "plural": null,
+  "meaning": "to pay",
+  "example_de": "Wo muss ich bezahlen?",
+  "example_en": "Where do I have to pay?"
+ },
+ {
+  "id": "das-bier",
+  "de": "Bier",
+  "article": "das",
+  "plural": null,
+  "meaning": "beer",
+  "example_de": "Noch ein Bier bitte.",
+  "example_en": "One more beer, please."
+ },
+ {
+  "id": "das-bild",
+  "de": "Bild",
+  "article": "das",
+  "plural": "Bilder",
+  "meaning": "picture",
+  "example_de": "Hast du ein Bild von deinem Sohn?",
+  "example_en": "Do you have a picture of your son?"
+ },
+ {
+  "id": "billig",
+  "de": "billig",
+  "article": null,
+  "plural": null,
+  "meaning": "cheap",
+  "example_de": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+  "example_en": "The jacket costs only 10 euros! It is really cheap!"
+ },
+ {
+  "id": "die-birne",
+  "de": "Birne",
+  "article": "die",
+  "plural": "Birnen",
+  "meaning": "pear",
+  "example_de": "Ein Kilo Birnen, bitte!",
+  "example_en": "One kilo of pears, please!"
+ },
+ {
+  "id": "bis",
+  "de": "bis",
+  "article": null,
+  "plural": null,
+  "meaning": "until",
+  "example_de": "Ich fahre nur bis Stuttgart.",
+  "example_en": "I am only going as far as Stuttgart."
+ },
+ {
+  "id": "bisschen",
+  "de": "bisschen",
+  "article": null,
+  "plural": null,
+  "meaning": "a little",
+  "example_de": "Ich spreche Englisch, Französisch und ein bisschen Deutsch.",
+  "example_en": "I speak English, French and a little German."
+ },
+ {
+  "id": "bitte",
+  "de": "bitte",
+  "article": null,
+  "plural": null,
+  "meaning": "please",
+  "example_de": "Eine Tasse Kaffee, bitte!",
+  "example_en": "A cup of coffee, please!"
+ },
+ {
+  "id": "die-bitte",
+  "de": "Bitte",
+  "article": "die",
+  "plural": "Bitten",
+  "meaning": "request",
+  "example_de": "Ich habe noch eine Bitte.",
+  "example_en": "I have one more request."
+ },
+ {
+  "id": "bitten",
+  "de": "bitten",
+  "article": null,
+  "plural": null,
+  "meaning": "to ask",
+  "example_de": "Darf ich Sie um etwas bitten?",
+  "example_en": "May I ask you for something?"
+ },
+ {
+  "id": "bitter",
+  "de": "bitter",
+  "article": null,
+  "plural": null,
+  "meaning": "bitter",
+  "example_de": "Der Kaffee schmeckt bitter.",
+  "example_en": "The coffee tastes bitter."
+ },
+ {
+  "id": "bleiben",
+  "de": "bleiben",
+  "article": null,
+  "plural": null,
+  "meaning": "to stay",
+  "example_de": "Ich bleibe heute zu Hause.",
+  "example_en": "I am staying at home today."
+ },
+ {
+  "id": "der-bleistift",
+  "de": "Bleistift",
+  "article": "der",
+  "plural": "Bleistifte",
+  "meaning": "pencil",
+  "example_de": "Hast du einen Bleistift?",
+  "example_en": "Do you have a pencil?"
+ },
+ {
+  "id": "der-blick",
+  "de": "Blick",
+  "article": "der",
+  "plural": null,
+  "meaning": "view, glance",
+  "example_de": "Von diesem Hotel hat man einen guten Blick auf den Rhein.",
+  "example_en": "From this hotel you have a good view of the Rhine."
+ },
+ {
+  "id": "die-blume",
+  "de": "Blume",
+  "article": "die",
+  "plural": "Blumen",
+  "meaning": "flower",
+  "example_de": "Gefallen dir die Blumen?",
+  "example_en": "Do you like the flowers?"
+ },
+ {
+  "id": "der-bogen",
+  "de": "Bogen",
+  "article": "der",
+  "plural": null,
+  "meaning": "sheet, bow",
+  "example_de": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+  "example_en": "Please write your answers on the answer sheet."
+ },
+ {
+  "id": "boese",
+  "de": "böse",
+  "article": null,
+  "plural": null,
+  "meaning": "angry",
+  "example_de": "Sie ist böse auf mich.",
+  "example_en": "She is angry with me."
+ },
+ {
+  "id": "brauchen",
+  "de": "brauchen",
+  "article": null,
+  "plural": null,
+  "meaning": "to need",
+  "example_de": "Brauchst du die Zeitung noch?",
+  "example_en": "Do you still need the newspaper?"
+ },
+ {
+  "id": "breit",
+  "de": "breit",
+  "article": null,
+  "plural": null,
+  "meaning": "wide",
+  "example_de": "Wie breit ist der Schrank?",
+  "example_en": "How wide is the wardrobe?"
+ },
+ {
+  "id": "der-brief",
+  "de": "Brief",
+  "article": "der",
+  "plural": "Briefe",
+  "meaning": "letter",
+  "example_de": "Haben Sie einen Brief für mich?",
+  "example_en": "Do you have a letter for me?"
+ },
+ {
+  "id": "die-briefmarke",
+  "de": "Briefmarke",
+  "article": "die",
+  "plural": "Briefmarken",
+  "meaning": "stamp",
+  "example_de": "Kaufst du bitte Briefmarken bei der Post.",
+  "example_en": "Could you please buy stamps at the post office?"
+ },
+ {
+  "id": "bringen",
+  "de": "bringen",
+  "article": null,
+  "plural": null,
+  "meaning": "to bring",
+  "example_de": "Bringen Sie mir bitte noch einen Kaffee!",
+  "example_en": "Please bring me another coffee!"
+ },
+ {
+  "id": "das-brot",
+  "de": "Brot",
+  "article": "das",
+  "plural": "Brote",
+  "meaning": "bread",
+  "example_de": "Haben Sie auch Weißbrot?",
+  "example_en": "Do you also have white bread?"
+ },
+ {
+  "id": "das-broetchen",
+  "de": "Brötchen",
+  "article": "das",
+  "plural": "Brötchen",
+  "meaning": "bread roll",
+  "example_de": "Möchtest du Brötchen zum Frühstück?",
+  "example_en": "Would you like bread rolls for breakfast?"
+ },
+ {
+  "id": "der-bruder",
+  "de": "Bruder",
+  "article": "der",
+  "plural": "Brüder",
+  "meaning": "brother",
+  "example_de": "Sein Bruder arbeitet auch hier.",
+  "example_en": "His brother also works here."
+ },
+ {
+  "id": "das-buch",
+  "de": "Buch",
+  "article": "das",
+  "plural": "Bücher",
+  "meaning": "book",
+  "example_de": "Gute Bücher sind oft sehr teuer.",
+  "example_en": "Good books are often very expensive."
+ },
+ {
+  "id": "der-buchstabe",
+  "de": "Buchstabe",
+  "article": "der",
+  "plural": "Buchstaben",
+  "meaning": "letter (of alphabet)",
+  "example_de": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+  "example_en": "This letter does not exist in my language."
+ },
+ {
+  "id": "buchstabieren",
+  "de": "buchstabieren",
+  "article": null,
+  "plural": null,
+  "meaning": "to spell",
+  "example_de": "Bitte buchstabieren Sie Ihren Namen.",
+  "example_en": "Please spell your name."
+ },
+ {
+  "id": "der-bus",
+  "de": "Bus",
+  "article": "der",
+  "plural": "Busse",
+  "meaning": "bus",
+  "example_de": "Wann kommt der nächste Bus?",
+  "example_en": "When does the next bus come?"
+ },
+ {
+  "id": "die-butter",
+  "de": "Butter",
+  "article": "die",
+  "plural": null,
+  "meaning": "butter",
+  "example_de": "Für mich bitte ein Brötchen mit Butter und Käse.",
+  "example_en": "A bread roll with butter and cheese for me, please."
+ },
+ {
+  "id": "das-caf",
+  "de": "Café",
+  "article": "das",
+  "plural": "Cafés",
+  "meaning": "café",
+  "example_de": "Sollen wir uns im Café treffen?",
+  "example_en": "Shall we meet in the café?"
+ },
+ {
+  "id": "die-cd",
+  "de": "CD",
+  "article": "die",
+  "plural": "CDs",
+  "meaning": "CD",
+  "example_de": "Bring bitte deine Lieblings-CD mit.",
+  "example_en": "Please bring your favourite CD."
+ },
+ {
+  "id": "der-chef",
+  "de": "Chef",
+  "article": "der",
+  "plural": null,
+  "meaning": "boss",
+  "example_de": "Wir haben eine neue Chefin.",
+  "example_en": "We have a new (female) boss."
+ },
+ {
+  "id": "circa-ca",
+  "de": "circa/ca.",
+  "article": null,
+  "plural": null,
+  "meaning": "about, approximately",
+  "example_de": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
+  "example_en": "From Mainz to Frankfurt it is about fifty kilometres."
+ },
+ {
+  "id": "der-computer",
+  "de": "Computer",
+  "article": "der",
+  "plural": "Computer",
+  "meaning": "computer",
+  "example_de": "Wann bekommst du deinen neuen Computer?",
+  "example_en": "When do you get your new computer?"
+ },
+ {
+  "id": "da",
+  "de": "da",
+  "article": null,
+  "plural": null,
+  "meaning": "there, here",
+  "example_de": "Da hinten ist er ja.",
+  "example_en": "There he is, at the back!"
+ },
+ {
+  "id": "die-dame",
+  "de": "Dame",
+  "article": "die",
+  "plural": "Damen",
+  "meaning": "lady",
+  "example_de": "Damen (an der Toilette)",
+  "example_en": "Ladies (restroom)"
+ },
+ {
+  "id": "daneben",
+  "de": "daneben",
+  "article": null,
+  "plural": null,
+  "meaning": "next to it",
+  "example_de": "Du kennst doch die Post. Daneben ist die Bank.",
+  "example_en": "You know the post office. The bank is next to it."
+ },
+ {
+  "id": "danken",
+  "de": "danken",
+  "article": null,
+  "plural": null,
+  "meaning": "to thank",
+  "example_de": "Ich danke Ihnen für die Einladung.",
+  "example_en": "I thank you for the invitation."
+ },
+ {
+  "id": "der-dank",
+  "de": "Dank",
+  "article": "der",
+  "plural": null,
+  "meaning": "thanks",
+  "example_de": "Vielen Dank!",
+  "example_en": "Thank you very much!"
+ },
+ {
+  "id": "danke",
+  "de": "danke",
+  "article": null,
+  "plural": null,
+  "meaning": "thank you",
+  "example_de": "Soll ich Ihnen helfen? – Nein, danke!",
+  "example_en": "Shall I help you? – No, thanks!"
+ },
+ {
+  "id": "dann",
+  "de": "dann",
+  "article": null,
+  "plural": null,
+  "meaning": "then",
+  "example_de": "Ich muss noch schnell zur Post, dann komme ich.",
+  "example_en": "I have to quickly go to the post office, then I will come."
+ },
+ {
+  "id": "das-datum",
+  "de": "Datum",
+  "article": "das",
+  "plural": "Daten",
+  "meaning": "date",
+  "example_de": "Bitte schreiben Sie noch das Datum auf das Formular.",
+  "example_en": "Please also write the date on the form."
+ },
+ {
+  "id": "dauern",
+  "de": "dauern",
+  "article": null,
+  "plural": null,
+  "meaning": "to last",
+  "example_de": "Wie lange dauert der Film?",
+  "example_en": "How long does the film last?"
+ },
+ {
+  "id": "dein",
+  "de": "dein-",
+  "article": null,
+  "plural": null,
+  "meaning": "your",
+  "example_de": "Ist das dein Auto?",
+  "example_en": "Is that your car?"
+ },
+ {
+  "id": "denn",
+  "de": "denn",
+  "article": null,
+  "plural": null,
+  "meaning": "because",
+  "example_de": "Ich kann nicht kommen, denn ich bin krank.",
+  "example_en": "I cannot come, because I am ill."
+ },
+ {
+  "id": "der-die-das",
+  "de": "der, die, das",
+  "article": null,
+  "plural": null,
+  "meaning": "the, that, who",
+  "example_de": "Ich nehme das da.",
+  "example_en": "I'll take that one there."
+ },
+ {
+  "id": "dich",
+  "de": "dich",
+  "article": null,
+  "plural": null,
+  "meaning": "you (accusative)",
+  "example_de": "Die Blumen sind für dich.",
+  "example_en": "The flowers are for you."
+ },
+ {
+  "id": "dies",
+  "de": "dies-",
+  "article": null,
+  "plural": null,
+  "meaning": "this, that",
+  "example_de": "Ich nehme lieber diesen Kuchen.",
+  "example_en": "I would rather take this cake."
+ },
+ {
+  "id": "dir",
+  "de": "dir",
+  "article": null,
+  "plural": null,
+  "meaning": "to you (dative)",
+  "example_de": "Gefallen dir die Blumen?",
+  "example_en": "Do you like the flowers?"
+ },
+ {
+  "id": "die-disco",
+  "de": "Disco",
+  "article": "die",
+  "plural": null,
+  "meaning": "disco",
+  "example_de": "Heute abend gehen wir in die Disco tanzen.",
+  "example_en": "Tonight we are going dancing at the disco."
+ },
+ {
+  "id": "der-doktor",
+  "de": "Doktor",
+  "article": "der",
+  "plural": null,
+  "meaning": "doctor",
+  "example_de": "Meine Tochter ist krank. Wir gehen zum Doktor.",
+  "example_en": "My daughter is ill. We are going to the doctor."
+ },
+ {
+  "id": "das-doppelzimmer",
+  "de": "Doppelzimmer",
+  "article": "das",
+  "plural": null,
+  "meaning": "double room",
+  "example_de": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+  "example_en": "Do you want a double room or a single room?"
+ },
+ {
+  "id": "das-dorf",
+  "de": "Dorf",
+  "article": "das",
+  "plural": "Dörfer",
+  "meaning": "village",
+  "example_de": "Meine Familie lebt in einem Dorf.",
+  "example_en": "My family lives in a village."
+ },
+ {
+  "id": "dort",
+  "de": "dort",
+  "article": null,
+  "plural": null,
+  "meaning": "there",
+  "example_de": "Deine Tasche kannst du dorthin stellen.",
+  "example_en": "You can put your bag there."
+ },
+ {
+  "id": "draussen",
+  "de": "draußen",
+  "article": null,
+  "plural": null,
+  "meaning": "outside",
+  "example_de": "Wollen wir draußen sitzen?",
+  "example_en": "Shall we sit outside?"
+ },
+ {
+  "id": "drucken",
+  "de": "drucken",
+  "article": null,
+  "plural": null,
+  "meaning": "to print",
+  "example_de": "Bitte drucke das Formular für mich.",
+  "example_en": "Please print the form for me."
+ },
+ {
+  "id": "der-drucker",
+  "de": "Drucker",
+  "article": "der",
+  "plural": "Drucker",
+  "meaning": "printer",
+  "example_de": "Mein Drucker ist kaputt.",
+  "example_en": "My printer is broken."
+ },
+ {
+  "id": "druecken",
+  "de": "drücken",
+  "article": null,
+  "plural": null,
+  "meaning": "to press",
+  "example_de": "Drück hier, dann geht der Computer an.",
+  "example_en": "Press here, then the computer turns on."
+ },
+ {
+  "id": "durch",
+  "de": "durch",
+  "article": null,
+  "plural": null,
+  "meaning": "through",
+  "example_de": "Am besten gehen Sie durch die Breite Straße.",
+  "example_en": "The best way is to go through Breite Straße."
+ },
+ {
+  "id": "die-durchsage",
+  "de": "Durchsage",
+  "article": "die",
+  "plural": "Durchsagen",
+  "meaning": "announcement",
+  "example_de": "Ich habe die Durchsage nicht verstanden.",
+  "example_en": "I did not understand the announcement."
+ },
+ {
+  "id": "duerfen",
+  "de": "dürfen",
+  "article": null,
+  "plural": null,
+  "meaning": "to be allowed to",
+  "example_de": "Sie dürfen hier nicht rauchen.",
+  "example_en": "You are not allowed to smoke here."
+ },
+ {
+  "id": "der-durst",
+  "de": "Durst",
+  "article": "der",
+  "plural": null,
+  "meaning": "thirst",
+  "example_de": "Hast du etwas zu trinken? Ich habe großen Durst.",
+  "example_en": "Do you have something to drink? I am very thirsty."
+ },
+ {
+  "id": "sich-duschen",
+  "de": "(sich) duschen",
+  "article": null,
+  "plural": null,
+  "meaning": "to shower",
+  "example_de": "Ich bade nicht so gern, ich dusche lieber.",
+  "example_en": "I don't like bathing so much, I prefer showering."
+ },
+ {
+  "id": "die-dusche",
+  "de": "Dusche",
+  "article": "die",
+  "plural": "Duschen",
+  "meaning": "shower",
+  "example_de": "Unsere Wohnung hat nur eine Dusche.",
+  "example_en": "Our flat has only one shower."
+ },
+ {
+  "id": "die-ecke",
+  "de": "Ecke",
+  "article": "die",
+  "plural": "Ecken",
+  "meaning": "corner",
+  "example_de": "An der nächsten Ecke links.",
+  "example_en": "At the next corner, turn left."
+ },
+ {
+  "id": "die-ehefrau",
+  "de": "Ehefrau",
+  "article": "die",
+  "plural": "Ehefrauen",
+  "meaning": "wife",
+  "example_de": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
+  "example_en": "This is my husband/my wife."
+ },
+ {
+  "id": "der-ehemann",
+  "de": "Ehemann",
+  "article": "der",
+  "plural": "Ehemänner",
+  "meaning": "husband",
+  "example_de": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
+  "example_en": "This is my husband/my wife."
+ },
+ {
+  "id": "das-ei",
+  "de": "Ei",
+  "article": "das",
+  "plural": "Eier",
+  "meaning": "egg",
+  "example_de": "Möchtest du ein Ei zum Frühstück?",
+  "example_en": "Would you like an egg for breakfast?"
+ },
+ {
+  "id": "eilig",
+  "de": "eilig",
+  "article": null,
+  "plural": null,
+  "meaning": "urgent, in a hurry",
+  "example_de": "Hast du es eilig?",
+  "example_en": "Are you in a hurry?"
+ },
+ {
+  "id": "ein",
+  "de": "ein-",
+  "article": null,
+  "plural": null,
+  "meaning": "a, one",
+  "example_de": "Ich nehme ein Bier. Willst du auch eins?",
+  "example_en": "I'll have a beer. Do you want one too?"
+ },
+ {
+  "id": "einfach",
+  "de": "einfach",
+  "article": null,
+  "plural": null,
+  "meaning": "simple, easy",
+  "example_de": "Die Prüfung ist ganz einfach.",
+  "example_en": "The exam is quite easy."
+ },
+ {
+  "id": "der-eingang",
+  "de": "Eingang",
+  "article": "der",
+  "plural": null,
+  "meaning": "entrance",
+  "example_de": "Der Eingang ist um die Ecke.",
+  "example_en": "The entrance is around the corner."
+ },
+ {
+  "id": "einkaufen",
+  "de": "einkaufen",
+  "article": null,
+  "plural": null,
+  "meaning": "to shop",
+  "example_de": "Ich muss noch für morgen einkaufen.",
+  "example_en": "I still have to go shopping for tomorrow."
+ },
+ {
+  "id": "einladen",
+  "de": "einladen",
+  "article": null,
+  "plural": null,
+  "meaning": "to invite",
+  "example_de": "Darf ich Sie zu einem Kaffee einladen?",
+  "example_en": "May I invite you for a coffee?"
+ },
+ {
+  "id": "die-einladung",
+  "de": "Einladung",
+  "article": "die",
+  "plural": null,
+  "meaning": "invitation",
+  "example_de": "Danke für die Einladung!",
+  "example_en": "Thanks for the invitation!"
+ },
+ {
+  "id": "einmal",
+  "de": "einmal",
+  "article": null,
+  "plural": null,
+  "meaning": "once",
+  "example_de": "Diese Prüfung mache ich nicht noch einmal.",
+  "example_en": "I am not taking this exam again."
+ },
+ {
+  "id": "einsteigen",
+  "de": "einsteigen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get on",
+  "example_de": "Schnell, steig ein, der Zug fährt gleich.",
+  "example_en": "Quick, get on, the train is leaving soon."
+ },
+ {
+  "id": "der-eintritt",
+  "de": "Eintritt",
+  "article": "der",
+  "plural": null,
+  "meaning": "admission",
+  "example_de": "Der Preis für den Eintritt ist 5 Euro.",
+  "example_en": "The admission price is 5 euros."
+ },
+ {
+  "id": "das-einzelzimmer",
+  "de": "Einzelzimmer",
+  "article": "das",
+  "plural": null,
+  "meaning": "single room",
+  "example_de": "Haben Sie noch ein Einzelzimmer?",
+  "example_en": "Do you still have a single room?"
+ },
+ {
+  "id": "die-eltern",
+  "de": "Eltern",
+  "article": "die",
+  "plural": null,
+  "meaning": "parents",
+  "example_de": "Meine Eltern leben in Spanien.",
+  "example_en": "My parents live in Spain."
+ },
+ {
+  "id": "die-e-mail",
+  "de": "E-Mail",
+  "article": "die",
+  "plural": "E-Mails",
+  "meaning": "email",
+  "example_de": "Ich habe Ihre E-Mail nicht bekommen.",
+  "example_en": "I did not receive your email."
+ },
+ {
+  "id": "der-empfaenger",
+  "de": "Empfänger",
+  "article": "der",
+  "plural": "Empfänger",
+  "meaning": "recipient",
+  "example_de": "Auf dem Brief steht dein Name, also bist du der Empfänger.",
+  "example_en": "Your name is on the letter, so you are the recipient."
+ },
+ {
+  "id": "empfehlen",
+  "de": "empfehlen",
+  "article": null,
+  "plural": null,
+  "meaning": "to recommend",
+  "example_de": "Welchen Wein können Sie mir empfehlen?",
+  "example_en": "Which wine can you recommend to me?"
+ },
+ {
+  "id": "enden",
+  "de": "enden",
+  "article": null,
+  "plural": null,
+  "meaning": "to end",
+  "example_de": "Die Straße endet hier.",
+  "example_en": "The road ends here."
+ },
+ {
+  "id": "das-ende",
+  "de": "Ende",
+  "article": "das",
+  "plural": null,
+  "meaning": "end",
+  "example_de": "Sie wohnt am Ende der Straße.",
+  "example_en": "She lives at the end of the street."
+ },
+ {
+  "id": "entschuldigen",
+  "de": "entschuldigen",
+  "article": null,
+  "plural": null,
+  "meaning": "to excuse",
+  "example_de": "Entschuldigen Sie bitte!",
+  "example_en": "Excuse me, please!"
+ },
+ {
+  "id": "die-entschuldigung",
+  "de": "Entschuldigung",
+  "article": "die",
+  "plural": null,
+  "meaning": "apology",
+  "example_de": "Entschuldigung! – Bitte.",
+  "example_en": "Sorry! – That's all right."
+ },
+ {
+  "id": "er",
+  "de": "er",
+  "article": null,
+  "plural": null,
+  "meaning": "he",
+  "example_de": "Er heißt Ali.",
+  "example_en": "His name is Ali."
+ },
+ {
+  "id": "das-ergebnis",
+  "de": "Ergebnis",
+  "article": "das",
+  "plural": "Ergebnisse",
+  "meaning": "result",
+  "example_de": "Das Ergebnis des Tests bekommen Sie in zwei Wochen.",
+  "example_en": "You will get the result of the test in two weeks."
+ },
+ {
+  "id": "erklaeren",
+  "de": "erklären",
+  "article": null,
+  "plural": null,
+  "meaning": "to explain",
+  "example_de": "Kannst du mir das erklären?",
+  "example_en": "Can you explain that to me?"
+ },
+ {
+  "id": "erlauben",
+  "de": "erlauben",
+  "article": null,
+  "plural": null,
+  "meaning": "to allow",
+  "example_de": "Rauchen ist hier nicht erlaubt.",
+  "example_en": "Smoking is not allowed here."
+ },
+ {
+  "id": "der-erwachsene",
+  "de": "Erwachsene",
+  "article": "der",
+  "plural": "Erwachsenen",
+  "meaning": "adult",
+  "example_de": "Dieser Film ist nur für Erwachsene.",
+  "example_en": "This film is only for adults."
+ },
+ {
+  "id": "erzaehlen",
+  "de": "erzählen",
+  "article": null,
+  "plural": null,
+  "meaning": "to tell",
+  "example_de": "Wir müssen euch etwas erzählen!",
+  "example_en": "We have to tell you something!"
+ },
+ {
+  "id": "es",
+  "de": "es",
+  "article": null,
+  "plural": null,
+  "meaning": "it",
+  "example_de": "Es regnet.",
+  "example_en": "It is raining."
+ },
+ {
+  "id": "essen",
+  "de": "essen",
+  "article": null,
+  "plural": null,
+  "meaning": "to eat",
+  "example_de": "Was gibt es zu essen?",
+  "example_en": "What is there to eat?"
+ },
+ {
+  "id": "das-essen",
+  "de": "Essen",
+  "article": "das",
+  "plural": null,
+  "meaning": "food, meal",
+  "example_de": "Das Essen ist heute sehr gut.",
+  "example_en": "The food is very good today."
+ },
+ {
+  "id": "euer",
+  "de": "euer",
+  "article": null,
+  "plural": null,
+  "meaning": "your (plural)",
+  "example_de": "Euer Kurs beginnt heute.",
+  "example_en": "Your course starts today."
+ },
+ {
+  "id": "fahren",
+  "de": "fahren",
+  "article": null,
+  "plural": null,
+  "meaning": "to drive, go",
+  "example_de": "Ich fahre mit dem Auto zur Arbeit.",
+  "example_en": "I drive to work by car."
+ },
+ {
+  "id": "der-fahrer",
+  "de": "Fahrer",
+  "article": "der",
+  "plural": "Fahrer",
+  "meaning": "driver",
+  "example_de": "Bitte nicht mit dem Fahrer sprechen!",
+  "example_en": "Please do not speak to the driver!"
+ },
+ {
+  "id": "die-fahrkarte",
+  "de": "Fahrkarte",
+  "article": "die",
+  "plural": "Fahrkarten",
+  "meaning": "ticket",
+  "example_de": "Hast du schon eine Fahrkarte?",
+  "example_en": "Do you already have a ticket?"
+ },
+ {
+  "id": "das-fahrrad",
+  "de": "Fahrrad",
+  "article": "das",
+  "plural": "Fahrräder",
+  "meaning": "bicycle",
+  "example_de": "Fährst du mit dem Fahrrad oder mit dem Auto?",
+  "example_en": "Do you go by bike or by car?"
+ },
+ {
+  "id": "falsch",
+  "de": "falsch",
+  "article": null,
+  "plural": null,
+  "meaning": "wrong",
+  "example_de": "Das ist falsch.",
+  "example_en": "That is wrong."
+ },
+ {
+  "id": "die-familie",
+  "de": "Familie",
+  "article": "die",
+  "plural": "Familien",
+  "meaning": "family",
+  "example_de": "Meine Familie lebt in Spanien.",
+  "example_en": "My family lives in Spain."
+ },
+ {
+  "id": "der-familienname",
+  "de": "Familienname",
+  "article": "der",
+  "plural": null,
+  "meaning": "family name",
+  "example_de": "Meine Familiennamen sind García González.",
+  "example_en": "My family name is García González."
+ },
+ {
+  "id": "der-familienstand",
+  "de": "Familienstand",
+  "article": "der",
+  "plural": null,
+  "meaning": "marital status",
+  "example_de": "Bei „Familienstand“ musst du „ledig“ ankreuzen.",
+  "example_en": "For 'marital status' you must tick 'single'."
+ },
+ {
+  "id": "die-farbe",
+  "de": "Farbe",
+  "article": "die",
+  "plural": "Farben",
+  "meaning": "colour",
+  "example_de": "Die Farbe gefällt mir gut.",
+  "example_en": "I like the colour."
+ },
+ {
+  "id": "das-fax",
+  "de": "Fax",
+  "article": "das",
+  "plural": "Faxe",
+  "meaning": "fax",
+  "example_de": "Schicken Sie uns einfach ein Fax!",
+  "example_en": "Just send us a fax!"
+ },
+ {
+  "id": "feier",
+  "de": "Feier-",
+  "article": null,
+  "plural": null,
+  "meaning": "holiday",
+  "example_de": "Am Montag ist Feiertag.",
+  "example_en": "On Monday it is a public holiday."
+ },
+ {
+  "id": "feiern",
+  "de": "feiern",
+  "article": null,
+  "plural": null,
+  "meaning": "to celebrate",
+  "example_de": "Wir feiern heute meinen Geburtstag.",
+  "example_en": "We are celebrating my birthday today."
+ },
+ {
+  "id": "fehlen",
+  "de": "fehlen",
+  "article": null,
+  "plural": null,
+  "meaning": "to be absent",
+  "example_de": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+  "example_en": "Mr Müller is not here, he has been absent for three days."
+ },
+ {
+  "id": "der-fehler",
+  "de": "Fehler",
+  "article": "der",
+  "plural": "Fehler",
+  "meaning": "mistake",
+  "example_de": "Diesen Fehler mache ich immer.",
+  "example_en": "I always make this mistake."
+ },
+ {
+  "id": "fernsehen",
+  "de": "fernsehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to watch TV",
+  "example_de": "Wollen wir heute Abend mal fernsehen?",
+  "example_en": "Shall we watch TV this evening?"
+ },
+ {
+  "id": "fertig",
+  "de": "fertig",
+  "article": null,
+  "plural": null,
+  "meaning": "ready, finished",
+  "example_de": "Bist du fertig?",
+  "example_en": "Are you ready?"
+ },
+ {
+  "id": "das-feuer",
+  "de": "Feuer",
+  "article": "das",
+  "plural": null,
+  "meaning": "fire, light",
+  "example_de": "Haben Sie Feuer?",
+  "example_en": "Do you have a light?"
+ },
+ {
+  "id": "das-fieber",
+  "de": "Fieber",
+  "article": "das",
+  "plural": null,
+  "meaning": "fever",
+  "example_de": "Mein Mann hat noch immer Fieber.",
+  "example_en": "My husband still has a fever."
+ },
+ {
+  "id": "der-film",
+  "de": "Film",
+  "article": "der",
+  "plural": "Filme",
+  "meaning": "film",
+  "example_de": "Ich möchte gern diesen Film sehen.",
+  "example_en": "I would like to see this film."
+ },
+ {
+  "id": "finden",
+  "de": "finden",
+  "article": null,
+  "plural": null,
+  "meaning": "to find",
+  "example_de": "Wir müssen den Schlüssel finden.",
+  "example_en": "We have to find the key."
+ },
+ {
+  "id": "die-firma",
+  "de": "Firma",
+  "article": "die",
+  "plural": null,
+  "meaning": "company",
+  "example_de": "Er arbeitet jetzt bei einer anderen Firma.",
+  "example_en": "He now works for another company."
+ },
+ {
+  "id": "der-fisch",
+  "de": "Fisch",
+  "article": "der",
+  "plural": "Fische",
+  "meaning": "fish",
+  "example_de": "Ich esse gern Fisch. Fleisch mag ich nicht.",
+  "example_en": "I like eating fish. I don't like meat."
+ },
+ {
+  "id": "die-flasche",
+  "de": "Flasche",
+  "article": "die",
+  "plural": "Flaschen",
+  "meaning": "bottle",
+  "example_de": "Eine Flasche Bier, bitte.",
+  "example_en": "A bottle of beer, please."
+ },
+ {
+  "id": "das-fleisch",
+  "de": "Fleisch",
+  "article": "das",
+  "plural": null,
+  "meaning": "meat",
+  "example_de": "Fleisch mag ich nicht.",
+  "example_en": "I don't like meat."
+ },
+ {
+  "id": "fliegen",
+  "de": "fliegen",
+  "article": null,
+  "plural": null,
+  "meaning": "to fly",
+  "example_de": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+  "example_en": "I don't like flying. That's why I take the train."
+ },
+ {
+  "id": "abfliegen",
+  "de": "abfliegen",
+  "article": null,
+  "plural": null,
+  "meaning": "to take off",
+  "example_de": "Wann fliegst du ab?",
+  "example_en": "When do you take off?"
+ },
+ {
+  "id": "der-abflug",
+  "de": "Abflug",
+  "article": "der",
+  "plural": null,
+  "meaning": "departure",
+  "example_de": "Der Abflug ist um 11.20 Uhr.",
+  "example_en": "The departure is at 11:20."
+ },
+ {
+  "id": "der-flughafen",
+  "de": "Flughafen",
+  "article": "der",
+  "plural": null,
+  "meaning": "airport",
+  "example_de": "Kannst du mich zum Flughafen bringen?",
+  "example_en": "Can you take me to the airport?"
+ },
+ {
+  "id": "das-flugzeug",
+  "de": "Flugzeug",
+  "article": "das",
+  "plural": null,
+  "meaning": "airplane",
+  "example_de": "Das Flugzeug aus Berlin kommt heute später an.",
+  "example_en": "The plane from Berlin arrives later today."
+ },
+ {
+  "id": "das-formular",
+  "de": "Formular",
+  "article": "das",
+  "plural": "Formulare",
+  "meaning": "form",
+  "example_de": "Sie müssen dieses Formular ausfüllen.",
+  "example_en": "You have to fill out this form."
+ },
+ {
+  "id": "das-foto",
+  "de": "Foto",
+  "article": "das",
+  "plural": "Fotos",
+  "meaning": "photo",
+  "example_de": "Darf ich ein Foto machen?",
+  "example_en": "May I take a photo?"
+ },
+ {
+  "id": "fragen",
+  "de": "fragen",
+  "article": null,
+  "plural": null,
+  "meaning": "to ask",
+  "example_de": "Er möchte Sie etwas fragen. Wann kommen Sie?",
+  "example_en": "He would like to ask you something. When are you coming?"
+ },
+ {
+  "id": "die-frage",
+  "de": "Frage",
+  "article": "die",
+  "plural": "Fragen",
+  "meaning": "question",
+  "example_de": "Ich habe eine Frage.",
+  "example_en": "I have a question."
+ },
+ {
+  "id": "die-frau",
+  "de": "Frau",
+  "article": "die",
+  "plural": "Frauen",
+  "meaning": "woman; Mrs., Ms.",
+  "example_de": "Das ist Frau Becker.",
+  "example_en": "This is Mrs. Becker."
+ },
+ {
+  "id": "frei",
+  "de": "frei",
+  "article": null,
+  "plural": null,
+  "meaning": "free; vacant",
+  "example_de": "Ist der Platz noch frei?",
+  "example_en": "Is this seat still free?"
+ },
+ {
+  "id": "die-freizeit",
+  "de": "Freizeit",
+  "article": "die",
+  "plural": null,
+  "meaning": "free time",
+  "example_de": "In meiner Freizeit spiele ich oft Fußball.",
+  "example_en": "In my free time I often play soccer."
+ },
+ {
+  "id": "fremd",
+  "de": "fremd",
+  "article": null,
+  "plural": null,
+  "meaning": "foreign; unfamiliar",
+  "example_de": "Das weiß ich nicht; ich bin fremd hier.",
+  "example_en": "I don't know that; I'm a stranger here."
+ },
+ {
+  "id": "sich-freuen",
+  "de": "(sich) freuen",
+  "article": null,
+  "plural": null,
+  "meaning": "to be glad",
+  "example_de": "Ich freue mich auf den Urlaub.",
+  "example_en": "I'm looking forward to the vacation."
+ },
+ {
+  "id": "der-freund",
+  "de": "Freund",
+  "article": "der",
+  "plural": "Freunde",
+  "meaning": "friend",
+  "example_de": "Das ist ein Freund von mir.",
+  "example_en": "This is a friend of mine."
+ },
+ {
+  "id": "frueher",
+  "de": "früher",
+  "article": null,
+  "plural": null,
+  "meaning": "earlier; formerly",
+  "example_de": "Früher waren wir oft zusammen im Kino.",
+  "example_en": "We used to often be together at the cinema."
+ },
+ {
+  "id": "fruehstuecken",
+  "de": "frühstücken",
+  "article": null,
+  "plural": null,
+  "meaning": "to have breakfast",
+  "example_de": "Am Sonntag frühstücke ich gern im Bett.",
+  "example_en": "On Sunday I like to have breakfast in bed."
+ },
+ {
+  "id": "das-fruehstueck",
+  "de": "Frühstück",
+  "article": "das",
+  "plural": null,
+  "meaning": "breakfast",
+  "example_de": "Möchtest du ein Ei zum Frühstück?",
+  "example_en": "Would you like an egg for breakfast?"
+ },
+ {
+  "id": "die-fuehrung",
+  "de": "Führung",
+  "article": "die",
+  "plural": null,
+  "meaning": "guided tour",
+  "example_de": "Die Führung durch das Haus beginnt in 3 Minuten.",
+  "example_en": "The tour of the house begins in 3 minutes."
+ },
+ {
+  "id": "fuer",
+  "de": "für",
+  "article": null,
+  "plural": null,
+  "meaning": "for",
+  "example_de": "Das ist für Sie.",
+  "example_en": "This is for you."
+ },
+ {
+  "id": "der-fuss",
+  "de": "Fuß",
+  "article": "der",
+  "plural": "Füße",
+  "meaning": "foot",
+  "example_de": "Der linke Fuß tut mir weh.",
+  "example_en": "My left foot hurts."
+ },
+ {
+  "id": "der-fussball",
+  "de": "Fußball",
+  "article": "der",
+  "plural": null,
+  "meaning": "soccer",
+  "example_de": "Spielt ihr gerne Fußball?",
+  "example_en": "Do you like playing soccer?"
+ },
+ {
+  "id": "der-garten",
+  "de": "Garten",
+  "article": "der",
+  "plural": null,
+  "meaning": "garden",
+  "example_de": "Wir haben leider keinen Garten.",
+  "example_en": "Unfortunately, we don't have a garden."
+ },
+ {
+  "id": "der-gast",
+  "de": "Gast",
+  "article": "der",
+  "plural": "Gäste",
+  "meaning": "guest",
+  "example_de": "Am Wochenende haben wir mehrere Gäste.",
+  "example_en": "On the weekend we have several guests."
+ },
+ {
+  "id": "geben",
+  "de": "geben",
+  "article": null,
+  "plural": null,
+  "meaning": "to give",
+  "example_de": "Kannst du mir bitte deinen Kugelschreiber geben?",
+  "example_en": "Can you please give me your pen?"
+ },
+ {
+  "id": "geboren",
+  "de": "geboren",
+  "article": null,
+  "plural": null,
+  "meaning": "born",
+  "example_de": "Ich bin in Zagreb geboren.",
+  "example_en": "I was born in Zagreb."
+ },
+ {
+  "id": "das-geburtsjahr",
+  "de": "Geburtsjahr",
+  "article": "das",
+  "plural": null,
+  "meaning": "year of birth",
+  "example_de": "Das Geburtsjahr Ihres Sohnes, bitte?",
+  "example_en": "Your son's year of birth, please?"
+ },
+ {
+  "id": "der-geburtsort",
+  "de": "Geburtsort",
+  "article": "der",
+  "plural": null,
+  "meaning": "place of birth",
+  "example_de": "Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+  "example_en": "Please write your place of birth on the form."
+ },
+ {
+  "id": "der-geburtstag",
+  "de": "Geburtstag",
+  "article": "der",
+  "plural": null,
+  "meaning": "birthday",
+  "example_de": "Herzlichen Glückwunsch zum Geburtstag!",
+  "example_en": "Happy birthday!"
+ },
+ {
+  "id": "gefallen",
+  "de": "gefallen",
+  "article": null,
+  "plural": null,
+  "meaning": "to like, please",
+  "example_de": "Das gefällt mir.",
+  "example_en": "I like that."
+ },
+ {
+  "id": "gegen",
+  "de": "gegen",
+  "article": null,
+  "plural": null,
+  "meaning": "against",
+  "example_de": "Fahr nicht gegen den Baum!",
+  "example_en": "Don't drive into the tree!"
+ },
+ {
+  "id": "gehen",
+  "de": "gehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to go; to work",
+  "example_de": "Ich weiß nicht, wie das geht.",
+  "example_en": "I don't know how that works."
+ },
+ {
+  "id": "gehoeren",
+  "de": "gehören",
+  "article": null,
+  "plural": null,
+  "meaning": "to belong",
+  "example_de": "Wem gehört das?",
+  "example_en": "Whose is this?"
+ },
+ {
+  "id": "das-geld",
+  "de": "Geld",
+  "article": "das",
+  "plural": null,
+  "meaning": "money",
+  "example_de": "Hast du noch Geld?",
+  "example_en": "Do you still have money?"
+ },
+ {
+  "id": "das-gemuese",
+  "de": "Gemüse",
+  "article": "das",
+  "plural": null,
+  "meaning": "vegetables",
+  "example_de": "Gemüse brauchen wir auch noch.",
+  "example_en": "We still need vegetables too."
+ },
+ {
+  "id": "das-gepaeck",
+  "de": "Gepäck",
+  "article": "das",
+  "plural": null,
+  "meaning": "luggage",
+  "example_de": "Wollen Sie Ihr Gepäck mitnehmen?",
+  "example_en": "Do you want to take your luggage with you?"
+ },
+ {
+  "id": "gerade",
+  "de": "gerade",
+  "article": null,
+  "plural": null,
+  "meaning": "just; straight",
+  "example_de": "Da kommt er ja gerade.",
+  "example_en": "There he comes, right now."
+ },
+ {
+  "id": "geradeaus",
+  "de": "geradeaus",
+  "article": null,
+  "plural": null,
+  "meaning": "straight ahead",
+  "example_de": "Gehen Sie immer geradeaus!",
+  "example_en": "Always go straight ahead!"
+ },
+ {
+  "id": "gern-e",
+  "de": "gern(e)",
+  "article": null,
+  "plural": null,
+  "meaning": "gladly; to like",
+  "example_de": "Ich gehe gerne einkaufen.",
+  "example_en": "I like to go shopping."
+ },
+ {
+  "id": "das-geschaeft",
+  "de": "Geschäft",
+  "article": "das",
+  "plural": "Geschäfte",
+  "meaning": "shop; business",
+  "example_de": "Die Geschäfte schließen um 18.30 Uhr.",
+  "example_en": "The shops close at 6:30 p.m."
+ },
+ {
+  "id": "das-geschenk",
+  "de": "Geschenk",
+  "article": "das",
+  "plural": "Geschenke",
+  "meaning": "gift",
+  "example_de": "Danke für das schöne Geschenk.",
+  "example_en": "Thanks for the lovely gift."
+ },
+ {
+  "id": "die-geschwister",
+  "de": "Geschwister",
+  "article": "die",
+  "plural": null,
+  "meaning": "siblings",
+  "example_de": "Ich habe leider keine Geschwister.",
+  "example_en": "Unfortunately, I have no siblings."
+ },
+ {
+  "id": "das-gespraech",
+  "de": "Gespräch",
+  "article": "das",
+  "plural": "Gespräche",
+  "meaning": "conversation",
+  "example_de": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+  "example_en": "The conversation with Mrs. Kunz is at 2 p.m."
+ },
+ {
+  "id": "gestern",
+  "de": "gestern",
+  "article": null,
+  "plural": null,
+  "meaning": "yesterday",
+  "example_de": "Gestern war ich krank.",
+  "example_en": "Yesterday I was sick."
+ },
+ {
+  "id": "gestorben",
+  "de": "gestorben",
+  "article": null,
+  "plural": null,
+  "meaning": "died",
+  "example_de": "Meine Frau ist gestern gestorben.",
+  "example_en": "My wife died yesterday."
+ },
+ {
+  "id": "das-getraenk",
+  "de": "Getränk",
+  "article": "das",
+  "plural": "Getränke",
+  "meaning": "drink",
+  "example_de": "Mein Lieblingsgetränk ist Tomatensaft.",
+  "example_en": "My favorite drink is tomato juice."
+ },
+ {
+  "id": "das-gewicht",
+  "de": "Gewicht",
+  "article": "das",
+  "plural": null,
+  "meaning": "weight",
+  "example_de": "Bei „Gewicht“ schreibst du: 62 Kilo.",
+  "example_en": "For \"weight\" you write: 62 kilos."
+ },
+ {
+  "id": "gewinnen",
+  "de": "gewinnen",
+  "article": null,
+  "plural": null,
+  "meaning": "to win",
+  "example_de": "Wer gewinnt das Spiel?",
+  "example_en": "Who wins the game?"
+ },
+ {
+  "id": "das-glas",
+  "de": "Glas",
+  "article": "das",
+  "plural": "Gläser",
+  "meaning": "glass",
+  "example_de": "Bitte noch ein Glas Wein!",
+  "example_en": "One more glass of wine, please!"
+ },
+ {
+  "id": "glauben",
+  "de": "glauben",
+  "article": null,
+  "plural": null,
+  "meaning": "to believe; to think",
+  "example_de": "Sie können mir glauben, es ist so.",
+  "example_en": "You can believe me, it is so."
+ },
+ {
+  "id": "gleich",
+  "de": "gleich",
+  "article": null,
+  "plural": null,
+  "meaning": "same; soon",
+  "example_de": "Das ist mir gleich.",
+  "example_en": "I don't mind."
+ },
+ {
+  "id": "das-gleis",
+  "de": "Gleis",
+  "article": "das",
+  "plural": "Gleise",
+  "meaning": "platform; track",
+  "example_de": "Der ICE nach Berlin hält heute an Gleis 12.",
+  "example_en": "The ICE to Berlin stops at platform 12 today."
+ },
+ {
+  "id": "das-glueck",
+  "de": "Glück",
+  "article": "das",
+  "plural": null,
+  "meaning": "luck; happiness",
+  "example_de": "Viel Glück!",
+  "example_en": "Good luck!"
+ },
+ {
+  "id": "gluecklich",
+  "de": "glücklich",
+  "article": null,
+  "plural": null,
+  "meaning": "happy",
+  "example_de": "Meine Kinder sind glücklich verheiratet.",
+  "example_en": "My children are happily married."
+ },
+ {
+  "id": "der-glueckwunsch",
+  "de": "Glückwunsch",
+  "article": "der",
+  "plural": null,
+  "meaning": "congratulations",
+  "example_de": "Herzlichen Glückwunsch zum Geburtstag.",
+  "example_en": "Happy birthday."
+ },
+ {
+  "id": "grad-celsius",
+  "de": "Grad (Celsius)",
+  "article": null,
+  "plural": null,
+  "meaning": "degree (Celsius)",
+  "example_de": "Heute haben wir dreißig Grad.",
+  "example_en": "Today it is thirty degrees."
+ },
+ {
+  "id": "gratulieren",
+  "de": "gratulieren",
+  "article": null,
+  "plural": null,
+  "meaning": "to congratulate",
+  "example_de": "Ich gratuliere dir!",
+  "example_en": "I congratulate you!"
+ },
+ {
+  "id": "grillen",
+  "de": "grillen",
+  "article": null,
+  "plural": null,
+  "meaning": "to grill",
+  "example_de": "Heute grillen wir im Garten.",
+  "example_en": "Today we are grilling in the garden."
+ },
+ {
+  "id": "gross",
+  "de": "groß",
+  "article": null,
+  "plural": null,
+  "meaning": "big; tall",
+  "example_de": "Mein Bruder und ich sind gleich groß.",
+  "example_en": "My brother and I are the same height."
+ },
+ {
+  "id": "die-groesse",
+  "de": "Größe",
+  "article": "die",
+  "plural": null,
+  "meaning": "size",
+  "example_de": "Haben Sie das auch in Größe 40?",
+  "example_en": "Do you have this in size 40 as well?"
+ },
+ {
+  "id": "die-grosseltern",
+  "de": "Großeltern",
+  "article": "die",
+  "plural": null,
+  "meaning": "grandparents",
+  "example_de": "Meine Großeltern leben in Japan.",
+  "example_en": "My grandparents live in Japan."
+ },
+ {
+  "id": "die-grossmutter",
+  "de": "Großmutter",
+  "article": "die",
+  "plural": null,
+  "meaning": "grandmother",
+  "example_de": "Meine Großmutter heißt Eva.",
+  "example_en": "My grandmother's name is Eva."
+ },
+ {
+  "id": "der-grossvater",
+  "de": "Großvater",
+  "article": "der",
+  "plural": null,
+  "meaning": "grandfather",
+  "example_de": "Mein Großvater ist schon 80.",
+  "example_en": "My grandfather is already 80."
+ },
+ {
+  "id": "die-gruppe",
+  "de": "Gruppe",
+  "article": "die",
+  "plural": "Gruppen",
+  "meaning": "group",
+  "example_de": "Die erste Gruppe beginnt um 16 Uhr.",
+  "example_en": "The first group starts at 4 p.m."
+ },
+ {
+  "id": "der-gruss",
+  "de": "Gruß",
+  "article": "der",
+  "plural": "Grüße",
+  "meaning": "greeting",
+  "example_de": "Viele Grüße an Ihre Frau.",
+  "example_en": "Best regards to your wife."
+ },
+ {
+  "id": "gueltig",
+  "de": "gültig",
+  "article": null,
+  "plural": null,
+  "meaning": "valid",
+  "example_de": "Der Pass ist nicht mehr gültig.",
+  "example_en": "The passport is no longer valid."
+ },
+ {
+  "id": "guenstig",
+  "de": "günstig",
+  "article": null,
+  "plural": null,
+  "meaning": "cheap; favorable",
+  "example_de": "Dort gibt es günstige Angebote.",
+  "example_en": "There are good-value deals there."
+ },
+ {
+  "id": "gut",
+  "de": "gut",
+  "article": null,
+  "plural": null,
+  "meaning": "good",
+  "example_de": "Das finde ich gut.",
+  "example_en": "I think that's good."
+ },
+ {
+  "id": "das-haar",
+  "de": "Haar",
+  "article": "das",
+  "plural": "Haare",
+  "meaning": "hair",
+  "example_de": "Sie hat lange Haare.",
+  "example_en": "She has long hair."
+ },
+ {
+  "id": "haben",
+  "de": "haben",
+  "article": null,
+  "plural": null,
+  "meaning": "to have",
+  "example_de": "Ich habe ein neues Auto.",
+  "example_en": "I have a new car."
+ },
+ {
+  "id": "das-haehnchen",
+  "de": "Hähnchen",
+  "article": "das",
+  "plural": "Hähnchen",
+  "meaning": "chicken",
+  "example_de": "Ein Hähnchen mit Pommes bitte!",
+  "example_en": "One chicken with fries, please!"
+ },
+ {
+  "id": "die-halbpension",
+  "de": "Halbpension",
+  "article": "die",
+  "plural": null,
+  "meaning": "half board",
+  "example_de": "Möchten Sie Vollpension oder Halbpension?",
+  "example_en": "Would you like full board or half board?"
+ },
+ {
+  "id": "die-halle",
+  "de": "Halle",
+  "article": "die",
+  "plural": null,
+  "meaning": "hall",
+  "example_de": "Wir treffen uns in Halle B",
+  "example_en": "We'll meet in hall B."
+ },
+ {
+  "id": "hallo",
+  "de": "hallo",
+  "article": null,
+  "plural": null,
+  "meaning": "hello",
+  "example_de": "Hallo Inge! Wie geht’s?",
+  "example_en": "Hi Inge! How are you?"
+ },
+ {
+  "id": "halten",
+  "de": "halten",
+  "article": null,
+  "plural": null,
+  "meaning": "to stop; to hold",
+  "example_de": "Dieser Zug hält nicht in Rüdesheim.",
+  "example_en": "This train doesn't stop in Rüdesheim."
+ },
+ {
+  "id": "die-haltestelle",
+  "de": "Haltestelle",
+  "article": "die",
+  "plural": null,
+  "meaning": "stop",
+  "example_de": "An der nächsten Haltestelle müssen Sie aussteigen.",
+  "example_en": "You have to get off at the next stop."
+ },
+ {
+  "id": "die-hand",
+  "de": "Hand",
+  "article": "die",
+  "plural": "Hände",
+  "meaning": "hand",
+  "example_de": "Er gibt mir die Hand.",
+  "example_en": "He gives me his hand."
+ },
+ {
+  "id": "das-handy",
+  "de": "Handy",
+  "article": "das",
+  "plural": "Handys",
+  "meaning": "mobile phone",
+  "example_de": "In der Schule bitte die Handys ausmachen!",
+  "example_en": "Please turn off the cell phones at school!"
+ },
+ {
+  "id": "das-haus",
+  "de": "Haus",
+  "article": "das",
+  "plural": "Häuser",
+  "meaning": "house",
+  "example_de": "In welchem Haus wohnst du?",
+  "example_en": "In which house do you live?"
+ },
+ {
+  "id": "die-hausaufgabe",
+  "de": "Hausaufgabe",
+  "article": "die",
+  "plural": "Hausaufgaben",
+  "meaning": "homework",
+  "example_de": "Kannst du mir bei den Hausaufgaben helfen?",
+  "example_en": "Can you help me with my homework?"
+ },
+ {
+  "id": "die-hausfrau",
+  "de": "Hausfrau",
+  "article": "die",
+  "plural": "Hausfrauen",
+  "meaning": "housewife; househusband",
+  "example_de": "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.",
+  "example_en": "The housewife/househusband does the laundry, cooks and goes shopping."
+ },
+ {
+  "id": "die-heimat",
+  "de": "Heimat",
+  "article": "die",
+  "plural": null,
+  "meaning": "homeland",
+  "example_de": "Ich komme aus der Schweiz. Das ist meine Heimat.",
+  "example_en": "I come from Switzerland. That is my homeland."
+ },
+ {
+  "id": "heiraten",
+  "de": "heiraten",
+  "article": null,
+  "plural": null,
+  "meaning": "to marry",
+  "example_de": "Meine Schwester heiratet einen Japaner.",
+  "example_en": "My sister is marrying a Japanese man."
+ },
+ {
+  "id": "heissen",
+  "de": "heißen",
+  "article": null,
+  "plural": null,
+  "meaning": "to be called",
+  "example_de": "Ich heiße Charlotte Meier.",
+  "example_en": "My name is Charlotte Meier."
+ },
+ {
+  "id": "helfen",
+  "de": "helfen",
+  "article": null,
+  "plural": null,
+  "meaning": "to help",
+  "example_de": "Können Sie mir helfen, bitte?",
+  "example_en": "Can you help me, please?"
+ },
+ {
+  "id": "hell",
+  "de": "hell",
+  "article": null,
+  "plural": null,
+  "meaning": "light; bright",
+  "example_de": "Im Sommer ist es bis 21 Uhr hell.",
+  "example_en": "In summer it is light until 9 p.m."
+ },
+ {
+  "id": "der-herd",
+  "de": "Herd",
+  "article": "der",
+  "plural": null,
+  "meaning": "stove",
+  "example_de": "In der neuen Küche fehlt noch der Herd.",
+  "example_en": "The stove is still missing in the new kitchen."
+ },
+ {
+  "id": "der-herr",
+  "de": "Herr",
+  "article": "der",
+  "plural": "Herren",
+  "meaning": "man; Mr.",
+  "example_de": "Guten Tag, Herr Sommer!",
+  "example_en": "Good afternoon, Mr. Sommer!"
+ },
+ {
+  "id": "herzlich",
+  "de": "herzlich",
+  "article": null,
+  "plural": null,
+  "meaning": "warm; sincere",
+  "example_de": "Herzlichen Glückwunsch!",
+  "example_en": "Many congratulations!"
+ },
+ {
+  "id": "heute",
+  "de": "heute",
+  "article": null,
+  "plural": null,
+  "meaning": "today",
+  "example_de": "Heute ist ein schöner Tag.",
+  "example_en": "Today is a beautiful day."
+ },
+ {
+  "id": "hier",
+  "de": "hier",
+  "article": null,
+  "plural": null,
+  "meaning": "here",
+  "example_de": "Hier ist 06131-553221, Pamela Linke.",
+  "example_en": "This is 06131-553221, Pamela Linke."
+ },
+ {
+  "id": "die-hilfe",
+  "de": "Hilfe",
+  "article": "die",
+  "plural": null,
+  "meaning": "help",
+  "example_de": "Hilfe! Bitte helfen Sie mir!",
+  "example_en": "Help! Please help me!"
+ },
+ {
+  "id": "hinten",
+  "de": "hinten",
+  "article": null,
+  "plural": null,
+  "meaning": "at the back",
+  "example_de": "Die Tür zum Aussteigen ist hinten.",
+  "example_en": "The exit door is at the back."
+ },
+ {
+  "id": "das-hobby",
+  "de": "Hobby",
+  "article": "das",
+  "plural": "Hobbys",
+  "meaning": "hobby",
+  "example_de": "Meine Hobbys sind Wandern und Schwimmen.",
+  "example_en": "My hobbies are hiking and swimming."
+ },
+ {
+  "id": "hoch",
+  "de": "hoch",
+  "article": null,
+  "plural": null,
+  "meaning": "high",
+  "example_de": "Der Mount Everest ist 8.880 Meter hoch.",
+  "example_en": "Mount Everest is 8,880 meters high."
+ },
+ {
+  "id": "die-hochzeit",
+  "de": "Hochzeit",
+  "article": "die",
+  "plural": null,
+  "meaning": "wedding",
+  "example_de": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste.",
+  "example_en": "More than fifty guests are coming to this wedding."
+ },
+ {
+  "id": "holen",
+  "de": "holen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get; to fetch",
+  "example_de": "Ich hole zwei Flaschen Wasser aus der Küche.",
+  "example_en": "I'll get two bottles of water from the kitchen."
+ },
+ {
+  "id": "hoeren",
+  "de": "hören",
+  "article": null,
+  "plural": null,
+  "meaning": "to hear",
+  "example_de": "Hör mal! Was ist das?",
+  "example_en": "Listen! What is that?"
+ },
+ {
+  "id": "das-hotel",
+  "de": "Hotel",
+  "article": "das",
+  "plural": "Hotels",
+  "meaning": "hotel",
+  "example_de": "Im Urlaub sind wir in einem Hotel am Meer.",
+  "example_en": "On vacation we stayed in a hotel by the sea."
+ },
+ {
+  "id": "der-hund",
+  "de": "Hund",
+  "article": "der",
+  "plural": "Hunde",
+  "meaning": "dog",
+  "example_de": "Der Hund ist noch jung.",
+  "example_en": "The dog is still young."
+ },
+ {
+  "id": "der-hunger",
+  "de": "Hunger",
+  "article": "der",
+  "plural": null,
+  "meaning": "hunger",
+  "example_de": "Ich habe Hunger! Wann ist das Essen fertig?",
+  "example_en": "I'm hungry! When is the food ready?"
+ },
+ {
+  "id": "ich",
+  "de": "ich",
+  "article": null,
+  "plural": null,
+  "meaning": "I",
+  "example_de": "Ich heiße Veronika.",
+  "example_en": "My name is Veronika."
+ },
+ {
+  "id": "ihr-ihm-ihn",
+  "de": "ihr/ihm/ihn",
+  "article": null,
+  "plural": null,
+  "meaning": "her/him/them",
+  "example_de": "Gib ihr/ihm bitte das Buch.",
+  "example_en": "Please give her/him the book."
+ },
+ {
+  "id": "immer",
+  "de": "immer",
+  "article": null,
+  "plural": null,
+  "meaning": "always",
+  "example_de": "Frau Bast kommt immer zu spät.",
+  "example_en": "Mrs. Bast always comes late."
+ },
+ {
+  "id": "in",
+  "de": "in",
+  "article": null,
+  "plural": null,
+  "meaning": "in",
+  "example_de": "Ich wohne in Wiesbaden.",
+  "example_en": "I live in Wiesbaden."
+ },
+ {
+  "id": "die-information",
+  "de": "Information",
+  "article": "die",
+  "plural": "Informationen",
+  "meaning": "information",
+  "example_de": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+  "example_en": "If you have questions, go to the information desk."
+ },
+ {
+  "id": "international",
+  "de": "international",
+  "article": null,
+  "plural": null,
+  "meaning": "international",
+  "example_de": "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...",
+  "example_en": "Our German course is international: Silvana comes from Italy, Conchi from Spain, Yin from China ..."
+ },
+ {
+  "id": "das-internet",
+  "de": "Internet",
+  "article": "das",
+  "plural": null,
+  "meaning": "internet",
+  "example_de": "Das findest du im Internet.",
+  "example_en": "You'll find that on the internet."
+ },
+ {
+  "id": "ja",
+  "de": "ja",
+  "article": null,
+  "plural": null,
+  "meaning": "yes",
+  "example_de": "Sind Sie Herr Watanabe? – Ja.",
+  "example_en": "Are you Mr. Watanabe? – Yes."
+ },
+ {
+  "id": "die-jacke",
+  "de": "Jacke",
+  "article": "die",
+  "plural": "Jacken",
+  "meaning": "jacket",
+  "example_de": "Zieh dir eine Jacke an. Es ist kalt.",
+  "example_en": "Put on a jacket. It's cold."
+ },
+ {
+  "id": "jed",
+  "de": "jed-",
+  "article": null,
+  "plural": null,
+  "meaning": "every",
+  "example_de": "Blumen kannst du in jedem Bahnhof kaufen.",
+  "example_en": "You can buy flowers in every train station."
+ },
+ {
+  "id": "jetzt",
+  "de": "jetzt",
+  "article": null,
+  "plural": null,
+  "meaning": "now",
+  "example_de": "Jetzt machen wir eine Pause.",
+  "example_en": "Now we're taking a break."
+ },
+ {
+  "id": "der-job",
+  "de": "Job",
+  "article": "der",
+  "plural": "Jobs",
+  "meaning": "job",
+  "example_de": "Jenny hat einen neuen Job bei der Post.",
+  "example_en": "Jenny has a new job at the post office."
+ },
+ {
+  "id": "der-jugendliche",
+  "de": "Jugendliche",
+  "article": "der",
+  "plural": "Jugendlichen",
+  "meaning": "teenager, young person",
+  "example_de": "Viele Jugendliche kaufen gern ein.",
+  "example_en": "Many young people like to shop."
+ },
+ {
+  "id": "jung",
+  "de": "jung",
+  "article": null,
+  "plural": null,
+  "meaning": "young",
+  "example_de": "Claudia ist 21. – Was? Noch so jung?",
+  "example_en": "Claudia is 21. – What? Still so young?"
+ },
+ {
+  "id": "der-junge",
+  "de": "Junge",
+  "article": "der",
+  "plural": "Jungen",
+  "meaning": "boy",
+  "example_de": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen.",
+  "example_en": "I have two children. A boy and a girl."
+ },
+ {
+  "id": "der-kaffee",
+  "de": "Kaffee",
+  "article": "der",
+  "plural": null,
+  "meaning": "coffee",
+  "example_de": "Zum Frühstück trinke ich immer Kaffee.",
+  "example_en": "I always drink coffee for breakfast."
+ },
+ {
+  "id": "kaputt",
+  "de": "kaputt",
+  "article": null,
+  "plural": null,
+  "meaning": "broken",
+  "example_de": "Das Glas war teuer. Es geht sehr leicht kaputt.",
+  "example_en": "The glass was expensive. It breaks very easily."
+ },
+ {
+  "id": "die-karte",
+  "de": "Karte",
+  "article": "die",
+  "plural": "Karten",
+  "meaning": "card, menu",
+  "example_de": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.",
+  "example_en": "I'm writing a postcard to my acquaintances from my holiday."
+ },
+ {
+  "id": "die-kredit-karte",
+  "de": "(Kredit)-Karte",
+  "article": "die",
+  "plural": "(Kredit)-Karten",
+  "meaning": "credit card",
+  "example_de": "Kann ich auch mit Karte (be-) zahlen?",
+  "example_en": "Can I also pay by card?"
+ },
+ {
+  "id": "die-kartoffel",
+  "de": "Kartoffel",
+  "article": "die",
+  "plural": "Kartoffeln",
+  "meaning": "potato",
+  "example_de": "Für Pommes frites braucht man Kartoffeln.",
+  "example_en": "You need potatoes for french fries."
+ },
+ {
+  "id": "die-kasse",
+  "de": "Kasse",
+  "article": "die",
+  "plural": null,
+  "meaning": "cash register, checkout",
+  "example_de": "Zahlen Sie bitte an der Kasse.",
+  "example_en": "Please pay at the cash register."
+ },
+ {
+  "id": "kaufen",
+  "de": "kaufen",
+  "article": null,
+  "plural": null,
+  "meaning": "to buy",
+  "example_de": "Tim kauft sich ein neues Auto.",
+  "example_en": "Tim is buying himself a new car."
+ },
+ {
+  "id": "kein",
+  "de": "kein",
+  "article": null,
+  "plural": null,
+  "meaning": "no, not any",
+  "example_de": "Es gibt keine Eintrittskarten mehr.",
+  "example_en": "There are no more tickets."
+ },
+ {
+  "id": "kennen",
+  "de": "kennen",
+  "article": null,
+  "plural": null,
+  "meaning": "to know",
+  "example_de": "Kennen Sie diese Frau? – Nein, leider nicht.",
+  "example_en": "Do you know this woman? – No, unfortunately not."
+ },
+ {
+  "id": "kennenlernen",
+  "de": "kennenlernen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get to know, to meet",
+  "example_de": "Wir sind neu hier. Wir möchten Sie kennenlernen.",
+  "example_en": "We're new here. We would like to get to know you."
+ },
+ {
+  "id": "das-kind",
+  "de": "Kind",
+  "article": "das",
+  "plural": "Kinder",
+  "meaning": "child",
+  "example_de": "Wie viele Kinder haben Sie?",
+  "example_en": "How many children do you have?"
+ },
+ {
+  "id": "der-kindergarten",
+  "de": "Kindergarten",
+  "article": "der",
+  "plural": null,
+  "meaning": "kindergarten",
+  "example_de": "Die kleine Laura geht schon in den Kindergarten.",
+  "example_en": "Little Laura already goes to kindergarten."
+ },
+ {
+  "id": "das-kino",
+  "de": "Kino",
+  "article": "das",
+  "plural": "Kinos",
+  "meaning": "cinema",
+  "example_de": "Wir sehen heute Abend im Kino einen schönen Film.",
+  "example_en": "Tonight we're going to see a nice film at the cinema."
+ },
+ {
+  "id": "der-kiosk",
+  "de": "Kiosk",
+  "article": "der",
+  "plural": null,
+  "meaning": "kiosk, stand",
+  "example_de": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.",
+  "example_en": "At the kiosk you can get drinks, cigarettes and newspapers."
+ },
+ {
+  "id": "klar",
+  "de": "klar",
+  "article": null,
+  "plural": null,
+  "meaning": "clear, of course",
+  "example_de": "Kommst du mit? – Klar!",
+  "example_en": "Are you coming along? – Of course!"
+ },
+ {
+  "id": "die-klasse",
+  "de": "Klasse",
+  "article": "die",
+  "plural": null,
+  "meaning": "class",
+  "example_de": "In unserer Klasse sind fünfundzwanzig Schüler.",
+  "example_en": "There are twenty-five students in our class."
+ },
+ {
+  "id": "die-kleidung",
+  "de": "Kleidung",
+  "article": "die",
+  "plural": null,
+  "meaning": "clothing",
+  "example_de": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock.",
+  "example_en": "Where can I find clothing? – Jackets on the first floor, jeans on the second floor."
+ },
+ {
+  "id": "klein",
+  "de": "klein",
+  "article": null,
+  "plural": null,
+  "meaning": "small",
+  "example_de": "Eltville ist eine kleine Stadt am Rhein.",
+  "example_en": "Eltville is a small town on the Rhine."
+ },
+ {
+  "id": "kochen",
+  "de": "kochen",
+  "article": null,
+  "plural": null,
+  "meaning": "to cook",
+  "example_de": "Herr Georgi kann gut kochen.",
+  "example_en": "Mr. Georgi can cook well."
+ },
+ {
+  "id": "der-koffer",
+  "de": "Koffer",
+  "article": "der",
+  "plural": "Koffer",
+  "meaning": "suitcase",
+  "example_de": "Ist das Ihr Koffer?",
+  "example_en": "Is that your suitcase?"
+ },
+ {
+  "id": "der-kollege",
+  "de": "Kollege",
+  "article": "der",
+  "plural": "Kollegen",
+  "meaning": "colleague",
+  "example_de": "Wie heißt die neue Kollegin?",
+  "example_en": "What is the name of the new colleague?"
+ },
+ {
+  "id": "kommen",
+  "de": "kommen",
+  "article": null,
+  "plural": null,
+  "meaning": "to come",
+  "example_de": "Woher kommen Sie? – Aus Frankreich.",
+  "example_en": "Where are you from? – From France."
+ },
+ {
+  "id": "koennen",
+  "de": "können",
+  "article": null,
+  "plural": null,
+  "meaning": "can, to be able to",
+  "example_de": "Ich kann Deutsch und Russisch.",
+  "example_en": "I can speak German and Russian."
+ },
+ {
+  "id": "das-konto",
+  "de": "Konto",
+  "article": "das",
+  "plural": "Konten",
+  "meaning": "bank account",
+  "example_de": "Das Geld überweisen wir am ersten März auf Ihr Konto.",
+  "example_en": "We will transfer the money to your account on the first of March."
+ },
+ {
+  "id": "der-kopf",
+  "de": "Kopf",
+  "article": "der",
+  "plural": null,
+  "meaning": "head",
+  "example_de": "Mein Kopf tut weh!",
+  "example_en": "My head hurts!"
+ },
+ {
+  "id": "kosten",
+  "de": "kosten",
+  "article": null,
+  "plural": null,
+  "meaning": "to cost",
+  "example_de": "Wie viel kostet das? – 10 Euro.",
+  "example_en": "How much does that cost? – 10 euros."
+ },
+ {
+  "id": "krank",
+  "de": "krank",
+  "article": null,
+  "plural": null,
+  "meaning": "sick",
+  "example_de": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.",
+  "example_en": "I can't come to work today, I'm sick and I'm lying in bed."
+ },
+ {
+  "id": "kriegen",
+  "de": "kriegen",
+  "article": null,
+  "plural": null,
+  "meaning": "to get, to receive",
+  "example_de": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+  "example_en": "I get 15 euros an hour for my work."
+ },
+ {
+  "id": "die-kueche",
+  "de": "Küche",
+  "article": "die",
+  "plural": null,
+  "meaning": "kitchen",
+  "example_de": "Der neue Herd kommt in die Küche.",
+  "example_en": "The new stove is going into the kitchen."
+ },
+ {
+  "id": "der-kuchen",
+  "de": "Kuchen",
+  "article": "der",
+  "plural": null,
+  "meaning": "cake",
+  "example_de": "Ich nehme ein Stück Kuchen.",
+  "example_en": "I'll have a piece of cake."
+ },
+ {
+  "id": "der-kugelschreiber",
+  "de": "Kugelschreiber",
+  "article": "der",
+  "plural": null,
+  "meaning": "ballpoint pen",
+  "example_de": "Hast du einen Kugelschreiber für mich?",
+  "example_en": "Do you have a pen for me?"
+ },
+ {
+  "id": "der-kuehlschrank",
+  "de": "Kühlschrank",
+  "article": "der",
+  "plural": null,
+  "meaning": "fridge",
+  "example_de": "Haben wir noch Milch? – Ja, im Kühlschrank.",
+  "example_en": "Do we still have milk? – Yes, in the fridge."
+ },
+ {
+  "id": "kulturell",
+  "de": "kulturell",
+  "article": null,
+  "plural": null,
+  "meaning": "cultural",
+  "example_de": "Ich bin kulturell interessiert. Ich gehe oft ins Museum.",
+  "example_en": "I'm interested in culture. I often go to museums."
+ },
+ {
+  "id": "sich-kuemmern",
+  "de": "sich kümmern",
+  "article": null,
+  "plural": null,
+  "meaning": "to take care of",
+  "example_de": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+  "example_en": "Every mother takes care of her little children."
+ },
+ {
+  "id": "der-kunde",
+  "de": "Kunde",
+  "article": "der",
+  "plural": "Kunden",
+  "meaning": "customer",
+  "example_de": "Einen Moment, bitte. Ich habe eine Kundin.",
+  "example_en": "One moment, please. I have a female customer."
+ },
+ {
+  "id": "der-kurs",
+  "de": "Kurs",
+  "article": "der",
+  "plural": "Kurse",
+  "meaning": "course",
+  "example_de": "Der Deutschkurs geht bis zum Sommer.",
+  "example_en": "The German course runs until summer."
+ },
+ {
+  "id": "kurz",
+  "de": "kurz",
+  "article": null,
+  "plural": null,
+  "meaning": "short",
+  "example_de": "Ricardo hat kurzes Haar.",
+  "example_en": "Ricardo has short hair."
+ },
+ {
+  "id": "lachen",
+  "de": "lachen",
+  "article": null,
+  "plural": null,
+  "meaning": "to laugh",
+  "example_de": "Die Kinder lachen viel.",
+  "example_en": "The children laugh a lot."
+ },
+ {
+  "id": "der-laden",
+  "de": "Laden",
+  "article": "der",
+  "plural": "Läden",
+  "meaning": "shop",
+  "example_de": "Im Buchladen können Sie Bücher kaufen.",
+  "example_en": "You can buy books in the bookshop."
+ },
+ {
+  "id": "das-land",
+  "de": "Land",
+  "article": "das",
+  "plural": "Länder",
+  "meaning": "country",
+  "example_de": "Italien ist ein schönes Land.",
+  "example_en": "Italy is a beautiful country."
+ },
+ {
+  "id": "lang",
+  "de": "lang",
+  "article": null,
+  "plural": null,
+  "meaning": "long",
+  "example_de": "Die Jeans ist zu lang.",
+  "example_en": "The jeans are too long."
+ },
+ {
+  "id": "lange",
+  "de": "lange",
+  "article": null,
+  "plural": null,
+  "meaning": "for a long time, long",
+  "example_de": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+  "example_en": "How long does the train from Hamburg to Berlin take?"
+ },
+ {
+  "id": "langsam",
+  "de": "langsam",
+  "article": null,
+  "plural": null,
+  "meaning": "slow",
+  "example_de": "Könnten Sie bitte etwas langsamer sprechen?",
+  "example_en": "Could you please speak a little more slowly?"
+ },
+ {
+  "id": "laufen",
+  "de": "laufen",
+  "article": null,
+  "plural": null,
+  "meaning": "to walk, to run",
+  "example_de": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+  "example_en": "I don't want to drive, I want to walk."
+ },
+ {
+  "id": "laut",
+  "de": "laut",
+  "article": null,
+  "plural": null,
+  "meaning": "loud",
+  "example_de": "Nicht so laut! Das Baby schläft.",
+  "example_en": "Not so loud! The baby is sleeping."
+ },
+ {
+  "id": "leben",
+  "de": "leben",
+  "article": null,
+  "plural": null,
+  "meaning": "to live",
+  "example_de": "Sie lebt bei ihrer Schwester.",
+  "example_en": "She lives with her sister."
+ },
+ {
+  "id": "das-leben",
+  "de": "Leben",
+  "article": "das",
+  "plural": null,
+  "meaning": "life",
+  "example_de": "Das Leben in diesem Land ist teuer.",
+  "example_en": "Life in this country is expensive."
+ },
+ {
+  "id": "die-lebensmittel",
+  "de": "Lebensmittel",
+  "article": "die",
+  "plural": null,
+  "meaning": "groceries, food",
+  "example_de": "Lebensmittel bekommen Sie im Supermarkt.",
+  "example_en": "You get groceries at the supermarket."
+ },
+ {
+  "id": "ledig",
+  "de": "ledig",
+  "article": null,
+  "plural": null,
+  "meaning": "single, unmarried",
+  "example_de": "Sind Sie verheiratet? – Nein. Ledig.",
+  "example_en": "Are you married? – No. Single."
+ },
+ {
+  "id": "legen",
+  "de": "legen",
+  "article": null,
+  "plural": null,
+  "meaning": "to put, to lay",
+  "example_de": "Legen Sie das Buch auf den Tisch.",
+  "example_en": "Put the book on the table."
+ },
+ {
+  "id": "der-lehrer",
+  "de": "Lehrer",
+  "article": "der",
+  "plural": "Lehrer",
+  "meaning": "teacher",
+  "example_de": "Unsere Deutschlehrerin heißt Frau Müller.",
+  "example_en": "Our German teacher is called Mrs. Müller."
+ },
+ {
+  "id": "leicht",
+  "de": "leicht",
+  "article": null,
+  "plural": null,
+  "meaning": "light, easy",
+  "example_de": "Der Koffer ist leicht.",
+  "example_en": "The suitcase is light."
+ },
+ {
+  "id": "leider",
+  "de": "leider",
+  "article": null,
+  "plural": null,
+  "meaning": "unfortunately",
+  "example_de": "Leider kann ich nicht kommen. Ich muss zum Arzt.",
+  "example_en": "Unfortunately I can't come. I have to go to the doctor."
+ },
+ {
+  "id": "leise",
+  "de": "leise",
+  "article": null,
+  "plural": null,
+  "meaning": "quiet",
+  "example_de": "Seid leise. Die anderen schlafen schon.",
+  "example_en": "Be quiet. The others are already sleeping."
+ },
+ {
+  "id": "lernen",
+  "de": "lernen",
+  "article": null,
+  "plural": null,
+  "meaning": "to learn",
+  "example_de": "Wie lange lernen Sie schon Deutsch?",
+  "example_en": "How long have you been learning German?"
+ },
+ {
+  "id": "lesen",
+  "de": "lesen",
+  "article": null,
+  "plural": null,
+  "meaning": "to read",
+  "example_de": "Ich lese ein Buch von García Márquez.",
+  "example_en": "I'm reading a book by García Márquez."
+ },
+ {
+  "id": "letzt",
+  "de": "letzt-",
+  "article": null,
+  "plural": null,
+  "meaning": "last",
+  "example_de": "Morgen ist der letzte Kurstag.",
+  "example_en": "Tomorrow is the last day of the course."
+ },
+ {
+  "id": "die-leute",
+  "de": "Leute",
+  "article": "die",
+  "plural": null,
+  "meaning": "people",
+  "example_de": "In der Disko sind viele Leute.",
+  "example_en": "There are many people in the disco."
+ },
+ {
+  "id": "das-licht",
+  "de": "Licht",
+  "article": "das",
+  "plural": null,
+  "meaning": "light",
+  "example_de": "Wo macht man hier das Licht an?",
+  "example_en": "Where do you switch the light on here?"
+ },
+ {
+  "id": "lieb",
+  "de": "lieb-",
+  "article": null,
+  "plural": null,
+  "meaning": "dear, kind",
+  "example_de": "Liebe Susanne, lieber Hans,",
+  "example_en": "Dear Susanne, dear Hans,"
+ },
+ {
+  "id": "lieben",
+  "de": "lieben",
+  "article": null,
+  "plural": null,
+  "meaning": "to love",
+  "example_de": "Ich liebe dich!",
+  "example_en": "I love you!"
+ },
+ {
+  "id": "lieber",
+  "de": "lieber",
+  "article": null,
+  "plural": null,
+  "meaning": "rather, preferably",
+  "example_de": "Sie fährt lieber mit der Bahn.",
+  "example_en": "She prefers to go by train."
+ },
+ {
+  "id": "lieblings",
+  "de": "Lieblings-",
+  "article": null,
+  "plural": null,
+  "meaning": "favourite",
+  "example_de": "Mein Lieblingsfilm ist „Schwarze Augen“.",
+  "example_en": "My favourite film is „Schwarze Augen“."
+ },
+ {
+  "id": "das-lied",
+  "de": "Lied",
+  "article": "das",
+  "plural": "Lieder",
+  "meaning": "song",
+  "example_de": "Welches ist dein Lieblingslied?",
+  "example_en": "Which is your favourite song?"
+ },
+ {
+  "id": "liegen",
+  "de": "liegen",
+  "article": null,
+  "plural": null,
+  "meaning": "to lie, to be located",
+  "example_de": "Um neun Uhr liegt Judith noch im Bett.",
+  "example_en": "At nine o'clock Judith is still in bed."
+ },
+ {
+  "id": "links",
+  "de": "links",
+  "article": null,
+  "plural": null,
+  "meaning": "left",
+  "example_de": "Gehen Sie die nächste Straße links.",
+  "example_en": "Go left at the next street."
+ },
+ {
+  "id": "der-lkw",
+  "de": "Lkw",
+  "article": "der",
+  "plural": "Lkws",
+  "meaning": "truck",
+  "example_de": "Dieser Lastkraftwagen ist sehr groß.",
+  "example_en": "This truck is very large."
+ },
+ {
+  "id": "das-lokal",
+  "de": "Lokal",
+  "article": "das",
+  "plural": "Lokale",
+  "meaning": "pub, restaurant",
+  "example_de": "In unserer Straße gibt es ein neues Lokal.",
+  "example_en": "There is a new restaurant on our street."
+ },
+ {
+  "id": "die-loesung",
+  "de": "Lösung",
+  "article": "die",
+  "plural": "Lösungen",
+  "meaning": "solution",
+  "example_de": "Die Lösung ist ganz einfach.",
+  "example_en": "The solution is quite simple."
+ },
+ {
+  "id": "lustig",
+  "de": "lustig",
+  "article": null,
+  "plural": null,
+  "meaning": "funny",
+  "example_de": "Frau Mertens ist lustig. Sie lacht immer.",
+  "example_en": "Mrs. Mertens is funny. She always laughs."
+ },
+ {
+  "id": "machen",
+  "de": "machen",
+  "article": null,
+  "plural": null,
+  "meaning": "to do, to make",
+  "example_de": "Was machst du heute Abend?",
+  "example_en": "What are you doing this evening?"
+ },
+ {
+  "id": "das-maedchen",
+  "de": "Mädchen",
+  "article": "das",
+  "plural": "Mädchen",
+  "meaning": "girl",
+  "example_de": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?",
+  "example_en": "The Kurz family is having a baby. – Boy or girl?"
+ },
+ {
+  "id": "man",
+  "de": "man",
+  "article": null,
+  "plural": null,
+  "meaning": "one, you (generic)",
+  "example_de": "Hier darf man nicht rauchen.",
+  "example_en": "You are not allowed to smoke here."
+ },
+ {
+  "id": "der-mann",
+  "de": "Mann",
+  "article": "der",
+  "plural": "Männer",
+  "meaning": "man, husband",
+  "example_de": "Mein Mann arbeitet bei der Polizei.",
+  "example_en": "My husband works for the police."
+ },
+ {
+  "id": "maennlich",
+  "de": "männlich",
+  "article": null,
+  "plural": null,
+  "meaning": "male",
+  "example_de": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+  "example_en": "Please tick: „female“ or „male“."
+ },
+ {
+  "id": "die-maschine",
+  "de": "Maschine",
+  "article": "die",
+  "plural": "Maschinen",
+  "meaning": "machine",
+  "example_de": "Die Waschmaschine ist günstig.",
+  "example_en": "The washing machine is cheap."
+ },
+ {
+  "id": "das-meer",
+  "de": "Meer",
+  "article": "das",
+  "plural": null,
+  "meaning": "sea",
+  "example_de": "Wir machen Urlaub am Meer.",
+  "example_en": "We are going on holiday by the sea."
+ },
+ {
+  "id": "mehr",
+  "de": "mehr",
+  "article": null,
+  "plural": null,
+  "meaning": "more",
+  "example_de": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+  "example_en": "This car costs 1,000 euros more than the other one."
+ },
+ {
+  "id": "mein",
+  "de": "mein",
+  "article": null,
+  "plural": null,
+  "meaning": "my",
+  "example_de": "Mein Vater ist Arzt.",
+  "example_en": "My father is a doctor."
+ },
+ {
+  "id": "meist",
+  "de": "meist-",
+  "article": null,
+  "plural": null,
+  "meaning": "most",
+  "example_de": "Die meisten Norddeutschen sind sehr groß.",
+  "example_en": "Most people from northern Germany are very tall."
+ },
+ {
+  "id": "der-mensch",
+  "de": "Mensch",
+  "article": "der",
+  "plural": "Menschen",
+  "meaning": "person, human",
+  "example_de": "Die Menschen sind hier anders als bei uns.",
+  "example_en": "People here are different from us."
+ },
+ {
+  "id": "mieten",
+  "de": "mieten",
+  "article": null,
+  "plural": null,
+  "meaning": "to rent",
+  "example_de": "Ich möchte ein Auto mieten.",
+  "example_en": "I'd like to rent a car."
+ },
+ {
+  "id": "die-miete",
+  "de": "Miete",
+  "article": "die",
+  "plural": null,
+  "meaning": "rent",
+  "example_de": "Die Miete für diese Wohnung ist 600 Euro.",
+  "example_en": "The rent for this flat is 600 euros."
+ },
+ {
+  "id": "die-milch",
+  "de": "Milch",
+  "article": "die",
+  "plural": null,
+  "meaning": "milk",
+  "example_de": "Die Milch steht im Kühlschrank.",
+  "example_en": "The milk is in the fridge."
+ },
+ {
+  "id": "mit",
+  "de": "mit",
+  "article": null,
+  "plural": null,
+  "meaning": "with",
+  "example_de": "Trinken Sie den Kaffee mit Milch?",
+  "example_en": "Do you drink your coffee with milk?"
+ },
+ {
+  "id": "mitbringen",
+  "de": "mitbringen",
+  "article": null,
+  "plural": null,
+  "meaning": "to bring along",
+  "example_de": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+  "example_en": "I'm going shopping. Should I bring you something?"
+ },
+ {
+  "id": "mitkommen",
+  "de": "mitkommen",
+  "article": null,
+  "plural": null,
+  "meaning": "to come along",
+  "example_de": "Ich gehe ins Kino. Kommst du mit?",
+  "example_en": "I'm going to the cinema. Are you coming along?"
+ },
+ {
+  "id": "mitmachen",
+  "de": "mitmachen",
+  "article": null,
+  "plural": null,
+  "meaning": "to join in",
+  "example_de": "Warum macht ihr nicht mit?",
+  "example_en": "Why don't you join in?"
+ },
+ {
+  "id": "mitnehmen",
+  "de": "mitnehmen",
+  "article": null,
+  "plural": null,
+  "meaning": "to take along",
+  "example_de": "Nehmen wir meine Schwester ins Kino mit?",
+  "example_en": "Shall we take my sister to the cinema with us?"
+ },
+ {
+  "id": "die-mitte",
+  "de": "Mitte",
+  "article": "die",
+  "plural": null,
+  "meaning": "middle, centre",
+  "example_de": "Der Lehrer steht in der Mitte des Klassenzimmers.",
+  "example_en": "The teacher stands in the middle of the classroom."
+ },
+ {
+  "id": "die-moebel",
+  "de": "Möbel",
+  "article": "die",
+  "plural": null,
+  "meaning": "furniture",
+  "example_de": "Sind die Möbel neu?",
+  "example_en": "Is the furniture new?"
+ },
+ {
+  "id": "moechten",
+  "de": "möchten",
+  "article": null,
+  "plural": null,
+  "meaning": "would like",
+  "example_de": "Was möchten Sie trinken?",
+  "example_en": "What would you like to drink?"
+ },
+ {
+  "id": "moegen",
+  "de": "mögen",
+  "article": null,
+  "plural": null,
+  "meaning": "to like",
+  "example_de": "Magst du Kaffee oder Tee?",
+  "example_en": "Do you like coffee or tea?"
+ },
+ {
+  "id": "moeglich",
+  "de": "möglich",
+  "article": null,
+  "plural": null,
+  "meaning": "possible",
+  "example_de": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+  "example_en": "With this ticket, the trip is possible from 9 o'clock."
+ },
+ {
+  "id": "der-moment",
+  "de": "Moment",
+  "article": "der",
+  "plural": null,
+  "meaning": "moment",
+  "example_de": "Moment mal bitte!",
+  "example_en": "Just a moment, please!"
+ },
+ {
+  "id": "morgen",
+  "de": "morgen",
+  "article": null,
+  "plural": null,
+  "meaning": "tomorrow",
+  "example_de": "Morgen beginnt die Schule um 10 Uhr.",
+  "example_en": "School starts at 10 o'clock tomorrow."
+ },
+ {
+  "id": "muede",
+  "de": "müde",
+  "article": null,
+  "plural": null,
+  "meaning": "tired",
+  "example_de": "Ich bin müde. Ich gehe schlafen.",
+  "example_en": "I'm tired. I'm going to sleep."
+ },
+ {
+  "id": "der-mund",
+  "de": "Mund",
+  "article": "der",
+  "plural": null,
+  "meaning": "mouth",
+  "example_de": "Öffnen Sie den Mund.",
+  "example_en": "Open your mouth."
+ },
+ {
+  "id": "muessen",
+  "de": "müssen",
+  "article": null,
+  "plural": null,
+  "meaning": "to have to, must",
+  "example_de": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+  "example_en": "I have to work every day from 8 am to 6 pm."
+ },
+ {
+  "id": "die-mutter",
+  "de": "Mutter",
+  "article": "die",
+  "plural": "Mütter",
+  "meaning": "mother",
+  "example_de": "Frau Berghäuser ist die Mutter von Michaela.",
+  "example_en": "Mrs. Berghäuser is Michaela's mother."
+ },
+ {
+  "id": "nach",
+  "de": "nach",
+  "article": null,
+  "plural": null,
+  "meaning": "to, after",
+  "example_de": "Ich gehe jetzt nach Hause.",
+  "example_en": "I'm going home now."
+ },
+ {
+  "id": "naechst",
+  "de": "nächst-",
+  "article": null,
+  "plural": null,
+  "meaning": "next",
+  "example_de": "Sehen wir uns nächste Woche?",
+  "example_en": "Shall we see each other next week?"
+ },
+ {
+  "id": "der-name",
+  "de": "Name",
+  "article": "der",
+  "plural": "Namen",
+  "meaning": "name",
+  "example_de": "Mein Name ist Thomas Schmidt.",
+  "example_en": "My name is Thomas Schmidt."
+ },
+ {
+  "id": "nehmen",
+  "de": "nehmen",
+  "article": null,
+  "plural": null,
+  "meaning": "to take",
+  "example_de": "Heute gibt es Hähnchen. Das nehme ich.",
+  "example_en": "Today there's chicken. I'll take that."
+ },
+ {
+  "id": "nein",
+  "de": "nein",
+  "article": null,
+  "plural": null,
+  "meaning": "no",
+  "example_de": "Fährst du auch nach München? – Nein, ich habe keine Zeit.",
+  "example_en": "Are you going to Munich too? – No, I don't have time."
+ },
+ {
+  "id": "neu",
+  "de": "neu",
+  "article": null,
+  "plural": null,
+  "meaning": "new",
+  "example_de": "Ich bin der neue Kollege.",
+  "example_en": "I'm the new colleague."
+ },
+ {
+  "id": "nicht",
+  "de": "nicht",
+  "article": null,
+  "plural": null,
+  "meaning": "not",
+  "example_de": "Das stimmt nicht.",
+  "example_en": "That's not right."
+ },
+ {
+  "id": "nichts",
+  "de": "nichts",
+  "article": null,
+  "plural": null,
+  "meaning": "nothing",
+  "example_de": "Das macht nichts.",
+  "example_en": "That doesn't matter."
+ },
+ {
+  "id": "nie",
+  "de": "nie",
+  "article": null,
+  "plural": null,
+  "meaning": "never",
+  "example_de": "Er kommt nie pünktlich.",
+  "example_en": "He never arrives on time."
+ },
+ {
+  "id": "noch",
+  "de": "noch",
+  "article": null,
+  "plural": null,
+  "meaning": "still, yet",
+  "example_de": "Vielleicht kommt er noch.",
+  "example_en": "Maybe he is still coming."
+ },
+ {
+  "id": "normal",
+  "de": "normal",
+  "article": null,
+  "plural": null,
+  "meaning": "normal",
+  "example_de": "75 kg. Sein Gewicht ist normal.",
+  "example_en": "75 kg. His weight is normal."
+ },
+ {
+  "id": "die-nummer",
+  "de": "Nummer",
+  "article": "die",
+  "plural": "Nummern",
+  "meaning": "number",
+  "example_de": "Sie haben Zimmer Nummer zwölf.",
+  "example_en": "You have room number twelve."
+ },
+ {
+  "id": "nur",
+  "de": "nur",
+  "article": null,
+  "plural": null,
+  "meaning": "only",
+  "example_de": "Ich möchte nur ein Glas Wasser.",
+  "example_en": "I would only like a glass of water."
+ },
+ {
+  "id": "oben",
+  "de": "oben",
+  "article": null,
+  "plural": null,
+  "meaning": "upstairs, above",
+  "example_de": "Ich wohne oben.",
+  "example_en": "I live upstairs."
+ },
+ {
+  "id": "das-obst",
+  "de": "Obst",
+  "article": "das",
+  "plural": null,
+  "meaning": "fruit",
+  "example_de": "Im Sommer ist das Obst billig.",
+  "example_en": "In summer, fruit is cheap."
+ },
+ {
+  "id": "oder",
+  "de": "oder",
+  "article": null,
+  "plural": null,
+  "meaning": "or",
+  "example_de": "Wann können Sie kommen – heute oder morgen?",
+  "example_en": "When can you come – today or tomorrow?"
+ },
+ {
+  "id": "oeffnen",
+  "de": "öffnen",
+  "article": null,
+  "plural": null,
+  "meaning": "to open",
+  "example_de": "Ich öffne die Tür.",
+  "example_en": "I open the door."
+ },
+ {
+  "id": "geoeffnet",
+  "de": "geöffnet",
+  "article": null,
+  "plural": null,
+  "meaning": "open",
+  "example_de": "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+  "example_en": "The shop is open on Saturdays until 4 p.m."
+ },
+ {
+  "id": "oft",
+  "de": "oft",
+  "article": null,
+  "plural": null,
+  "meaning": "often",
+  "example_de": "Petra treffe ich oft.",
+  "example_en": "I often meet Petra."
+ },
+ {
+  "id": "ohne",
+  "de": "ohne",
+  "article": null,
+  "plural": null,
+  "meaning": "without",
+  "example_de": "Ohne Geld kann er nichts kaufen.",
+  "example_en": "Without money, he can't buy anything."
+ },
+ {
+  "id": "das-oel",
+  "de": "Öl",
+  "article": "das",
+  "plural": null,
+  "meaning": "oil",
+  "example_de": "Den Salat machen wir ohne Öl.",
+  "example_en": "We make the salad without oil."
+ },
+ {
+  "id": "die-oma",
+  "de": "Oma",
+  "article": "die",
+  "plural": "Omas",
+  "meaning": "grandma",
+  "example_de": "Meine Oma ist schon tot.",
+  "example_en": "My grandma is already dead."
+ },
+ {
+  "id": "der-opa",
+  "de": "Opa",
+  "article": "der",
+  "plural": "Opas",
+  "meaning": "grandpa",
+  "example_de": "Mein Opa heißt Hans.",
+  "example_en": "My grandpa is called Hans."
+ },
+ {
+  "id": "die-ordnung",
+  "de": "Ordnung",
+  "article": "die",
+  "plural": null,
+  "meaning": "order",
+  "example_de": "Das ist in Ordnung.",
+  "example_en": "That's fine."
+ },
+ {
+  "id": "der-ort",
+  "de": "Ort",
+  "article": "der",
+  "plural": "Orte",
+  "meaning": "place",
+  "example_de": "Der Ort liegt am Meer.",
+  "example_en": "The place is by the sea."
+ },
+ {
+  "id": "das-papier",
+  "de": "Papier",
+  "article": "das",
+  "plural": null,
+  "meaning": "paper",
+  "example_de": "Hier sind Papier und Bleistift.",
+  "example_en": "Here are paper and a pencil."
+ },
+ {
+  "id": "die-papiere",
+  "de": "Papiere",
+  "article": "die",
+  "plural": null,
+  "meaning": "papers, documents",
+  "example_de": "Haben Sie Ihre Papiere dabei?",
+  "example_en": "Do you have your papers with you?"
+ },
+ {
+  "id": "der-partner",
+  "de": "Partner",
+  "article": "der",
+  "plural": "Partner",
+  "meaning": "partner",
+  "example_de": "Mein Partner ist sehr nett.",
+  "example_en": "My partner is very nice."
+ },
+ {
+  "id": "die-partnerin",
+  "de": "Partnerin",
+  "article": "die",
+  "plural": "Partnerinnen",
+  "meaning": "partner",
+  "example_de": "Sie ist meine Partnerin.",
+  "example_en": "She is my partner."
+ },
+ {
+  "id": "die-party",
+  "de": "Party",
+  "article": "die",
+  "plural": null,
+  "meaning": "party",
+  "example_de": "Heute Abend machen wir eine Party.",
+  "example_en": "Tonight we are having a party."
+ },
+ {
+  "id": "der-pass",
+  "de": "Pass",
+  "article": "der",
+  "plural": "Pässe",
+  "meaning": "passport",
+  "example_de": "Im Hotel brauchst du deinen Pass.",
+  "example_en": "At the hotel you need your passport."
+ },
+ {
+  "id": "die-pause",
+  "de": "Pause",
+  "article": "die",
+  "plural": "Pausen",
+  "meaning": "break",
+  "example_de": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+  "example_en": "From 12:00 to 12:30 we have a lunch break."
+ },
+ {
+  "id": "der-plan",
+  "de": "Plan",
+  "article": "der",
+  "plural": "Pläne",
+  "meaning": "plan, map",
+  "example_de": "Ich kaufe mir einen Stadtplan.",
+  "example_en": "I am buying a city map."
+ },
+ {
+  "id": "der-platz",
+  "de": "Platz",
+  "article": "der",
+  "plural": "Plätze",
+  "meaning": "place, seat",
+  "example_de": "Tut mir leid, der Platz ist besetzt.",
+  "example_en": "Sorry, this seat is taken."
+ },
+ {
+  "id": "die-polizei",
+  "de": "Polizei",
+  "article": "die",
+  "plural": null,
+  "meaning": "police",
+  "example_de": "Holen Sie die Polizei!",
+  "example_en": "Call the police!"
+ },
+ {
+  "id": "die-pommes-frites",
+  "de": "Pommes frites",
+  "article": "die",
+  "plural": null,
+  "meaning": "french fries",
+  "example_de": "Die Kinder essen Hähnchen mit Pommes frites.",
+  "example_en": "The children eat chicken with french fries."
+ },
+ {
+  "id": "die-post",
+  "de": "Post",
+  "article": "die",
+  "plural": null,
+  "meaning": "post office, mail",
+  "example_de": "Wo ist die Post, bitte?",
+  "example_en": "Where is the post office, please?"
+ },
+ {
+  "id": "die-postleitzahl",
+  "de": "Postleitzahl",
+  "article": "die",
+  "plural": null,
+  "meaning": "postcode",
+  "example_de": "Wie ist Ihre Postleitzahl?",
+  "example_en": "What is your postcode?"
+ },
+ {
+  "id": "das-praktikum",
+  "de": "Praktikum",
+  "article": "das",
+  "plural": null,
+  "meaning": "internship",
+  "example_de": "Ich mache ein Praktikum bei Siemens.",
+  "example_en": "I am doing an internship at Siemens."
+ },
+ {
+  "id": "die-praxis",
+  "de": "Praxis",
+  "article": "die",
+  "plural": null,
+  "meaning": "doctor's office",
+  "example_de": "Die Praxis ist ab acht Uhr geöffnet.",
+  "example_en": "The office is open from eight o'clock."
+ },
+ {
+  "id": "der-preis",
+  "de": "Preis",
+  "article": "der",
+  "plural": "Preise",
+  "meaning": "price",
+  "example_de": "Die Preise sind hoch.",
+  "example_en": "The prices are high."
+ },
+ {
+  "id": "das-problem",
+  "de": "Problem",
+  "article": "das",
+  "plural": "Probleme",
+  "meaning": "problem",
+  "example_de": "Mein Problem ist die Sprache.",
+  "example_en": "My problem is the language."
+ },
+ {
+  "id": "der-prospekt",
+  "de": "Prospekt",
+  "article": "der",
+  "plural": "Prospekte",
+  "meaning": "brochure",
+  "example_de": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+  "example_en": "Please send me a brochure from your hotel."
+ },
+ {
+  "id": "die-pruefung",
+  "de": "Prüfung",
+  "article": "die",
+  "plural": null,
+  "meaning": "exam",
+  "example_de": "Die Prüfung ist am Montag um 8.00 Uhr.",
+  "example_en": "The exam is on Monday at 8:00."
+ },
+ {
+  "id": "puenktlich",
+  "de": "pünktlich",
+  "article": null,
+  "plural": null,
+  "meaning": "punctual, on time",
+  "example_de": "Der Bus fährt pünktlich um acht Uhr.",
+  "example_en": "The bus leaves on time at eight o'clock."
+ },
+ {
+  "id": "rad-fahren",
+  "de": "Rad fahren",
+  "article": null,
+  "plural": null,
+  "meaning": "to cycle",
+  "example_de": "Das Kind kann schon Rad fahren.",
+  "example_en": "The child can already ride a bike."
+ },
+ {
+  "id": "rauchen",
+  "de": "rauchen",
+  "article": null,
+  "plural": null,
+  "meaning": "to smoke",
+  "example_de": "Ich rauche nicht.",
+  "example_en": "I do not smoke."
+ },
+ {
+  "id": "der-raum",
+  "de": "Raum",
+  "article": "der",
+  "plural": "Räume",
+  "meaning": "room",
+  "example_de": "Der Unterricht ist in Raum 332.",
+  "example_en": "The class is in room 332."
+ },
+ {
+  "id": "die-rechnung",
+  "de": "Rechnung",
+  "article": "die",
+  "plural": "Rechnungen",
+  "meaning": "bill",
+  "example_de": "Die Rechnung, bitte.",
+  "example_en": "The bill, please."
+ },
+ {
+  "id": "rechts",
+  "de": "rechts",
+  "article": null,
+  "plural": null,
+  "meaning": "right, on the right",
+  "example_de": "Die Schillerstraße ist hier rechts.",
+  "example_en": "Schillerstraße is on the right here."
+ },
+ {
+  "id": "regnen",
+  "de": "regnen",
+  "article": null,
+  "plural": null,
+  "meaning": "to rain",
+  "example_de": "Heute regnet es.",
+  "example_en": "It is raining today."
+ },
+ {
+  "id": "der-regen",
+  "de": "Regen",
+  "article": "der",
+  "plural": null,
+  "meaning": "rain",
+  "example_de": "Bei diesem Regen gehe ich nicht raus.",
+  "example_en": "I am not going outside in this rain."
+ },
+ {
+  "id": "der-reis",
+  "de": "Reis",
+  "article": "der",
+  "plural": null,
+  "meaning": "rice",
+  "example_de": "Ich esse gern Reis.",
+  "example_en": "I like to eat rice."
+ },
+ {
+  "id": "reisen",
+  "de": "reisen",
+  "article": null,
+  "plural": null,
+  "meaning": "to travel",
+  "example_de": "Ich reise gern.",
+  "example_en": "I like to travel."
+ },
+ {
+  "id": "die-reise",
+  "de": "Reise",
+  "article": "die",
+  "plural": "Reisen",
+  "meaning": "trip",
+  "example_de": "Wir machen eine Reise nach Österreich.",
+  "example_en": "We are going on a trip to Austria."
+ },
+ {
+  "id": "das-reisebuero",
+  "de": "Reisebüro",
+  "article": "das",
+  "plural": "Reisebüros",
+  "meaning": "travel agency",
+  "example_de": "Mein Mann arbeitet im Reisebüro.",
+  "example_en": "My husband works at a travel agency."
+ },
+ {
+  "id": "der-reisefuehrer",
+  "de": "Reiseführer",
+  "article": "der",
+  "plural": null,
+  "meaning": "guidebook",
+  "example_de": "Ich kaufe mir einen Reiseführer von Berlin.",
+  "example_en": "I am buying a guidebook of Berlin."
+ },
+ {
+  "id": "reparieren",
+  "de": "reparieren",
+  "article": null,
+  "plural": null,
+  "meaning": "to repair",
+  "example_de": "Er hat das Fahrrad repariert.",
+  "example_en": "He has repaired the bike."
+ },
+ {
+  "id": "die-reparatur",
+  "de": "Reparatur",
+  "article": "die",
+  "plural": null,
+  "meaning": "repair",
+  "example_de": "Die Reparatur ist sehr teuer.",
+  "example_en": "The repair is very expensive."
+ },
+ {
+  "id": "das-restaurant",
+  "de": "Restaurant",
+  "article": "das",
+  "plural": "Restaurants",
+  "meaning": "restaurant",
+  "example_de": "Wir essen heute in einem Restaurant.",
+  "example_en": "We are eating at a restaurant today."
+ },
+ {
+  "id": "die-rezeption",
+  "de": "Rezeption",
+  "article": "die",
+  "plural": null,
+  "meaning": "reception desk",
+  "example_de": "Fragen Sie bitte im Hotel an der Rezeption.",
+  "example_en": "Please ask at the reception desk in the hotel."
+ },
+ {
+  "id": "richtig",
+  "de": "richtig",
+  "article": null,
+  "plural": null,
+  "meaning": "right, correct",
+  "example_de": "Habe ich das richtig verstanden?",
+  "example_en": "Did I understand that correctly?"
+ },
+ {
+  "id": "riechen",
+  "de": "riechen",
+  "article": null,
+  "plural": null,
+  "meaning": "to smell",
+  "example_de": "Dieser Wein riecht gut.",
+  "example_en": "This wine smells good."
+ },
+ {
+  "id": "ruhig",
+  "de": "ruhig",
+  "article": null,
+  "plural": null,
+  "meaning": "quiet, calm",
+  "example_de": "Ich möchte ein ruhiges Zimmer.",
+  "example_en": "I would like a quiet room."
+ },
+ {
+  "id": "der-saft",
+  "de": "Saft",
+  "article": "der",
+  "plural": null,
+  "meaning": "juice",
+  "example_de": "Möchtest du einen Apfelsaft?",
+  "example_en": "Would you like an apple juice?"
+ },
+ {
+  "id": "sagen",
+  "de": "sagen",
+  "article": null,
+  "plural": null,
+  "meaning": "to say",
+  "example_de": "Sag mal, wie geht es dir denn?",
+  "example_en": "Tell me, how are you doing?"
+ },
+ {
+  "id": "der-salat",
+  "de": "Salat",
+  "article": "der",
+  "plural": null,
+  "meaning": "salad",
+  "example_de": "Wie schmeckt dir der Salat?",
+  "example_en": "How does the salad taste to you?"
+ },
+ {
+  "id": "das-salz",
+  "de": "Salz",
+  "article": "das",
+  "plural": null,
+  "meaning": "salt",
+  "example_de": "Herr Ober, kann ich bitte Salz haben?",
+  "example_en": "Waiter, may I have some salt, please?"
+ },
+ {
+  "id": "der-satz",
+  "de": "Satz",
+  "article": "der",
+  "plural": "Sätze",
+  "meaning": "sentence",
+  "example_de": "Dieser Satz ist sehr einfach.",
+  "example_en": "This sentence is very simple."
+ },
+ {
+  "id": "die-s-bahn",
+  "de": "S-Bahn",
+  "article": "die",
+  "plural": null,
+  "meaning": "suburban train",
+  "example_de": "Ich nehme lieber die S-Bahn.",
+  "example_en": "I prefer to take the S-Bahn."
+ },
+ {
+  "id": "der-schalter",
+  "de": "Schalter",
+  "article": "der",
+  "plural": null,
+  "meaning": "counter, window",
+  "example_de": "Gehen Sie bitte zum Schalter drei!",
+  "example_en": "Please go to counter three!"
+ },
+ {
+  "id": "scheinen",
+  "de": "scheinen",
+  "article": null,
+  "plural": null,
+  "meaning": "to shine",
+  "example_de": "Die Sonne scheint.",
+  "example_en": "The sun is shining."
+ },
+ {
+  "id": "schicken",
+  "de": "schicken",
+  "article": null,
+  "plural": null,
+  "meaning": "to send",
+  "example_de": "Bitte schicken Sie mir eine E-Mail.",
+  "example_en": "Please send me an email."
+ },
+ {
+  "id": "das-schild",
+  "de": "Schild",
+  "article": "das",
+  "plural": "Schilder",
+  "meaning": "sign",
+  "example_de": "Haben Sie nicht das Schild gesehen?",
+  "example_en": "Didn't you see the sign?"
+ },
+ {
+  "id": "der-schinken",
+  "de": "Schinken",
+  "article": "der",
+  "plural": "Schinken",
+  "meaning": "ham",
+  "example_de": "Ich möchte gern ein Schinkenbrot.",
+  "example_en": "I would like a ham sandwich."
+ },
+ {
+  "id": "schlafen",
+  "de": "schlafen",
+  "article": null,
+  "plural": null,
+  "meaning": "to sleep",
+  "example_de": "Ich schlafe meistens acht Stunden.",
+  "example_en": "I usually sleep eight hours."
+ },
+ {
+  "id": "schlecht",
+  "de": "schlecht",
+  "article": null,
+  "plural": null,
+  "meaning": "bad",
+  "example_de": "Mir ist schlecht!",
+  "example_en": "I feel sick!"
+ },
+ {
+  "id": "schliessen",
+  "de": "schließen",
+  "article": null,
+  "plural": null,
+  "meaning": "to close",
+  "example_de": "Bitte, schließen Sie die Tür.",
+  "example_en": "Please close the door."
+ },
+ {
+  "id": "geschlossen",
+  "de": "geschlossen",
+  "article": null,
+  "plural": null,
+  "meaning": "closed",
+  "example_de": "Die Bank hat am Samstag geschlossen.",
+  "example_en": "The bank is closed on Saturday."
+ },
+ {
+  "id": "der-schluss",
+  "de": "Schluss",
+  "article": "der",
+  "plural": null,
+  "meaning": "end",
+  "example_de": "Ich muss jetzt Schluss machen.",
+  "example_en": "I have to finish now."
+ },
+ {
+  "id": "der-schluessel",
+  "de": "Schlüssel",
+  "article": "der",
+  "plural": "Schlüssel",
+  "meaning": "key",
+  "example_de": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+  "example_en": "I will give you the room key."
+ },
+ {
+  "id": "schmecken",
+  "de": "schmecken",
+  "article": null,
+  "plural": null,
+  "meaning": "to taste",
+  "example_de": "Schmeckt das gut?",
+  "example_en": "Does that taste good?"
+ },
+ {
+  "id": "schnell",
+  "de": "schnell",
+  "article": null,
+  "plural": null,
+  "meaning": "fast",
+  "example_de": "Er fährt schnell.",
+  "example_en": "He drives fast."
+ },
+ {
+  "id": "schon",
+  "de": "schon",
+  "article": null,
+  "plural": null,
+  "meaning": "already",
+  "example_de": "Ist das Essen schon fertig?",
+  "example_en": "Is the food ready yet?"
+ },
+ {
+  "id": "schoen",
+  "de": "schön",
+  "article": null,
+  "plural": null,
+  "meaning": "beautiful, nice",
+  "example_de": "Schönen Urlaub!",
+  "example_en": "Have a nice holiday!"
+ },
+ {
+  "id": "der-schrank",
+  "de": "Schrank",
+  "article": "der",
+  "plural": "Schränke",
+  "meaning": "cupboard",
+  "example_de": "Die Gläser stehen im Schrank.",
+  "example_en": "The glasses are in the cupboard."
+ },
+ {
+  "id": "schreiben",
+  "de": "schreiben",
+  "article": null,
+  "plural": null,
+  "meaning": "to write",
+  "example_de": "Er schreibt jeden Tag fünfzig E-Mails.",
+  "example_en": "He writes fifty emails every day."
+ },
+ {
+  "id": "der-schuh",
+  "de": "Schuh",
+  "article": "der",
+  "plural": "Schuhe",
+  "meaning": "shoe",
+  "example_de": "Zieh die Schuhe aus!",
+  "example_en": "Take off your shoes!"
+ },
+ {
+  "id": "die-schule",
+  "de": "Schule",
+  "article": "die",
+  "plural": null,
+  "meaning": "school",
+  "example_de": "Meine Tochter geht schon in die Schule.",
+  "example_en": "My daughter already goes to school."
+ },
+ {
+  "id": "der-schueler",
+  "de": "Schüler",
+  "article": "der",
+  "plural": "Schüler",
+  "meaning": "pupil",
+  "example_de": "In meinem Kurs sind acht Schülerinnen und fünf Schüler.",
+  "example_en": "In my class there are eight female pupils and five male pupils."
+ },
+ {
+  "id": "schwer",
+  "de": "schwer",
+  "article": null,
+  "plural": null,
+  "meaning": "heavy, difficult",
+  "example_de": "Ist Ihr Gepäck sehr schwer?",
+  "example_en": "Is your luggage very heavy?"
+ },
+ {
+  "id": "die-schwester",
+  "de": "Schwester",
+  "article": "die",
+  "plural": "Schwestern",
+  "meaning": "sister",
+  "example_de": "Meine Schwester kommt am Dienstag.",
+  "example_en": "My sister is coming on Tuesday."
+ },
+ {
+  "id": "schwimmen",
+  "de": "schwimmen",
+  "article": null,
+  "plural": null,
+  "meaning": "to swim",
+  "example_de": "Ich schwimme jeden Tag einen Kilometer.",
+  "example_en": "I swim one kilometer every day."
+ },
+ {
+  "id": "das-schwimmbad",
+  "de": "Schwimmbad",
+  "article": "das",
+  "plural": null,
+  "meaning": "swimming pool",
+  "example_de": "Kommst du mit ins Schwimmbad?",
+  "example_en": "Are you coming with me to the swimming pool?"
+ },
+ {
+  "id": "der-see",
+  "de": "See",
+  "article": "der",
+  "plural": null,
+  "meaning": "lake",
+  "example_de": "Komm, wir fahren zum Starnberger See.",
+  "example_en": "Come, let's drive to Lake Starnberg."
+ },
+ {
+  "id": "sehen",
+  "de": "sehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to see",
+  "example_de": "Ich kann dich nicht sehen.",
+  "example_en": "I cannot see you."
+ },
+ {
+  "id": "die-sehenswuerdigkeit",
+  "de": "Sehenswürdigkeit",
+  "article": "die",
+  "plural": "Sehenswürdigkeiten",
+  "meaning": "sight, landmark",
+  "example_de": "Welche Sehenswürdigkeiten gibt es in Frankfurt?",
+  "example_en": "What sights are there in Frankfurt?"
+ },
+ {
+  "id": "sehr",
+  "de": "sehr",
+  "article": null,
+  "plural": null,
+  "meaning": "very",
+  "example_de": "Danke sehr!",
+  "example_en": "Thank you very much!"
+ },
+ {
+  "id": "sein",
+  "de": "sein",
+  "article": null,
+  "plural": null,
+  "meaning": "to be",
+  "example_de": "Herr Müller ist in seinem Zimmer.",
+  "example_en": "Mr. Müller is in his room."
+ },
+ {
+  "id": "weg-sein",
+  "de": "weg sein",
+  "article": null,
+  "plural": null,
+  "meaning": "to be gone",
+  "example_de": "Herr Meier ist schon weg.",
+  "example_en": "Mr. Meier has already gone."
+ },
+ {
+  "id": "zu-sein",
+  "de": "zu sein",
+  "article": null,
+  "plural": null,
+  "meaning": "to be closed",
+  "example_de": "Die Tür ist zu.",
+  "example_en": "The door is closed."
+ },
+ {
+  "id": "seit",
+  "de": "seit",
+  "article": null,
+  "plural": null,
+  "meaning": "since, for",
+  "example_de": "Ich wohne seit drei Jahren in Köln.",
+  "example_en": "I have lived in Cologne for three years."
+ },
+ {
+  "id": "selbststaendig",
+  "de": "selbstständig",
+  "article": null,
+  "plural": null,
+  "meaning": "self-employed",
+  "example_de": "Er ist selbstständig.",
+  "example_en": "He is self-employed."
+ },
+ {
+  "id": "sich",
+  "de": "sich",
+  "article": null,
+  "plural": null,
+  "meaning": "oneself",
+  "example_de": "Sie müssen sich erst anmelden.",
+  "example_en": "You must register first."
+ },
+ {
+  "id": "sie",
+  "de": "sie",
+  "article": null,
+  "plural": null,
+  "meaning": "she, her",
+  "example_de": "Wie heißt sie?",
+  "example_en": "What is her name?"
+ },
+ {
+  "id": "sitzen",
+  "de": "sitzen",
+  "article": null,
+  "plural": null,
+  "meaning": "to sit",
+  "example_de": "Wo sitzen Sie?",
+  "example_en": "Where are you sitting?"
+ },
+ {
+  "id": "so",
+  "de": "so",
+  "article": null,
+  "plural": null,
+  "meaning": "so, like this",
+  "example_de": "Sie müssen das so machen!",
+  "example_en": "You must do it like this!"
+ },
+ {
+  "id": "das-sofa",
+  "de": "Sofa",
+  "article": "das",
+  "plural": null,
+  "meaning": "sofa",
+  "example_de": "Das Sofa ist neu.",
+  "example_en": "The sofa is new."
+ },
+ {
+  "id": "sofort",
+  "de": "sofort",
+  "article": null,
+  "plural": null,
+  "meaning": "immediately",
+  "example_de": "Bitte antworten Sie sofort.",
+  "example_en": "Please answer immediately."
+ },
+ {
+  "id": "der-sohn",
+  "de": "Sohn",
+  "article": "der",
+  "plural": "Söhne",
+  "meaning": "son",
+  "example_de": "Das ist Hans, mein Sohn.",
+  "example_en": "This is Hans, my son."
+ },
+ {
+  "id": "sollen",
+  "de": "sollen",
+  "article": null,
+  "plural": null,
+  "meaning": "should, to be supposed to",
+  "example_de": "Soll ich kommen?",
+  "example_en": "Should I come?"
+ },
+ {
+  "id": "die-sonne",
+  "de": "Sonne",
+  "article": "die",
+  "plural": null,
+  "meaning": "sun",
+  "example_de": "Die Sonne scheint.",
+  "example_en": "The sun is shining."
+ },
+ {
+  "id": "spaet",
+  "de": "spät",
+  "article": null,
+  "plural": null,
+  "meaning": "late",
+  "example_de": "Es ist schon spät, ich muss gehen.",
+  "example_en": "It is already late, I have to go."
+ },
+ {
+  "id": "spaeter",
+  "de": "später",
+  "article": null,
+  "plural": null,
+  "meaning": "later",
+  "example_de": "Das können wir später machen.",
+  "example_en": "We can do that later."
+ },
+ {
+  "id": "die-speisekarte",
+  "de": "Speisekarte",
+  "article": "die",
+  "plural": null,
+  "meaning": "menu",
+  "example_de": "Bringen Sie mir die Speisekarte, bitte.",
+  "example_en": "Please bring me the menu."
+ },
+ {
+  "id": "spielen",
+  "de": "spielen",
+  "article": null,
+  "plural": null,
+  "meaning": "to play",
+  "example_de": "Die Kinder spielen draußen.",
+  "example_en": "The children are playing outside."
+ },
+ {
+  "id": "der-sport",
+  "de": "Sport",
+  "article": "der",
+  "plural": null,
+  "meaning": "sport",
+  "example_de": "Ich mache viel Sport.",
+  "example_en": "I do a lot of sport."
+ },
+ {
+  "id": "die-sprache",
+  "de": "Sprache",
+  "article": "die",
+  "plural": "Sprachen",
+  "meaning": "language",
+  "example_de": "Welche Sprachen sprichst du?",
+  "example_en": "Which languages do you speak?"
+ },
+ {
+  "id": "sprechen",
+  "de": "sprechen",
+  "article": null,
+  "plural": null,
+  "meaning": "to speak",
+  "example_de": "Kann ich (mit) Herrn Klein sprechen?",
+  "example_en": "Can I speak with Mr. Klein?"
+ },
+ {
+  "id": "die-stadt",
+  "de": "Stadt",
+  "article": "die",
+  "plural": "Städte",
+  "meaning": "city",
+  "example_de": "Heidelberg ist eine alte Stadt.",
+  "example_en": "Heidelberg is an old city."
+ },
+ {
+  "id": "stehen",
+  "de": "stehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to stand, to be written",
+  "example_de": "Ich glaube es nicht, aber es steht in der Zeitung.",
+  "example_en": "I don't believe it, but it is in the newspaper."
+ },
+ {
+  "id": "die-stelle",
+  "de": "Stelle",
+  "article": "die",
+  "plural": "Stellen",
+  "meaning": "job, position",
+  "example_de": "Ich habe eine neue Stelle.",
+  "example_en": "I have a new job."
+ },
+ {
+  "id": "stellen",
+  "de": "stellen",
+  "article": null,
+  "plural": null,
+  "meaning": "to put, place",
+  "example_de": "Stell die Tasche rechts in die Ecke!",
+  "example_en": "Put the bag in the corner on the right!"
+ },
+ {
+  "id": "der-stock",
+  "de": "Stock",
+  "article": "der",
+  "plural": null,
+  "meaning": "floor, storey",
+  "example_de": "Unsere Wohnung liegt im ersten Stock.",
+  "example_en": "Our flat is on the first floor."
+ },
+ {
+  "id": "die-strasse",
+  "de": "Straße",
+  "article": "die",
+  "plural": "Straßen",
+  "meaning": "street",
+  "example_de": "In welcher Straße wohnen Sie?",
+  "example_en": "On which street do you live?"
+ },
+ {
+  "id": "die-strassenbahn",
+  "de": "Straßenbahn",
+  "article": "die",
+  "plural": null,
+  "meaning": "tram",
+  "example_de": "Wo fährt die Straßenbahn ab?",
+  "example_en": "Where does the tram leave from?"
+ },
+ {
+  "id": "studieren",
+  "de": "studieren",
+  "article": null,
+  "plural": null,
+  "meaning": "to study",
+  "example_de": "Ich studiere in Mainz.",
+  "example_en": "I study in Mainz."
+ },
+ {
+  "id": "das-studium",
+  "de": "Studium",
+  "article": "das",
+  "plural": null,
+  "meaning": "studies, university course",
+  "example_de": "Das Studium beginnt im Oktober.",
+  "example_en": "The course starts in October."
+ },
+ {
+  "id": "der-student",
+  "de": "Student",
+  "article": "der",
+  "plural": "Studenten",
+  "meaning": "student",
+  "example_de": "Ich bin Studentin.",
+  "example_en": "I am a student (female)."
+ },
+ {
+  "id": "die-stunde",
+  "de": "Stunde",
+  "article": "die",
+  "plural": "Stunden",
+  "meaning": "hour",
+  "example_de": "Ich bin in einer Stunde zurück.",
+  "example_en": "I'll be back in an hour."
+ },
+ {
+  "id": "suchen",
+  "de": "suchen",
+  "article": null,
+  "plural": null,
+  "meaning": "to search, look for",
+  "example_de": "Suchst du etwas?",
+  "example_en": "Are you looking for something?"
+ },
+ {
+  "id": "tanzen",
+  "de": "tanzen",
+  "article": null,
+  "plural": null,
+  "meaning": "to dance",
+  "example_de": "Tanzen Sie gern?",
+  "example_en": "Do you like to dance?"
+ },
+ {
+  "id": "die-tasche",
+  "de": "Tasche",
+  "article": "die",
+  "plural": "Taschen",
+  "meaning": "bag",
+  "example_de": "Ich habe die Schlüssel in der Tasche.",
+  "example_en": "I have the keys in my bag."
+ },
+ {
+  "id": "das-taxi",
+  "de": "Taxi",
+  "article": "das",
+  "plural": "Taxis",
+  "meaning": "taxi",
+  "example_de": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.",
+  "example_en": "There is no bus today anymore. He is taking a taxi."
+ },
+ {
+  "id": "der-tee",
+  "de": "Tee",
+  "article": "der",
+  "plural": null,
+  "meaning": "tea",
+  "example_de": "Ich trinke morgens immer Tee.",
+  "example_en": "I always drink tea in the morning."
+ },
+ {
+  "id": "der-teil",
+  "de": "Teil",
+  "article": "der",
+  "plural": "Teile",
+  "meaning": "part",
+  "example_de": "Lies bitte auch den zweiten Teil.",
+  "example_en": "Please also read the second part."
+ },
+ {
+  "id": "telefonieren",
+  "de": "telefonieren",
+  "article": null,
+  "plural": null,
+  "meaning": "to phone",
+  "example_de": "Darf ich mal telefonieren?",
+  "example_en": "May I make a phone call?"
+ },
+ {
+  "id": "das-telefon",
+  "de": "Telefon",
+  "article": "das",
+  "plural": null,
+  "meaning": "telephone",
+  "example_de": "Haben Sie Telefon?",
+  "example_en": "Do you have a phone?"
+ },
+ {
+  "id": "der-termin",
+  "de": "Termin",
+  "article": "der",
+  "plural": "Termine",
+  "meaning": "appointment",
+  "example_de": "Am besten machen wir sofort einen Termin.",
+  "example_en": "The best thing is to make an appointment right away."
+ },
+ {
+  "id": "der-test",
+  "de": "Test",
+  "article": "der",
+  "plural": null,
+  "meaning": "test",
+  "example_de": "Der Test war einfach.",
+  "example_en": "The test was easy."
+ },
+ {
+  "id": "teuer",
+  "de": "teuer",
+  "article": null,
+  "plural": null,
+  "meaning": "expensive",
+  "example_de": "Das ist mir zu teuer.",
+  "example_en": "That is too expensive for me."
+ },
+ {
+  "id": "der-text",
+  "de": "Text",
+  "article": "der",
+  "plural": "Texte",
+  "meaning": "text",
+  "example_de": "Lesen Sie bitte diesen Text.",
+  "example_en": "Please read this text."
+ },
+ {
+  "id": "das-thema",
+  "de": "Thema",
+  "article": "das",
+  "plural": null,
+  "meaning": "topic",
+  "example_de": "Wir sprechen heute über das Thema „Essen und Trinken“.",
+  "example_en": "Today we are talking about the topic \"eating and drinking\"."
+ },
+ {
+  "id": "das-ticket",
+  "de": "Ticket",
+  "article": "das",
+  "plural": "Tickets",
+  "meaning": "ticket",
+  "example_de": "Wie viel kostet das Ticket?",
+  "example_en": "How much does the ticket cost?"
+ },
+ {
+  "id": "der-tisch",
+  "de": "Tisch",
+  "article": "der",
+  "plural": "Tische",
+  "meaning": "table",
+  "example_de": "Die Fotos liegen auf dem Tisch.",
+  "example_en": "The photos are lying on the table."
+ },
+ {
+  "id": "die-tochter",
+  "de": "Tochter",
+  "article": "die",
+  "plural": "Töchter",
+  "meaning": "daughter",
+  "example_de": "Das ist meine Tochter Katharina.",
+  "example_en": "This is my daughter Katharina."
+ },
+ {
+  "id": "die-toilette",
+  "de": "Toilette",
+  "article": "die",
+  "plural": "Toiletten",
+  "meaning": "toilet",
+  "example_de": "Wo ist die Toilette, bitte?",
+  "example_en": "Where is the toilet, please?"
+ },
+ {
+  "id": "die-tomate",
+  "de": "Tomate",
+  "article": "die",
+  "plural": "Tomaten",
+  "meaning": "tomato",
+  "example_de": "Die Tomate ist noch grün.",
+  "example_en": "The tomato is still green."
+ },
+ {
+  "id": "tot",
+  "de": "tot",
+  "article": null,
+  "plural": null,
+  "meaning": "dead",
+  "example_de": "Sein Vater ist schon lange tot.",
+  "example_en": "His father has been dead for a long time."
+ },
+ {
+  "id": "sich-treffen",
+  "de": "(sich) treffen",
+  "article": null,
+  "plural": null,
+  "meaning": "to meet",
+  "example_de": "Ich treffe in der Stadt einen Kollegen.",
+  "example_en": "I am meeting a colleague in town."
+ },
+ {
+  "id": "die-treppe",
+  "de": "Treppe",
+  "article": "die",
+  "plural": "Treppen",
+  "meaning": "stairs",
+  "example_de": "Die Toilette? Die Treppe hoch und dann links.",
+  "example_en": "The toilet? Up the stairs and then left."
+ },
+ {
+  "id": "trinken",
+  "de": "trinken",
+  "article": null,
+  "plural": null,
+  "meaning": "to drink",
+  "example_de": "Möchtest du etwas trinken?",
+  "example_en": "Would you like something to drink?"
+ },
+ {
+  "id": "tschuess",
+  "de": "tschüss",
+  "article": null,
+  "plural": null,
+  "meaning": "bye",
+  "example_de": "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.",
+  "example_en": "Young people usually say \"tschüss!\" and not \"auf Wiedersehen\"."
+ },
+ {
+  "id": "tun",
+  "de": "tun",
+  "article": null,
+  "plural": null,
+  "meaning": "to do",
+  "example_de": "Ich habe noch etwas zu tun.",
+  "example_en": "I still have something to do."
+ },
+ {
+  "id": "ueber",
+  "de": "über",
+  "article": null,
+  "plural": null,
+  "meaning": "over, across",
+  "example_de": "Gehen Sie hier über die Straße.",
+  "example_en": "Cross the street here."
+ },
+ {
+  "id": "uebernachten",
+  "de": "übernachten",
+  "article": null,
+  "plural": null,
+  "meaning": "to stay overnight",
+  "example_de": "Du kannst bei mir übernachten.",
+  "example_en": "You can stay overnight at my place."
+ },
+ {
+  "id": "ueberweisen",
+  "de": "überweisen",
+  "article": null,
+  "plural": null,
+  "meaning": "to transfer (money)",
+  "example_de": "Sie können das Geld auch überweisen.",
+  "example_en": "You can also transfer the money."
+ },
+ {
+  "id": "die-uhr",
+  "de": "Uhr",
+  "article": "die",
+  "plural": null,
+  "meaning": "clock",
+  "example_de": "Es ist vier Uhr.",
+  "example_en": "It is four o'clock."
+ },
+ {
+  "id": "um",
+  "de": "um",
+  "article": null,
+  "plural": null,
+  "meaning": "at, around (time)",
+  "example_de": "Er kommt um sieben Uhr.",
+  "example_en": "He is coming at seven o'clock."
+ },
+ {
+  "id": "umziehen",
+  "de": "umziehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to move (house)",
+  "example_de": "Nächsten Monat ziehen wir um.",
+  "example_en": "Next month we are moving."
+ },
+ {
+  "id": "und",
+  "de": "und",
+  "article": null,
+  "plural": null,
+  "meaning": "and",
+  "example_de": "Peter und Helmut sind meine Söhne.",
+  "example_en": "Peter and Helmut are my sons."
+ },
+ {
+  "id": "unser",
+  "de": "unser-",
+  "article": null,
+  "plural": null,
+  "meaning": "our",
+  "example_de": "Das ist unsere Lehrerin.",
+  "example_en": "That is our teacher (female)."
+ },
+ {
+  "id": "unten",
+  "de": "unten",
+  "article": null,
+  "plural": null,
+  "meaning": "downstairs, below",
+  "example_de": "Er wohnt ganz unten im Haus.",
+  "example_en": "He lives at the very bottom of the house."
+ },
+ {
+  "id": "unter",
+  "de": "unter",
+  "article": null,
+  "plural": null,
+  "meaning": "under, below",
+  "example_de": "Unter uns wohnt eine Familie mit drei Kindern.",
+  "example_en": "A family with three children lives below us."
+ },
+ {
+  "id": "der-unterricht",
+  "de": "Unterricht",
+  "article": "der",
+  "plural": null,
+  "meaning": "lessons",
+  "example_de": "Wir haben Unterricht von 8.00 bis 12.00 Uhr.",
+  "example_en": "We have lessons from 8:00 to 12:00."
+ },
+ {
+  "id": "unterschreiben",
+  "de": "unterschreiben",
+  "article": null,
+  "plural": null,
+  "meaning": "to sign",
+  "example_de": "Wo muss ich unterschreiben?",
+  "example_en": "Where do I have to sign?"
+ },
+ {
+  "id": "die-unterschrift",
+  "de": "Unterschrift",
+  "article": "die",
+  "plural": null,
+  "meaning": "signature",
+  "example_de": "Hier fehlt noch Ihre Unterschrift.",
+  "example_en": "Your signature is still missing here."
+ },
+ {
+  "id": "der-urlaub",
+  "de": "Urlaub",
+  "article": "der",
+  "plural": null,
+  "meaning": "holiday, vacation",
+  "example_de": "Ich nehme im September Urlaub.",
+  "example_en": "I am taking holiday in September."
+ },
+ {
+  "id": "der-vater",
+  "de": "Vater",
+  "article": "der",
+  "plural": "Väter",
+  "meaning": "father",
+  "example_de": "Mein Vater ist Arbeiter.",
+  "example_en": "My father is a worker."
+ },
+ {
+  "id": "verboten",
+  "de": "verboten",
+  "article": null,
+  "plural": null,
+  "meaning": "forbidden",
+  "example_de": "Hier ist Rauchen verboten.",
+  "example_en": "Smoking is forbidden here."
+ },
+ {
+  "id": "verdienen",
+  "de": "verdienen",
+  "article": null,
+  "plural": null,
+  "meaning": "to earn",
+  "example_de": "Ich verdiene 1.500 Euro im Monat.",
+  "example_en": "I earn 1,500 euros a month."
+ },
+ {
+  "id": "der-verein",
+  "de": "Verein",
+  "article": "der",
+  "plural": null,
+  "meaning": "club, association",
+  "example_de": "Es gibt einen neuen Sportverein in der Stadt.",
+  "example_en": "There is a new sports club in town."
+ },
+ {
+  "id": "verheiratet",
+  "de": "verheiratet",
+  "article": null,
+  "plural": null,
+  "meaning": "married",
+  "example_de": "Ich bin verheiratet und habe drei Kinder.",
+  "example_en": "I am married and have three children."
+ },
+ {
+  "id": "verkaufen",
+  "de": "verkaufen",
+  "article": null,
+  "plural": null,
+  "meaning": "to sell",
+  "example_de": "Er verkauft sein altes Auto.",
+  "example_en": "He is selling his old car."
+ },
+ {
+  "id": "der-verkaeufer",
+  "de": "Verkäufer",
+  "article": "der",
+  "plural": "Verkäufer",
+  "meaning": "salesperson",
+  "example_de": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+  "example_en": "My mother is a salesperson in the department store."
+ },
+ {
+  "id": "vermieten",
+  "de": "vermieten",
+  "article": null,
+  "plural": null,
+  "meaning": "to rent out",
+  "example_de": "Die Wohnung ist schon vermietet.",
+  "example_en": "The flat is already rented out."
+ },
+ {
+  "id": "der-vermieter",
+  "de": "Vermieter",
+  "article": "der",
+  "plural": null,
+  "meaning": "landlord",
+  "example_de": "Unser Vermieter heißt Huber. Er wohnt auch hier.",
+  "example_en": "Our landlord is called Huber. He also lives here."
+ },
+ {
+  "id": "verstehen",
+  "de": "verstehen",
+  "article": null,
+  "plural": null,
+  "meaning": "to understand",
+  "example_de": "Können Sie mich verstehen?",
+  "example_en": "Can you understand me?"
+ },
+ {
+  "id": "der-verwandte",
+  "de": "Verwandte",
+  "article": "der",
+  "plural": "Verwandten",
+  "meaning": "relative",
+  "example_de": "Peter besucht seine Verwandten in Polen.",
+  "example_en": "Peter is visiting his relatives in Poland."
+ },
+ {
+  "id": "viel",
+  "de": "viel",
+  "article": null,
+  "plural": null,
+  "meaning": "much, a lot",
+  "example_de": "Hier regnet es viel.",
+  "example_en": "It rains a lot here."
+ },
+ {
+  "id": "vielleicht",
+  "de": "vielleicht",
+  "article": null,
+  "plural": null,
+  "meaning": "maybe",
+  "example_de": "Ich komme vielleicht mit dem Bus.",
+  "example_en": "I might come by bus."
+ },
+ {
+  "id": "von",
+  "de": "von",
+  "article": null,
+  "plural": null,
+  "meaning": "from, of",
+  "example_de": "Das Auto von Felix ist kaputt.",
+  "example_en": "Felix's car is broken."
+ },
+ {
+  "id": "vor",
+  "de": "vor",
+  "article": null,
+  "plural": null,
+  "meaning": "before, in front of",
+  "example_de": "Der Termin war vor einer Stunde.",
+  "example_en": "The appointment was an hour ago."
+ },
+ {
+  "id": "der-vorname",
+  "de": "Vorname",
+  "article": "der",
+  "plural": "Vornamen",
+  "meaning": "first name",
+  "example_de": "Ich heiße Müller, mein Vorname ist Eva.",
+  "example_en": "My surname is Müller, my first name is Eva."
+ },
+ {
+  "id": "die-vorsicht",
+  "de": "Vorsicht",
+  "article": "die",
+  "plural": null,
+  "meaning": "caution",
+  "example_de": "Vorsicht! Da kommt ein Auto.",
+  "example_en": "Careful! A car is coming."
+ },
+ {
+  "id": "sich-vorstellen",
+  "de": "(sich) vorstellen",
+  "article": null,
+  "plural": null,
+  "meaning": "to introduce (oneself)",
+  "example_de": "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?",
+  "example_en": "We want to get to know each other. Could you please introduce yourself?"
+ },
+ {
+  "id": "die-vorwahl",
+  "de": "Vorwahl",
+  "article": "die",
+  "plural": null,
+  "meaning": "area code",
+  "example_de": "Wie ist die Vorwahl von München?",
+  "example_en": "What is the area code for Munich?"
+ },
+ {
+  "id": "wandern",
+  "de": "wandern",
+  "article": null,
+  "plural": null,
+  "meaning": "to hike",
+  "example_de": "Wir wandern um den Chiemsee.",
+  "example_en": "We are hiking around Lake Chiemsee."
+ },
+ {
+  "id": "wann",
+  "de": "wann",
+  "article": null,
+  "plural": null,
+  "meaning": "when",
+  "example_de": "Wann bist du fertig?",
+  "example_en": "When are you finished?"
+ },
+ {
+  "id": "warten",
+  "de": "warten",
+  "article": null,
+  "plural": null,
+  "meaning": "to wait",
+  "example_de": "Können Sie ein paar Minuten warten?",
+  "example_en": "Can you wait a few minutes?"
+ },
+ {
+  "id": "warum",
+  "de": "warum",
+  "article": null,
+  "plural": null,
+  "meaning": "why",
+  "example_de": "Warum kommt er nicht?",
+  "example_en": "Why isn't he coming?"
+ },
+ {
+  "id": "was",
+  "de": "was",
+  "article": null,
+  "plural": null,
+  "meaning": "what",
+  "example_de": "Was ist das?",
+  "example_en": "What is that?"
+ },
+ {
+  "id": "was-fuer-ein",
+  "de": "was für ein",
+  "article": null,
+  "plural": null,
+  "meaning": "what kind of",
+  "example_de": "Was für eine Farbe möchten Sie?",
+  "example_en": "What kind of colour would you like?"
+ },
+ {
+  "id": "sich-waschen",
+  "de": "(sich) waschen",
+  "article": null,
+  "plural": null,
+  "meaning": "to wash",
+  "example_de": "Wo kann ich mir die Hände waschen?",
+  "example_en": "Where can I wash my hands?"
+ },
+ {
+  "id": "das-wasser",
+  "de": "Wasser",
+  "article": "das",
+  "plural": null,
+  "meaning": "water",
+  "example_de": "Ein Glas Wasser, bitte.",
+  "example_en": "A glass of water, please."
+ },
+ {
+  "id": "weh-tun",
+  "de": "weh tun",
+  "article": null,
+  "plural": null,
+  "meaning": "to hurt",
+  "example_de": "Ich muss zum Arzt. Mein Bein tut weh.",
+  "example_en": "I have to go to the doctor. My leg hurts."
+ },
+ {
+  "id": "weiblich",
+  "de": "weiblich",
+  "article": null,
+  "plural": null,
+  "meaning": "female",
+  "example_de": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+  "example_en": "Please tick: \"female\" or \"male\"."
+ },
+ {
+  "id": "der-wein",
+  "de": "Wein",
+  "article": "der",
+  "plural": null,
+  "meaning": "wine",
+  "example_de": "Nein danke, ich möchte keinen Wein.",
+  "example_en": "No thanks, I don't want any wine."
+ },
+ {
+  "id": "weit",
+  "de": "weit",
+  "article": null,
+  "plural": null,
+  "meaning": "far",
+  "example_de": "Zum Bahnhof ist es nicht weit.",
+  "example_en": "It is not far to the station."
+ },
+ {
+  "id": "weiter",
+  "de": "weiter",
+  "article": null,
+  "plural": null,
+  "meaning": "further, onward",
+  "example_de": "Der Bus fährt nicht weiter.",
+  "example_en": "The bus does not go any further."
+ },
+ {
+  "id": "welch",
+  "de": "welch-",
+  "article": null,
+  "plural": null,
+  "meaning": "which",
+  "example_de": "Welches Buch möchtest du?",
+  "example_en": "Which book would you like?"
+ },
+ {
+  "id": "die-welt",
+  "de": "Welt",
+  "article": "die",
+  "plural": null,
+  "meaning": "world",
+  "example_de": "Es gibt viele Probleme auf der Welt.",
+  "example_en": "There are many problems in the world."
+ },
+ {
+  "id": "wenig",
+  "de": "wenig",
+  "article": null,
+  "plural": null,
+  "meaning": "little, few",
+  "example_de": "Ich habe leider nur wenig verstanden.",
+  "example_en": "Unfortunately, I understood only a little."
+ },
+ {
+  "id": "wer",
+  "de": "wer",
+  "article": null,
+  "plural": null,
+  "meaning": "who",
+  "example_de": "Wer ist das?",
+  "example_en": "Who is that?"
+ },
+ {
+  "id": "werden",
+  "de": "werden",
+  "article": null,
+  "plural": null,
+  "meaning": "to become",
+  "example_de": "Mein Sohn will Arzt werden.",
+  "example_en": "My son wants to become a doctor."
+ },
+ {
+  "id": "das-wetter",
+  "de": "Wetter",
+  "article": "das",
+  "plural": null,
+  "meaning": "weather",
+  "example_de": "Wir hatten schlechtes Wetter.",
+  "example_en": "We had bad weather."
+ },
+ {
+  "id": "wichtig",
+  "de": "wichtig",
+  "article": null,
+  "plural": null,
+  "meaning": "important",
+  "example_de": "Dieses Formular ist sehr wichtig.",
+  "example_en": "This form is very important."
+ },
+ {
+  "id": "wie",
+  "de": "wie",
+  "article": null,
+  "plural": null,
+  "meaning": "how, as",
+  "example_de": "Wie heißt du?",
+  "example_en": "What is your name?"
+ },
+ {
+  "id": "wiederholen",
+  "de": "wiederholen",
+  "article": null,
+  "plural": null,
+  "meaning": "to repeat",
+  "example_de": "Können Sie das bitte wiederholen?",
+  "example_en": "Could you please repeat that?"
+ },
+ {
+  "id": "das-wiederhoeren",
+  "de": "Wiederhören",
+  "article": "das",
+  "plural": null,
+  "meaning": "goodbye (on phone)",
+  "example_de": "Wir müssen jetzt Schluss machen.",
+  "example_en": "We have to end the call now."
+ },
+ {
+  "id": "das-wiedersehen",
+  "de": "Wiedersehen",
+  "article": "das",
+  "plural": null,
+  "meaning": "goodbye",
+  "example_de": "Auf Wiedersehen!",
+  "example_en": "Goodbye!"
+ },
+ {
+  "id": "wie-viel",
+  "de": "wie viel",
+  "article": null,
+  "plural": null,
+  "meaning": "how much",
+  "example_de": "Wie viel Milch nehmen Sie?",
+  "example_en": "How much milk do you take?"
+ },
+ {
+  "id": "willkommen",
+  "de": "willkommen",
+  "article": null,
+  "plural": null,
+  "meaning": "welcome",
+  "example_de": "Herzlich willkommen!",
+  "example_en": "Welcome!"
+ },
+ {
+  "id": "der-wind",
+  "de": "Wind",
+  "article": "der",
+  "plural": null,
+  "meaning": "wind",
+  "example_de": "Der Wind kommt aus Osten.",
+  "example_en": "The wind comes from the east."
+ },
+ {
+  "id": "wir",
+  "de": "wir",
+  "article": null,
+  "plural": null,
+  "meaning": "we",
+  "example_de": "Wir lernen Deutsch.",
+  "example_en": "We are learning German."
+ },
+ {
+  "id": "wissen",
+  "de": "wissen",
+  "article": null,
+  "plural": null,
+  "meaning": "to know",
+  "example_de": "Weißt du, wie er heißt?",
+  "example_en": "Do you know what his name is?"
+ },
+ {
+  "id": "wo",
+  "de": "wo",
+  "article": null,
+  "plural": null,
+  "meaning": "where",
+  "example_de": "Wo waren Sie im Urlaub?",
+  "example_en": "Where were you on holiday?"
+ },
+ {
+  "id": "woher",
+  "de": "woher",
+  "article": null,
+  "plural": null,
+  "meaning": "where from",
+  "example_de": "Woher kommen Sie?",
+  "example_en": "Where are you from?"
+ },
+ {
+  "id": "wohin",
+  "de": "wohin",
+  "article": null,
+  "plural": null,
+  "meaning": "where to",
+  "example_de": "Wohin fährt dieser Bus?",
+  "example_en": "Where is this bus going?"
+ },
+ {
+  "id": "wohnen",
+  "de": "wohnen",
+  "article": null,
+  "plural": null,
+  "meaning": "to live",
+  "example_de": "Ich wohne in München.",
+  "example_en": "I live in Munich."
+ },
+ {
+  "id": "die-wohnung",
+  "de": "Wohnung",
+  "article": "die",
+  "plural": "Wohnungen",
+  "meaning": "flat, apartment",
+  "example_de": "Seit wann haben Sie diese Wohnung?",
+  "example_en": "Since when have you had this flat?"
+ },
+ {
+  "id": "wollen",
+  "de": "wollen",
+  "article": null,
+  "plural": null,
+  "meaning": "to want",
+  "example_de": "Wollen Sie einen Kaffee trinken?",
+  "example_en": "Would you like to have a coffee?"
+ },
+ {
+  "id": "das-wort",
+  "de": "Wort",
+  "article": "das",
+  "plural": "Wörter",
+  "meaning": "word",
+  "example_de": "Ich kenne das Wort nicht.",
+  "example_en": "I don't know this word."
+ },
+ {
+  "id": "wunderbar",
+  "de": "wunderbar",
+  "article": null,
+  "plural": null,
+  "meaning": "wonderful",
+  "example_de": "Das Essen schmeckt wunderbar.",
+  "example_en": "The food tastes wonderful."
+ },
+ {
+  "id": "zahlen",
+  "de": "zahlen",
+  "article": null,
+  "plural": null,
+  "meaning": "to pay",
+  "example_de": "Zahlen, bitte!",
+  "example_en": "The bill, please!"
+ },
+ {
+  "id": "die-zeit",
+  "de": "Zeit",
+  "article": "die",
+  "plural": null,
+  "meaning": "time",
+  "example_de": "Ich habe heute keine Zeit.",
+  "example_en": "I have no time today."
+ },
+ {
+  "id": "zurzeit",
+  "de": "zurzeit",
+  "article": null,
+  "plural": null,
+  "meaning": "currently",
+  "example_de": "Zurzeit habe ich sehr viel zu tun.",
+  "example_en": "At the moment I have a lot to do."
+ },
+ {
+  "id": "die-zeitung",
+  "de": "Zeitung",
+  "article": "die",
+  "plural": "Zeitungen",
+  "meaning": "newspaper",
+  "example_de": "Ich lese gern Zeitung.",
+  "example_en": "I like reading the newspaper."
+ },
+ {
+  "id": "die-zigarette",
+  "de": "Zigarette",
+  "article": "die",
+  "plural": "Zigaretten",
+  "meaning": "cigarette",
+  "example_de": "Wie teuer sind die Zigaretten?",
+  "example_en": "How expensive are the cigarettes?"
+ },
+ {
+  "id": "das-zimmer",
+  "de": "Zimmer",
+  "article": "das",
+  "plural": "Zimmer",
+  "meaning": "room",
+  "example_de": "Das Zimmer ist groß.",
+  "example_en": "The room is big."
+ },
+ {
+  "id": "der-zoll",
+  "de": "Zoll",
+  "article": "der",
+  "plural": null,
+  "meaning": "customs",
+  "example_de": "Wir müssen noch durch den Zoll.",
+  "example_en": "We still have to go through customs."
+ },
+ {
+  "id": "zu",
+  "de": "zu",
+  "article": null,
+  "plural": null,
+  "meaning": "to, at",
+  "example_de": "Der Bus fährt zum Bahnhof.",
+  "example_en": "The bus goes to the station."
+ },
+ {
+  "id": "zufrieden",
+  "de": "zufrieden",
+  "article": null,
+  "plural": null,
+  "meaning": "satisfied",
+  "example_de": "Ich bin mit der Wohnung zufrieden.",
+  "example_en": "I am satisfied with the flat."
+ },
+ {
+  "id": "der-zug",
+  "de": "Zug",
+  "article": "der",
+  "plural": "Züge",
+  "meaning": "train",
+  "example_de": "Ich fahre gern mit dem Zug.",
+  "example_en": "I like travelling by train."
+ },
+ {
+  "id": "zurueck",
+  "de": "zurück",
+  "article": null,
+  "plural": null,
+  "meaning": "back",
+  "example_de": "Einmal Frankfurt und zurück.",
+  "example_en": "One return ticket to Frankfurt."
+ },
+ {
+  "id": "zusammen",
+  "de": "zusammen",
+  "article": null,
+  "plural": null,
+  "meaning": "together",
+  "example_de": "Sollen wir zusammen essen gehen?",
+  "example_en": "Shall we go out to eat together?"
+ },
+ {
+  "id": "zwischen",
+  "de": "zwischen",
+  "article": null,
+  "plural": null,
+  "meaning": "between",
+  "example_de": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+  "example_en": "Heidelberg lies between Frankfurt and Stuttgart."
+ },
+ {
+  "id": "eins",
+  "de": "eins",
+  "article": null,
+  "plural": null,
+  "meaning": "one",
+  "example_de": "Das ist Nummer eins.",
+  "example_en": "That is number one."
+ },
+ {
+  "id": "zwei",
+  "de": "zwei",
+  "article": null,
+  "plural": null,
+  "meaning": "two",
+  "example_de": "Ich habe zwei Brüder.",
+  "example_en": "I have two brothers."
+ },
+ {
+  "id": "drei",
+  "de": "drei",
+  "article": null,
+  "plural": null,
+  "meaning": "three",
+  "example_de": "Ich trinke drei Tassen Tee.",
+  "example_en": "I drink three cups of tea."
+ },
+ {
+  "id": "vier",
+  "de": "vier",
+  "article": null,
+  "plural": null,
+  "meaning": "four",
+  "example_de": "Wir sind vier Personen.",
+  "example_en": "We are four people."
+ },
+ {
+  "id": "fuenf",
+  "de": "fünf",
+  "article": null,
+  "plural": null,
+  "meaning": "five",
+  "example_de": "Ich lerne fünf Tage pro Woche.",
+  "example_en": "I study five days a week."
+ },
+ {
+  "id": "sechs",
+  "de": "sechs",
+  "article": null,
+  "plural": null,
+  "meaning": "six",
+  "example_de": "Die Party beginnt um sechs.",
+  "example_en": "The party starts at six."
+ },
+ {
+  "id": "sieben",
+  "de": "sieben",
+  "article": null,
+  "plural": null,
+  "meaning": "seven",
+  "example_de": "Eine Woche hat sieben Tage.",
+  "example_en": "A week has seven days."
+ },
+ {
+  "id": "acht",
+  "de": "acht",
+  "article": null,
+  "plural": null,
+  "meaning": "eight",
+  "example_de": "Ich schlafe acht Stunden.",
+  "example_en": "I sleep eight hours."
+ },
+ {
+  "id": "neun",
+  "de": "neun",
+  "article": null,
+  "plural": null,
+  "meaning": "nine",
+  "example_de": "Mein Zug fährt um neun.",
+  "example_en": "My train leaves at nine."
+ },
+ {
+  "id": "zehn",
+  "de": "zehn",
+  "article": null,
+  "plural": null,
+  "meaning": "ten",
+  "example_de": "Ich kaufe zehn Eier.",
+  "example_en": "I buy ten eggs."
+ },
+ {
+  "id": "elf",
+  "de": "elf",
+  "article": null,
+  "plural": null,
+  "meaning": "eleven",
+  "example_de": "Das Team hat elf Spieler.",
+  "example_en": "The team has eleven players."
+ },
+ {
+  "id": "zwoelf",
+  "de": "zwölf",
+  "article": null,
+  "plural": null,
+  "meaning": "twelve",
+  "example_de": "Ein Jahr hat zwölf Monate.",
+  "example_en": "A year has twelve months."
+ },
+ {
+  "id": "dreizehn",
+  "de": "dreizehn",
+  "article": null,
+  "plural": null,
+  "meaning": "thirteen",
+  "example_de": "Ich bin dreizehn Jahre alt.",
+  "example_en": "I am thirteen years old."
+ },
+ {
+  "id": "vierzehn",
+  "de": "vierzehn",
+  "article": null,
+  "plural": null,
+  "meaning": "fourteen",
+  "example_de": "Der Kurs dauert vierzehn Tage.",
+  "example_en": "The course lasts fourteen days."
+ },
+ {
+  "id": "fuenfzehn",
+  "de": "fünfzehn",
+  "article": null,
+  "plural": null,
+  "meaning": "fifteen",
+  "example_de": "Der Film dauert fünfzehn Minuten.",
+  "example_en": "The film lasts fifteen minutes."
+ },
+ {
+  "id": "sechzehn",
+  "de": "sechzehn",
+  "article": null,
+  "plural": null,
+  "meaning": "sixteen",
+  "example_de": "Meine Schwester ist sechzehn.",
+  "example_en": "My sister is sixteen."
+ },
+ {
+  "id": "siebzehn",
+  "de": "siebzehn",
+  "article": null,
+  "plural": null,
+  "meaning": "seventeen",
+  "example_de": "Er wohnt in Nummer siebzehn.",
+  "example_en": "He lives at number seventeen."
+ },
+ {
+  "id": "achtzehn",
+  "de": "achtzehn",
+  "article": null,
+  "plural": null,
+  "meaning": "eighteen",
+  "example_de": "Man ist mit achtzehn erwachsen.",
+  "example_en": "You are an adult at eighteen."
+ },
+ {
+  "id": "neunzehn",
+  "de": "neunzehn",
+  "article": null,
+  "plural": null,
+  "meaning": "nineteen",
+  "example_de": "Mein Bruder ist neunzehn Jahre alt.",
+  "example_en": "My brother is nineteen years old."
+ },
+ {
+  "id": "zwanzig",
+  "de": "zwanzig",
+  "article": null,
+  "plural": null,
+  "meaning": "twenty",
+  "example_de": "Ich habe zwanzig Euro.",
+  "example_en": "I have twenty euros."
+ },
+ {
+  "id": "einundzwanzig",
+  "de": "einundzwanzig",
+  "article": null,
+  "plural": null,
+  "meaning": "twenty-one",
+  "example_de": "Er ist einundzwanzig Jahre alt.",
+  "example_en": "He is twenty-one years old."
+ },
+ {
+  "id": "dreissig",
+  "de": "dreißig",
+  "article": null,
+  "plural": null,
+  "meaning": "thirty",
+  "example_de": "Mein Vater ist dreißig Jahre alt.",
+  "example_en": "My father is thirty years old."
+ },
+ {
+  "id": "vierzig",
+  "de": "vierzig",
+  "article": null,
+  "plural": null,
+  "meaning": "forty",
+  "example_de": "Die Reise kostet vierzig Euro.",
+  "example_en": "The trip costs forty euros."
+ },
+ {
+  "id": "fuenfzig",
+  "de": "fünfzig",
+  "article": null,
+  "plural": null,
+  "meaning": "fifty",
+  "example_de": "Das Buch kostet fünfzig Euro.",
+  "example_en": "The book costs fifty euros."
+ },
+ {
+  "id": "sechzig",
+  "de": "sechzig",
+  "article": null,
+  "plural": null,
+  "meaning": "sixty",
+  "example_de": "Eine Minute hat sechzig Sekunden.",
+  "example_en": "A minute has sixty seconds."
+ },
+ {
+  "id": "siebzig",
+  "de": "siebzig",
+  "article": null,
+  "plural": null,
+  "meaning": "seventy",
+  "example_de": "Meine Oma ist siebzig Jahre alt.",
+  "example_en": "My grandmother is seventy years old."
+ },
+ {
+  "id": "achtzig",
+  "de": "achtzig",
+  "article": null,
+  "plural": null,
+  "meaning": "eighty",
+  "example_de": "Der Zug fährt achtzig Kilometer pro Stunde.",
+  "example_en": "The train travels eighty kilometres per hour."
+ },
+ {
+  "id": "neunzig",
+  "de": "neunzig",
+  "article": null,
+  "plural": null,
+  "meaning": "ninety",
+  "example_de": "Ein rechter Winkel hat neunzig Grad.",
+  "example_en": "A right angle has ninety degrees."
+ },
+ {
+  "id": "hundert",
+  "de": "hundert",
+  "article": null,
+  "plural": null,
+  "meaning": "hundred",
+  "example_de": "Hundert Leute sind im Park.",
+  "example_en": "One hundred people are in the park."
+ },
+ {
+  "id": "hunderteins",
+  "de": "hunderteins",
+  "article": null,
+  "plural": null,
+  "meaning": "one hundred one",
+  "example_de": "Die Zahl hunderteins ist groß.",
+  "example_en": "The number one hundred one is big."
+ },
+ {
+  "id": "zweihundert",
+  "de": "zweihundert",
+  "article": null,
+  "plural": null,
+  "meaning": "two hundred",
+  "example_de": "Das Fahrrad kostet zweihundert Euro.",
+  "example_en": "The bicycle costs two hundred euros."
+ },
+ {
+  "id": "tausend",
+  "de": "tausend",
+  "article": null,
+  "plural": null,
+  "meaning": "thousand",
+  "example_de": "Die Stadt hat tausend Einwohner.",
+  "example_en": "The town has a thousand inhabitants."
+ },
+ {
+  "id": "die-million",
+  "de": "Million",
+  "article": "die",
+  "plural": "Millionen",
+  "meaning": "million",
+  "example_de": "Berlin hat mehr als drei Millionen Einwohner.",
+  "example_en": "Berlin has more than three million inhabitants."
+ },
+ {
+  "id": "die-milliarde",
+  "de": "Milliarde",
+  "article": "die",
+  "plural": "Milliarden",
+  "meaning": "billion",
+  "example_de": "Eine Milliarde ist tausend Millionen.",
+  "example_en": "One billion is a thousand million."
+ },
+ {
+  "id": "erste",
+  "de": "erste",
+  "article": null,
+  "plural": null,
+  "meaning": "first",
+  "example_de": "Heute ist der erste Mai.",
+  "example_en": "Today is the first of May."
+ },
+ {
+  "id": "zweite",
+  "de": "zweite",
+  "article": null,
+  "plural": null,
+  "meaning": "second",
+  "example_de": "Das ist mein zweites Buch.",
+  "example_en": "This is my second book."
+ },
+ {
+  "id": "dritte",
+  "de": "dritte",
+  "article": null,
+  "plural": null,
+  "meaning": "third",
+  "example_de": "Ich wohne im dritten Stock.",
+  "example_en": "I live on the third floor."
+ },
+ {
+  "id": "vierte",
+  "de": "vierte",
+  "article": null,
+  "plural": null,
+  "meaning": "fourth",
+  "example_de": "Das ist die vierte Stunde.",
+  "example_en": "This is the fourth lesson."
+ },
+ {
+  "id": "die-sekunde",
+  "de": "Sekunde",
+  "article": "die",
+  "plural": "Sekunden",
+  "meaning": "second (time)",
+  "example_de": "Eine Sekunde ist sehr kurz.",
+  "example_en": "One second is very short."
+ },
+ {
+  "id": "die-minute",
+  "de": "Minute",
+  "article": "die",
+  "plural": "Minuten",
+  "meaning": "minute",
+  "example_de": "Warte bitte eine Minute.",
+  "example_en": "Please wait one minute."
+ },
+ {
+  "id": "der-tag",
+  "de": "Tag",
+  "article": "der",
+  "plural": "Tage",
+  "meaning": "day",
+  "example_de": "Heute ist ein schöner Tag.",
+  "example_en": "Today is a nice day."
+ },
+ {
+  "id": "die-woche",
+  "de": "Woche",
+  "article": "die",
+  "plural": "Wochen",
+  "meaning": "week",
+  "example_de": "Ich arbeite jede Woche fünf Tage.",
+  "example_en": "I work five days every week."
+ },
+ {
+  "id": "das-jahr",
+  "de": "Jahr",
+  "article": "das",
+  "plural": "Jahre",
+  "meaning": "year",
+  "example_de": "Ich lerne seit einem Jahr Deutsch.",
+  "example_en": "I have been learning German for a year."
+ },
+ {
+  "id": "der-wochentag",
+  "de": "Wochentag",
+  "article": "der",
+  "plural": "Wochentage",
+  "meaning": "weekday",
+  "example_de": "Montag ist ein Wochentag.",
+  "example_en": "Monday is a weekday."
+ },
+ {
+  "id": "das-wochenende",
+  "de": "Wochenende",
+  "article": "das",
+  "plural": null,
+  "meaning": "weekend",
+  "example_de": "Am Wochenende schlafe ich lang.",
+  "example_en": "I sleep in at the weekend."
+ },
+ {
+  "id": "der-sonntag",
+  "de": "Sonntag",
+  "article": "der",
+  "plural": null,
+  "meaning": "Sunday",
+  "example_de": "Am Sonntag gehe ich in die Kirche.",
+  "example_en": "On Sunday I go to church."
+ },
+ {
+  "id": "der-montag",
+  "de": "Montag",
+  "article": "der",
+  "plural": null,
+  "meaning": "Monday",
+  "example_de": "Am Montag habe ich Deutschkurs.",
+  "example_en": "On Monday I have a German class."
+ },
+ {
+  "id": "der-dienstag",
+  "de": "Dienstag",
+  "article": "der",
+  "plural": null,
+  "meaning": "Tuesday",
+  "example_de": "Am Dienstag arbeite ich lange.",
+  "example_en": "On Tuesday I work a long time."
+ },
+ {
+  "id": "der-mittwoch",
+  "de": "Mittwoch",
+  "article": "der",
+  "plural": null,
+  "meaning": "Wednesday",
+  "example_de": "Am Mittwoch kocht meine Mutter.",
+  "example_en": "On Wednesday my mother cooks."
+ },
+ {
+  "id": "der-donnerstag",
+  "de": "Donnerstag",
+  "article": "der",
+  "plural": null,
+  "meaning": "Thursday",
+  "example_de": "Am Donnerstag bin ich frei.",
+  "example_en": "On Thursday I am free."
+ },
+ {
+  "id": "der-freitag",
+  "de": "Freitag",
+  "article": "der",
+  "plural": null,
+  "meaning": "Friday",
+  "example_de": "Am Freitag gehen wir ins Kino.",
+  "example_en": "On Friday we go to the cinema."
+ },
+ {
+  "id": "der-samstag",
+  "de": "Samstag",
+  "article": "der",
+  "plural": null,
+  "meaning": "Saturday (also: Sonnabend)",
+  "example_de": "Am Samstag kaufe ich Brot.",
+  "example_en": "On Saturday I buy bread."
+ },
+ {
+  "id": "der-nachmittag",
+  "de": "Nachmittag",
+  "article": "der",
+  "plural": "Nachmittage",
+  "meaning": "afternoon",
+  "example_de": "Am Nachmittag lerne ich Deutsch.",
+  "example_en": "In the afternoon I study German."
+ },
+ {
+  "id": "der-morgen",
+  "de": "Morgen",
+  "article": "der",
+  "plural": null,
+  "meaning": "morning",
+  "example_de": "Ich trinke jeden Morgen Kaffee.",
+  "example_en": "I drink coffee every morning."
+ },
+ {
+  "id": "der-vormittag",
+  "de": "Vormittag",
+  "article": "der",
+  "plural": "Vormittage",
+  "meaning": "late morning",
+  "example_de": "Am Vormittag habe ich keine Zeit.",
+  "example_en": "In the late morning I have no time."
+ },
+ {
+  "id": "der-mittag",
+  "de": "Mittag",
+  "article": "der",
+  "plural": null,
+  "meaning": "midday, noon",
+  "example_de": "Zum Mittag esse ich Suppe.",
+  "example_en": "I eat soup at midday."
+ },
+ {
+  "id": "der-abend",
+  "de": "Abend",
+  "article": "der",
+  "plural": "Abende",
+  "meaning": "evening",
+  "example_de": "Am Abend sehe ich fern.",
+  "example_en": "In the evening I watch TV."
+ },
+ {
+  "id": "die-nacht",
+  "de": "Nacht",
+  "article": "die",
+  "plural": "Nächte",
+  "meaning": "night",
+  "example_de": "Die Nacht ist lang.",
+  "example_en": "The night is long."
+ },
+ {
+  "id": "der-januar",
+  "de": "Januar",
+  "article": "der",
+  "plural": null,
+  "meaning": "January",
+  "example_de": "Im Januar ist es sehr kalt.",
+  "example_en": "In January it is very cold."
+ },
+ {
+  "id": "der-februar",
+  "de": "Februar",
+  "article": "der",
+  "plural": null,
+  "meaning": "February",
+  "example_de": "Im Februar habe ich Geburtstag.",
+  "example_en": "In February I have my birthday."
+ },
+ {
+  "id": "der-maerz",
+  "de": "März",
+  "article": "der",
+  "plural": null,
+  "meaning": "March",
+  "example_de": "Im März regnet es oft.",
+  "example_en": "In March it often rains."
+ },
+ {
+  "id": "der-april",
+  "de": "April",
+  "article": "der",
+  "plural": null,
+  "meaning": "April",
+  "example_de": "Im April blühen die Blumen.",
+  "example_en": "In April the flowers bloom."
+ },
+ {
+  "id": "der-mai",
+  "de": "Mai",
+  "article": "der",
+  "plural": null,
+  "meaning": "May",
+  "example_de": "Im Mai ist das Wetter schön.",
+  "example_en": "In May the weather is nice."
+ },
+ {
+  "id": "der-juni",
+  "de": "Juni",
+  "article": "der",
+  "plural": null,
+  "meaning": "June",
+  "example_de": "Im Juni fahre ich ans Meer.",
+  "example_en": "In June I go to the sea."
+ },
+ {
+  "id": "der-juli",
+  "de": "Juli",
+  "article": "der",
+  "plural": null,
+  "meaning": "July",
+  "example_de": "Im Juli ist es heiß.",
+  "example_en": "In July it is hot."
+ },
+ {
+  "id": "der-august",
+  "de": "August",
+  "article": "der",
+  "plural": null,
+  "meaning": "August",
+  "example_de": "Im August habe ich Urlaub.",
+  "example_en": "In August I am on holiday."
+ },
+ {
+  "id": "der-september",
+  "de": "September",
+  "article": "der",
+  "plural": null,
+  "meaning": "September",
+  "example_de": "Im September beginnt die Schule.",
+  "example_en": "In September school starts."
+ },
+ {
+  "id": "der-oktober",
+  "de": "Oktober",
+  "article": "der",
+  "plural": null,
+  "meaning": "October",
+  "example_de": "Im Oktober fallen die Blätter.",
+  "example_en": "In October the leaves fall."
+ },
+ {
+  "id": "der-november",
+  "de": "November",
+  "article": "der",
+  "plural": null,
+  "meaning": "November",
+  "example_de": "Im November ist es oft grau.",
+  "example_en": "In November it is often grey."
+ },
+ {
+  "id": "der-dezember",
+  "de": "Dezember",
+  "article": "der",
+  "plural": null,
+  "meaning": "December",
+  "example_de": "Im Dezember feiern wir Weihnachten.",
+  "example_en": "In December we celebrate Christmas."
+ },
+ {
+  "id": "der-fruehling",
+  "de": "Frühling",
+  "article": "der",
+  "plural": null,
+  "meaning": "spring",
+  "example_de": "Im Frühling blühen die Bäume.",
+  "example_en": "In spring the trees bloom."
+ },
+ {
+  "id": "das-fruehjahr",
+  "de": "Frühjahr",
+  "article": "das",
+  "plural": null,
+  "meaning": "spring",
+  "example_de": "Das Frühjahr ist eine schöne Zeit.",
+  "example_en": "Spring is a beautiful time."
+ },
+ {
+  "id": "der-sommer",
+  "de": "Sommer",
+  "article": "der",
+  "plural": null,
+  "meaning": "summer",
+  "example_de": "Im Sommer gehe ich schwimmen.",
+  "example_en": "In summer I go swimming."
+ },
+ {
+  "id": "der-herbst",
+  "de": "Herbst",
+  "article": "der",
+  "plural": null,
+  "meaning": "autumn",
+  "example_de": "Im Herbst ist es kühl.",
+  "example_en": "In autumn it is cool."
+ },
+ {
+  "id": "der-winter",
+  "de": "Winter",
+  "article": "der",
+  "plural": null,
+  "meaning": "winter",
+  "example_de": "Im Winter schneit es oft.",
+  "example_en": "In winter it often snows."
+ },
+ {
+  "id": "euro",
+  "de": "Euro",
+  "article": null,
+  "plural": null,
+  "meaning": "euro",
+  "example_de": "Das Brot kostet einen Euro.",
+  "example_en": "The bread costs one euro."
+ },
+ {
+  "id": "cent",
+  "de": "Cent",
+  "article": null,
+  "plural": null,
+  "meaning": "cent",
+  "example_de": "Ein Euro hat hundert Cent.",
+  "example_en": "One euro has one hundred cents."
+ },
+ {
+  "id": "der-meter",
+  "de": "Meter",
+  "article": "der",
+  "plural": null,
+  "meaning": "metre",
+  "example_de": "Der Tisch ist zwei Meter lang.",
+  "example_en": "The table is two metres long."
+ },
+ {
+  "id": "der-zentimeter",
+  "de": "Zentimeter",
+  "article": "der",
+  "plural": null,
+  "meaning": "centimetre",
+  "example_de": "Der Stift ist zehn Zentimeter lang.",
+  "example_en": "The pen is ten centimetres long."
+ },
+ {
+  "id": "der-quadratmeter",
+  "de": "Quadratmeter",
+  "article": "der",
+  "plural": null,
+  "meaning": "square metre",
+  "example_de": "Meine Wohnung hat sechzig Quadratmeter.",
+  "example_en": "My flat has sixty square metres."
+ },
+ {
+  "id": "der-grad",
+  "de": "Grad",
+  "article": "der",
+  "plural": null,
+  "meaning": "degree",
+  "example_de": "Heute sind es zehn Grad.",
+  "example_en": "Today it is ten degrees."
+ },
+ {
+  "id": "kilometer",
+  "de": "Kilometer",
+  "article": null,
+  "plural": null,
+  "meaning": "kilometre",
+  "example_de": "Die Stadt ist zehn Kilometer entfernt.",
+  "example_en": "The town is ten kilometres away."
+ },
+ {
+  "id": "das-prozent",
+  "de": "Prozent",
+  "article": "das",
+  "plural": null,
+  "meaning": "percent",
+  "example_de": "Ich habe zehn Prozent Rabatt bekommen.",
+  "example_en": "I got ten percent discount."
+ },
+ {
+  "id": "der-liter",
+  "de": "Liter",
+  "article": "der",
+  "plural": null,
+  "meaning": "litre",
+  "example_de": "Ich trinke einen Liter Wasser.",
+  "example_en": "I drink one litre of water."
+ },
+ {
+  "id": "das-gramm",
+  "de": "Gramm",
+  "article": "das",
+  "plural": null,
+  "meaning": "gram",
+  "example_de": "Ich brauche hundert Gramm Käse.",
+  "example_en": "I need one hundred grams of cheese."
+ },
+ {
+  "id": "das-pfund",
+  "de": "Pfund",
+  "article": "das",
+  "plural": null,
+  "meaning": "pound (500 g)",
+  "example_de": "Ein Pfund Äpfel, bitte.",
+  "example_en": "One pound of apples, please."
+ },
+ {
+  "id": "das-kilo",
+  "de": "Kilo",
+  "article": "das",
+  "plural": null,
+  "meaning": "kilo (kilogram)",
+  "example_de": "Ein Kilo Kartoffeln, bitte.",
+  "example_en": "One kilo of potatoes, please."
+ },
+ {
+  "id": "deutschland",
+  "de": "Deutschland",
+  "article": null,
+  "plural": null,
+  "meaning": "Germany",
+  "example_de": "Ich wohne in Deutschland.",
+  "example_en": "I live in Germany."
+ },
+ {
+  "id": "europa",
+  "de": "Europa",
+  "article": null,
+  "plural": null,
+  "meaning": "Europe",
+  "example_de": "Deutschland liegt in Europa.",
+  "example_en": "Germany is in Europe."
+ },
+ {
+  "id": "der-deutsche",
+  "de": "Deutsche",
+  "article": "der",
+  "plural": "Deutschen",
+  "meaning": "German (person)",
+  "example_de": "Die Deutsche wohnt in Berlin.",
+  "example_en": "The German woman lives in Berlin."
+ },
+ {
+  "id": "deutsch",
+  "de": "deutsch",
+  "article": null,
+  "plural": null,
+  "meaning": "German (adjective)",
+  "example_de": "Mein Freund ist deutsch.",
+  "example_en": "My friend is German."
+ },
+ {
+  "id": "der-europaeer",
+  "de": "Europäer",
+  "article": "der",
+  "plural": "Europäer",
+  "meaning": "European (person)",
+  "example_de": "Er ist ein Europäer.",
+  "example_en": "He is a European."
+ },
+ {
+  "id": "europaeisch",
+  "de": "europäisch",
+  "article": null,
+  "plural": null,
+  "meaning": "European (adjective)",
+  "example_de": "Wir reisen gern in europäische Länder.",
+  "example_en": "We like to travel to European countries."
+ },
+ {
+  "id": "tuerkei",
+  "de": "Türkei",
+  "article": null,
+  "plural": null,
+  "meaning": "Turkey",
+  "example_de": "Meine Familie reist in die Türkei.",
+  "example_en": "My family travels to Turkey."
+ },
+ {
+  "id": "der-tuerke",
+  "de": "Türke",
+  "article": "der",
+  "plural": "Türken",
+  "meaning": "Turkish man",
+  "example_de": "Mein Nachbar ist ein Türke.",
+  "example_en": "My neighbour is a Turkish man."
+ },
+ {
+  "id": "die-tuerkin",
+  "de": "Türkin",
+  "article": "die",
+  "plural": "Türkinnen",
+  "meaning": "Turkish woman",
+  "example_de": "Meine Freundin ist Türkin.",
+  "example_en": "My friend is a Turkish woman."
+ },
+ {
+  "id": "tuerkisch",
+  "de": "türkisch",
+  "article": null,
+  "plural": null,
+  "meaning": "Turkish (adjective)",
+  "example_de": "Ich mag türkisches Essen.",
+  "example_en": "I like Turkish food."
+ },
+ {
+  "id": "finnland",
+  "de": "Finnland",
+  "article": null,
+  "plural": null,
+  "meaning": "Finland",
+  "example_de": "Finnland liegt im Norden.",
+  "example_en": "Finland is in the north."
+ },
+ {
+  "id": "der-finne",
+  "de": "Finne",
+  "article": "der",
+  "plural": "Finnen",
+  "meaning": "Finn (man)",
+  "example_de": "Er ist ein Finne.",
+  "example_en": "He is a Finn."
+ },
+ {
+  "id": "die-finnin",
+  "de": "Finnin",
+  "article": "die",
+  "plural": "Finninnen",
+  "meaning": "Finn (woman)",
+  "example_de": "Sie ist eine Finnin.",
+  "example_en": "She is a Finn."
+ },
+ {
+  "id": "finnisch",
+  "de": "finnisch",
+  "article": null,
+  "plural": null,
+  "meaning": "Finnish (adjective)",
+  "example_de": "Sie lernt finnisch.",
+  "example_en": "She is learning Finnish."
+ },
+ {
+  "id": "mexiko",
+  "de": "Mexiko",
+  "article": null,
+  "plural": null,
+  "meaning": "Mexico",
+  "example_de": "Mexiko ist ein schönes Land.",
+  "example_en": "Mexico is a beautiful country."
+ },
+ {
+  "id": "der-mexikaner",
+  "de": "Mexikaner",
+  "article": "der",
+  "plural": "Mexikaner",
+  "meaning": "Mexican (man)",
+  "example_de": "Mein Freund ist Mexikaner.",
+  "example_en": "My friend is Mexican."
+ },
+ {
+  "id": "die-mexikanerin",
+  "de": "Mexikanerin",
+  "article": "die",
+  "plural": "Mexikanerinnen",
+  "meaning": "Mexican (woman)",
+  "example_de": "Meine Lehrerin ist Mexikanerin.",
+  "example_en": "My teacher is Mexican."
+ },
+ {
+  "id": "mexikanisch",
+  "de": "mexikanisch",
+  "article": null,
+  "plural": null,
+  "meaning": "Mexican (adjective)",
+  "example_de": "Ich esse gern mexikanisch.",
+  "example_en": "I like eating Mexican food."
+ },
+ {
+  "id": "schwarz",
+  "de": "schwarz",
+  "article": null,
+  "plural": null,
+  "meaning": "black",
+  "example_de": "Mein Hund ist schwarz.",
+  "example_en": "My dog is black."
+ },
+ {
+  "id": "weiss",
+  "de": "weiß",
+  "article": null,
+  "plural": null,
+  "meaning": "white",
+  "example_de": "Die Wand ist weiß.",
+  "example_en": "The wall is white."
+ },
+ {
+  "id": "grau",
+  "de": "grau",
+  "article": null,
+  "plural": null,
+  "meaning": "grey",
+  "example_de": "Der Himmel ist grau.",
+  "example_en": "The sky is grey."
+ },
+ {
+  "id": "rot",
+  "de": "rot",
+  "article": null,
+  "plural": null,
+  "meaning": "red",
+  "example_de": "Die Rose ist rot.",
+  "example_en": "The rose is red."
+ },
+ {
+  "id": "gelb",
+  "de": "gelb",
+  "article": null,
+  "plural": null,
+  "meaning": "yellow",
+  "example_de": "Die Sonne ist gelb.",
+  "example_en": "The sun is yellow."
+ },
+ {
+  "id": "blau",
+  "de": "blau",
+  "article": null,
+  "plural": null,
+  "meaning": "blue",
+  "example_de": "Das Meer ist blau.",
+  "example_en": "The sea is blue."
+ },
+ {
+  "id": "braun",
+  "de": "braun",
+  "article": null,
+  "plural": null,
+  "meaning": "brown",
+  "example_de": "Mein Tisch ist braun.",
+  "example_en": "My table is brown."
+ },
+ {
+  "id": "gruen",
+  "de": "grün",
+  "article": null,
+  "plural": null,
+  "meaning": "green",
+  "example_de": "Das Gras ist grün.",
+  "example_en": "The grass is green."
+ },
+ {
+  "id": "der-norden",
+  "de": "Norden",
+  "article": "der",
+  "plural": null,
+  "meaning": "north",
+  "example_de": "Hamburg liegt im Norden.",
+  "example_en": "Hamburg is in the north."
+ },
+ {
+  "id": "der-sueden",
+  "de": "Süden",
+  "article": "der",
+  "plural": null,
+  "meaning": "south",
+  "example_de": "München liegt im Süden.",
+  "example_en": "Munich is in the south."
+ },
+ {
+  "id": "der-westen",
+  "de": "Westen",
+  "article": "der",
+  "plural": null,
+  "meaning": "west",
+  "example_de": "Die Sonne geht im Westen unter.",
+  "example_en": "The sun sets in the west."
+ },
+ {
+  "id": "der-osten",
+  "de": "Osten",
+  "article": "der",
+  "plural": null,
+  "meaning": "east",
+  "example_de": "Die Sonne geht im Osten auf.",
+  "example_en": "The sun rises in the east."
+ }
+]
